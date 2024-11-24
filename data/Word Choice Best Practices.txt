@@ -1,0 +1,47 @@
+**Word Choice Best Practices**
+
+### Negative Phrasing vs. Positive Phrasing
+
+| **Negative Phrasing** | **Positive Phrasing** |
+| --- | --- |
+| Focuses on what not to do and the negative consequences | Focuses on what you should do and the positive outcomes |
+| Doesn't offer solutions | Offers options |
+
+### Avoiding Negative Language
+
+*   Use "I am not" instead of "I'm not"
+*   Use "You are not" instead of "You're not"
+
+Example:
+**Incorrect:** I am not good at math.
+**Correct:** I struggle with math.
+
+### Using Positive Language
+
+*   Focus on what you can do, rather than what you can't
+*   Emphasize the positive outcomes and benefits
+
+Example:
+**Incorrect:** The company is downsizing to cut costs.
+**Correct:** The company is restructuring to improve efficiency and reduce expenses.
+
+### Word Choice Best Practices
+
+| **Negative Words to Avoid** | **Positive Words to Use** |
+| --- | --- |
+| Don't, Not, Can't, Won't | Can, Will, Able, Ready |
+| Negative adjectives (e.g., bad, poor) | Positive adjectives (e.g., good, excellent) |
+
+Example:
+**Incorrect:** The new policy is bad.
+**Correct:** The new policy is excellent.
+
+### Inclusive Language
+
+*   Use gender-neutral language
+*   Avoid ableism and inclusive language
+*   Use people-first language
+
+Example:
+**Incorrect:** He's a disabled person.
+**Correct:** They're a person with a disability.
