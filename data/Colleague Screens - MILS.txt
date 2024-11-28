@@ -1,0 +1,158 @@
+**Department of Student Affairs**
+
+* **Office:** Office of Military and Veteran Affairs
+* **Colleague: MILS Screen**
+* **Effective Date:** August 22, 2014
+* **Updated By:** J. Busby on August 28, 2014
+
+**Background**
+
+In April 2014, a new functionality was introduced in Colleague for managing student records of military and veteran students. MILS (Military Student Information) identifies a student's primary military status, military installation, tuition benefit usage, whether they have had a Student Agreement completed or not, when it was completed, their MOS rating, and pay grade. Some of this functionality replaced what was previously in the MINF screen and the NAE screen, while other functionality is brand new to Colleague.
+
+**The Purpose of This Procedure**
+
+* Inform users about what information can be identified in MILS
+* Inform users on when and how information should be entered and updated in MILS
+* Inform users of the importance of maintaining end dates in MILS
+
+**Definitions**
+
+* **Current Servicemember:** A student who is currently serving in any military branch (Active Duty, National Guard, or Reserves)
+* **Federal Tuition Assistance (FTA):** Funding available for current servicemembers in all military branches
+* **GoArmyEd (GAE):** Student using FTA through the GoArmyEd portal
+* **National Guard Scholarship (NGS):** Student who has been awarded funding through the Ohio National Guard Scholarship Program (ONGSP)
+* **SF182 Army Civilian Training:** Army civilian using funding through the GoArmyEd portal
+
+**Related Resources**
+
+* **GoArmyEd Portal:** [www.goarmyed.com](http://www.goarmyed.com/)
+* **Ohio National Guard Scholarship Program (ONGSP):** [https://ong.ohio.gov/scholarship_index.html](https://ong.ohio.gov/scholarship_index.html)
+* **Air Force Portal:** [https://aiportal.acc.af.mil/aiportal/](https://aiportal.acc.af.mil/aiportal/)
+* **Coast Guard Tuition Assistance:** [http://www.uscg.mil/yqf/cgijactive_duty/pay_for_college/ta/default.asp](http://www.uscg.mil/yqf/cgijactive_duty/pay_for_college/ta/default.asp)
+* **Navy Tuition Assistance:** [https://navycollege.navy.mil/ta_info.aspx](https://navycollege.navy.mil/ta_info.aspx)
+* **Marine Corps Tuition Assistance:** [https://www.marines.com/tuition-assistance.htm](https://www.marines.com/tuition-assistance.htm)
+
+**MILS Overview**
+
+1. The MILS screen is used to identify if students have Military Status of Active Duty, National Guard, or Reserves and are using Tuition Assistance benefits available through their branch of service.
+2. Primary Military Status is shown at the top of the screen - same information as PEMS.
+3. Students should NEVER have a primary Military Status = Veteran and have active funding in the MILS screen.
+
+**Contact Information**
+
+* Department of Student Affairs
+* Office of Military and Veteran Affairs
+* Otterbein University
+* 201 S Grant Ave, Columbus, OH 43215**Franklin University**
+
+**MILS - Military Student Information**
+
+*   Primary military status: Active Duty Army
+*   Selective Service Registration Number: Not applicable (cur SOC elig/SOC elig dt)
+*   Visiting Stu/Visiting From: Not applicable (visiting stu/visiting from)
+*   Military Installation: GEO Ed Center
+*   Overall Comm Code: Not applicable (overall comm code)
+
+**GOARMYED**
+
+*   If student is using GoArmyEd funding, should be tracked in MILS
+
+**MILS - Military Student Information**
+
+*   Branch: Army
+*   Military Benefit: ARMY Army
+*   GAE Go Army Ed: 06/24/2014
+
+**GOARMYED**
+
+*   If student is using GoArmyEd funding, should be tracked in MILS
+
+**FRANKLIN UNIVERSITY**
+
+*   Primary military status: Active Duty Army
+*   Selective Service Registration Number: Not applicable (cur SOC elig/SOC elig dt)
+*   Visiting Stu/Visiting From: Not applicable (visiting stu/visiting from)
+*   Military Installation: GEO Ed Center
+*   Overall Comm Code: Not applicable (overall comm code)
+
+**GOARMYED**
+
+*   If student is using GoArmyEd funding, should be tracked in MILS
+
+**MILS - Military Student Information**
+
+*   Branch: Army
+*   Military Benefit: ARMY Army
+*   GAE Go Army Ed: 06/24/2014**National Guard Scholarship**
+
+*   **Step 1: Determine Eligibility**
+    *   Check if the student is eligible for the National Guard Scholarship.
+    *   The scholarship is available to students who are members of the National Guard.
+*   **Step 2: Complete Application**
+    *   If eligible, complete an application for the scholarship.
+    *   Provide required documentation, such as proof of membership in the National Guard and transcripts.
+*   **Step 3: Review Application**
+    *   Review the application carefully to ensure all necessary information is included.
+    *   Make sure to sign and date the application.
+*   **Step 4: Submit Application**
+    *   Submit the completed application to the designated office or website.
+    *   Follow any additional instructions provided.
+
+**Other Federal Tuition Assistance**
+
+*   **Step 1: Determine Eligibility**
+    *   Check if the student is eligible for other federal tuition assistance programs.
+    *   These programs may include Pell Grants, Federal Direct Loans, and Work-Study Programs.
+*   **Step 2: Complete Application**
+    *   If eligible, complete an application for one of these programs.
+    *   Provide required documentation, such as transcripts and financial information.
+*   **Step 3: Review Application**
+    *   Review the application carefully to ensure all necessary information is included.
+    *   Make sure to sign and date the application.
+*   **Step 4: Submit Application**
+    *   Submit the completed application to the designated office or website.
+    *   Follow any additional instructions provided.
+
+**Managing National Guard Scholarship Information**
+
+*   **Step 1: Update Term-by-Term Letters**
+    *   End dates should be updated term by term as students submit their approval letters.
+*   **Step 2: Document Receipt of Approval Letter**
+    *   Document receipt of the approval letter and note it in STCM.
+*   **Step 3: Create CRM Interaction**
+    *   Create a CRM interaction to track the student's progress through the application process.
+
+**Other Federal Tuition Assistance**
+
+*   **Step 1: Determine Eligibility**
+    *   Check if the student is eligible for other federal tuition assistance programs.
+    *   These programs may include Pell Grants, Federal Direct Loans, and Work-Study Programs.
+*   **Step 2: Complete Application**
+    *   If eligible, complete an application for one of these programs.
+    *   Provide required documentation, such as transcripts and financial information.
+*   **Step 3: Review Application**
+    *   Review the application carefully to ensure all necessary information is included.
+    *   Make sure to sign and date the application.
+*   **Step 4: Submit Application**
+    *   Submit the completed application to the designated office or website.
+    *   Follow any additional instructions provided.**SF182 CIVILIAN FUNDING**
+
+This coding is applied when an Army Civilian has been approved to take courses through GoArmyEd portal.
+
+*   Usually entered by Laura Coulter
+*   Military Branch will always be Army
+
+**MULTIPLE MILITARY BENEFITS**
+
+Do have the ability to enter multiple military benefits in the event student is using:
+
+*   GoArmyEd and National Guard Scholarship
+*   Other Federal Tuition Assistance and National Guard Scholarship
+
+To enter an additional benefit, click on any of the fields within the Military Benefit section.
+
+**STUDENT AGREEMENT TRACKING**
+
+Functionality still in process of being developed
+
+When completed, will allow for automated creation of Student Agreements and tracking in MILS

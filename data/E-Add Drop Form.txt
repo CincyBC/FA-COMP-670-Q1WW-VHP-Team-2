@@ -1,0 +1,67 @@
+**Course Registration & Add/Drop Form**
+
+### Course Information
+
+* **Department**: Catalog #110
+* **Section**: Ex. Acct 02
+* **Class Number**: 110-02
+
+### Student Information
+
+* **Name**: [Not Provided]
+* **Student ID**: [Not Provided]
+
+### Course Schedule
+
+| Date | Time |
+| --- | --- |
+| Mon, Wed, Fri | 9:00 AM - 10:15 AM |
+| Tue, Thu | 11:30 AM - 12:45 PM |
+
+### Instructor Information
+
+* **Instructor Name**: [Not Provided]
+* **Office Hours**: [Not Provided]
+
+### Course Description
+
+[Insert course description here]
+
+### Evaluation Criteria
+
+[Insert evaluation criteria here]
+
+### Additional Requirements
+
+* **Attendance Policy**: Regular attendance is expected. More than two unexcused absences will negatively impact your participation grade.
+* **Late Work Policy**: Late work will not be accepted unless approved by the instructor in advance.
+
+### Contact Information
+
+* **Instructor Email**: [Insert email address]
+* **Office Phone Number**: [Insert phone number]
+
+### Important Dates
+
+| Date | Event |
+| --- | --- |
+| Jan 10 | Last day to add or drop without penalty |
+| Feb 14 | Midterm exam |
+| Apr 1 | Final exam |
+
+**Add/Drop Information**
+
+* **Last Day to Add/Drop**: [Insert date]
+* **Late Drop Fee**: $[Insert amount]
+
+### Academic Integrity
+
+Plagiarism and cheating are considered serious offenses. Any instances of academic dishonesty will be reported to the appropriate authorities.
+
+### Accessibility Services
+
+If you require accommodations due to a disability, please contact the Accessibility Office at [Insert phone number or email address].
+
+### Withdrawal Policy
+
+Withdrawals must be completed by [Insert date]. A withdrawal form is available in the Registrar's Office.

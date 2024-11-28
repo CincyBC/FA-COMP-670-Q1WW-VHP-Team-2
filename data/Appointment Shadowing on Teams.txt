@@ -1,0 +1,31 @@
+**Appointment Shadowing on Teams**
+
+This procedural document is designed to guide trainers through the process of conducting a new hire shadow call as part of their training using Microsoft Teams.
+
+**Step 1: Call Employee Through Teams (Not Cisco Phone)**
+
+*   The trainer must initiate a call with the employee they are scheduled to shadow.
+*   This call should be made directly through Teams, not via a Cisco phone.
+
+**Step 2: Share Screen**
+
+*   Once connected, the trainer will need to share their screen with the employee.
+*   This allows both parties to view and interact with the same content during the call.
+
+By following these steps, trainers can effectively utilize Microsoft Teams to facilitate new hire shadow calls, enhancing the training experience for employees.The image shows a step-by-step guide on how to start a video call with multiple participants. The guide is divided into four steps, each accompanied by a screenshot of a Microsoft Teams screen.
+
+*   **Step 1: Click on the "Participants" icon**
+    *   This step is not explicitly stated in the text but can be inferred from the first screenshot.
+    *   The participant's icon is located at the top right corner of the screen and has three people symbols inside it.
+    *   When clicked, this icon opens a new window displaying all participants who have joined the meeting.
+*   **Step 2: Invite someone to join the call**
+    *   To invite someone to join the call, click on the "Invite someone or dial a number" button located at the bottom left corner of the screen.
+    *   This will open a new window where you can enter the phone number of the person you want to invite.
+*   **Step 3: Add the participant's name**
+    *   Once you have entered the phone number, click on the "Add" button to add the participant's name to the list of participants.
+    *   The participant will receive a notification that they have been invited to join the call.
+*   **Step 4: Start the video call**
+    *   After adding all desired participants, click on the "Start Video Call" button located at the top right corner of the screen.
+    *   This will initiate the video call and connect all participants.
+
+In summary, the guide provides a clear and concise step-by-step process for starting a video call with multiple participants using Microsoft Teams.

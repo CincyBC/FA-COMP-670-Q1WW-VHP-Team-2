@@ -1,0 +1,138 @@
+**Undergraduate Analytics Minors**
+
+*   **May 13, 2021**
+    *   Jiang Li
+    *   Nimet Alpay
+    *   Laurie Crawford**DATA/BUSA Minors Goals**
+
+* Provide a valuable skill option to all Franklin undergraduates.
+* Cover industry standard tools (Excel, SQL, Tableau, Python, R) as determined by job research.
+* Cover essential knowledge units for industry relevance.
+* Reuse as much curriculum as possible.
+
+**Do you look for undergraduate job candidates with analytics/data science background?**
+
+| **Yes/No** | **Percentage** |
+| --- | --- |
+| Yes | 48.13% |
+| No | 20.88% |
+
+Note: The chart shows the percentage of respondents who prefer candidates with data science/analytics background, and those who do not.**Analytics Skills Make Students Highly Marketable**
+
+The image presents a comprehensive analysis of the marketability of analytics skills acquired by students through various educational programs. The data is organized into two main categories: Business Analytics minor targets and Data Analytics minor targets.
+
+**Business Analytics Minor Targets**
+
+*   **Finance and Insurance**
+    *   26% of business analytics graduates are employed in finance and insurance
+    *   51% of functional analysts are employed in this sector
+*   **Healthcare and Social Assistance**
+    *   32% of business analytics graduates are employed in healthcare and social assistance
+    *   44% of functional analysts are employed in this sector
+*   **Information**
+    *   43% of business analytics graduates are employed in information-related fields
+    *   23% of functional analysts are employed in this sector
+
+**Data Analytics Minor Targets**
+
+*   **Manufacturing**
+    *   45% of data analytics graduates are employed in manufacturing
+    *   25% of functional analysts are employed in this sector
+*   **Professional, Scientific, and Technical Services**
+    *   30% of data analytics graduates are employed in professional, scientific, and technical services
+    *   29% of functional analysts are employed in this sector
+*   **Retail Trade**
+    *   46% of data analytics graduates are employed in retail trade
+    *   35% of functional analysts are employed in this sector
+
+In summary, the image highlights the strong marketability of analytics skills acquired through business analytics and data analytics programs. The data suggests that students who pursue these fields have a high likelihood of securing employment in various industries, including finance, healthcare, information, manufacturing, professional services, and retail trade.**Curriculum Overview**
+
+The curriculum is divided into two main sections: **Data Analytics Minor** and **Business Analytics Minor**.
+
+### Data Analytics Minor
+
+*   **Math 280**: COMP 111 or ITEE 136
+*   **Math 215**: PF 106
+*   **Data 300**: Introduction to Analytics
+    *   BUSA 200: Database Fundamentals
+    *   BUSA 250: SQL for Business
+    *   DATA 310: Data Visualization
+        *   DATA 400: Principles of Machine Learning
+            *   COMP 281: Issues in Database Management
+*   **Data 300**: Introduction to Analytics
+    *   DATA 310: Data Visualization
+        *   BUSA 350: Principles of Analytics Modeling
+
+### Business Analytics Minor
+
+*   **Math 280**: COMP 111 or ITEE 136
+*   **Math 215**: PF 106
+*   **Data 300**: Introduction to Analytics
+    *   DATA 310: Data Visualization
+        *   BUSA 350: Principles of Analytics Modeling
+            *   BUSA 200: Database Fundamentals
+*   **Data 300**: Introduction to Analytics
+    *   BUSA 250: SQL for Business
+        *   DATA 400: Principles of Machine Learning
+            *   COMP 281: Issues in Database Management
+
+**Legend**
+
+*   Shared Analytics Courses:
+    *   Data 310: Data Visualization
+*   Data Analytics Minor Courses:
+    *   Data 300: Introduction to Analytics
+    *   Data 400: Principles of Machine Learning
+*   Business Analytics Minor Courses:
+    *   Busa 200: Database Fundamentals
+    *   Busa 250: SQL for Business
+    *   Busa 350: Principles of Analytics Modeling**Prerequisites and Schedules**
+
+### COMP 281 - Database Management Systems
+
+* Existing course: COMP 281
+* Instructor: LF Laurie Crawford
+* Schedule: 21FA, onlineR
+
+### DATA 300 - Introduction to Analytics
+
+* Redesigned from INFA 300
+* Instructor: LF Jiang Li
+* Prerequisites:
+	+ MATH 215 or MATH 280
+	+ PF 106 or COMP 111 or ITEE 136
+* Schedule: 21FA, onlineU
+
+### DATA 310 - Data Visualization
+
+* Redesigned from INFA 350
+* Instructor: LF Nimet Alpay
+* Prerequisites:
+	+ DATA 300
+	+ BUSA 250 or COMP 281
+* Schedule: 22SP
+
+### DATA 400 - Principles of Machine Learning
+
+* Same as COMP 411
+* Instructor: LF Jiang Li
+* Schedule: 21FA, onlineR### BUSA 200 - Database Fundamentals
+
+*   **Prerequisites:** PF 121 or PF 321
+*   **Schedule:** 21FA online F
+
+### BUSA 250 - SQL for Business
+
+*   **Prerequisites:** BUSA 200, MATH 215, or MATH 280
+*   **Schedule:** 21FA online H
+
+### BUSA 350 - Principles of Analytics Modeling (Redesign)
+
+*   **Prerequisites:** DATA 300
+*   **Schedule:** 21FA online H**Suggestions**
+
+1.  Please let the INFA students know that INF A300 and INF A420 will be replaced by DATA 300 and BUSA 350 from Fall 2021. Also, BUSA 350 is a 6-week course.
+
+2.  If students are interested in analytics but hesitate to take DATA 300, please let them know this course introduces analytics principles and the hands-on course design using McGraw Hill's interactive textbook and web-based assignment platform can help them learn smoothly.
+
+3.  Please clarify the differences between BUSA 200 and BUSA 250: The former is an introduction to database fundamentals while the latter focuses on SQL in real-world business problems. A convenient web-based database interface will be used.
