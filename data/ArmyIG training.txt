@@ -1,0 +1,93 @@
+**Reminder**
+
+* The Army has updated its TA policy.
+* As of now, students are required to request TA at least 7 days before the start date of their course.
+* Previously, students were able to submit requests up to 6 days prior to the class start date.
+* Starting October 1st, 2022, or later, students will only be able to request TA for classes with a start date of October 1st, 2022, or later.
+* Additionally, an exception to policy (ETP) will no longer be authorized for FY23 courses.**Upgraded ArmyIgnited Launch**
+
+*   **Soldiers will establish a new ArmyIgnited account at https://armyignited.army.mil using their Common Access Card (CAC).**
+    *   Logging in is no longer required to access the new site.
+*   **Soldiers are required to complete virtual TA training after creating an account and logging in.**
+    *   The training will be available after establishing a new account.
+*   **Soldiers must request Tuition Assistance (TA) via ArmyIgnited for classes with start dates on or after October 1, 2022.**
+    *   Soldiers must submit their requests no earlier than 60 days and no later than 7 days prior to the start date of the course.
+*   **Soldiers will establish their Education Goal in the ArmyIgnited portal and use it to input required information.**
+    *   The Education Goal is a crucial step in utilizing ArmyIgnited for education-related purposes.
+*   **Annual limits of 16 semester hours ($250 max per SH) apply to Soldiers.**
+    *   This limit ensures that Soldiers have a clear understanding of their financial obligations and can plan accordingly.
+*   **Soldiers must have grades posted to the system within 14 days of the course end date or Tuition Assistance Request will be sent for recoupment.**
+    *   This timeframe is crucial to ensure timely processing of requests and avoid any potential issues.
+
+In summary, the upgraded ArmyIgnited launch introduces new requirements for Soldiers to establish a new account, complete virtual TA training, request Tuition Assistance, establish their Education Goal, adhere to annual limits, and ensure timely grade posting. These changes aim to streamline the education process while maintaining accountability and transparency.Soldiers should contact their Academic Institution (AI) and request an Evaluated Degree Plan which shows the schools name, the Soldier's name, degree pursuing, total number of semester hours required to complete the degree, the total number of transfer hours already completed with school, the total number of transfer hours applied towards the degree program, and the total number of remaining hours.
+
+An Evaluated Degree Plan is required prior to completion of two classes or a hold will be placed on the Soldier's ArmyIgnited account (previously a hold was placed after completion of 6 SH).
+
+There will be no recoupment waivers for failing grades. A Recoupment Waiver must be submitted within 30 days of the W grade being posted by the AI in ArmyIgnited (previously within 3 years).
+
+Soldiers participating in Most Nation Language and Armed-forced Strategic Languages classes will be required to take the DIPT or OPI if a DIPT is not available after completion of 6 SHs. There is no minimum required score. If Soldiers do not take the required DIPT or OPI within 30 days of grade posting, they will be recouped for their previous 6 SHs (no previous requirement for language testing).
+
+The class end date of the course must be no later than 14 days prior to ETS.
+
+Soldiers should contact their SI for any issues with their civilian education level not matching what is in ArmyIgnited portal.How do I request tuition assistance for a course?
+
+### Step 1: Access the Tuition Assistance Request Page
+
+*   Click on the "Apply for Tuition Assistance" button to access the tuition assistance request page.
+
+### Step 2: Select Your Course
+
+*   Choose the course you want to apply for tuition assistance.
+*   Enter your student ID number and select the term (e.g., Fall, Spring, or Summer).
+
+### Step 3: Review Your Application
+
+*   Carefully review your application to ensure all information is accurate and complete.
+
+### Step 4: Submit Your Application
+
+*   Click on the "Submit" button to submit your application for tuition assistance.**How many courses can I take before required to upload my evaluated degree plan?**
+
+You are allowed to take a total of 2 courses before being required to upload an official, individualized degree plan from your academic institution.
+
+**How do I create an education goal?**
+
+*   Choose the Education Goals tab on the left side of your dashboard.
+*   Click the Create a New Goal icon.
+*   Select the type of degree you are pursuing.
+*   Follow prompts to enter your Academic Institution and student ID number (optional).
+*   Choose your academic program.
+*   Upload an evaluated degree plan (optional at goal creation).
+*   Enter the number of credits required for your degree.
+*   Be sure to check the QH box if relevant.
+*   Submit your goal and review it.How will my Tuition Assistance (TA) requests that I couldn't get into the previous ArmyIgnitED get processed and paid?
+
+The processing and payment of TA requests that were not previously approved is currently being addressed by the relevant authorities. It's important to note that these requests are being evaluated on a case-by-case basis, taking into account the specific circumstances surrounding each request.
+
+**Key Considerations:**
+
+*   The decision-making process involves considering various factors, including but not limited to:
+    *   The validity of the original request
+    *   Any changes or updates made since the initial submission
+    *   Compliance with relevant regulations and policies
+
+The outcome of these evaluations will determine whether the requests are approved or denied. If approved, payment will be processed accordingly.
+
+**Future Developments:**
+
+*   It's worth noting that ongoing efforts aim to streamline and improve the processing and payment of TA requests.
+*   This includes implementing new systems and procedures designed to enhance efficiency and reduce delays in this process.
+
+As these developments continue, it's essential for requestors to stay informed about any updates or changes.**How do I change my Education Goal?**
+
+*   Click on the education goal tab located on the left side of your dashboard.
+*   Create a new education goal.
+
+**In order to change the education goal, the current goal needs to be updated or obsolete. Your school will update the goal when you graduate, and your education center can update it upon request.**
+
+**How do I upload my Evaluated Degree Plan from my Academic Institution?**
+
+*   Upload your evaluated degree plan when you create your education goal.
+*   If your education goal has already been created, you will need to provide your education center with an evaluated degree plan. The education center will then upload it to your ArmyIgnitED record.
+
+**Note:** See the "Creating an Education Goal Tutorial" for more information. Contact your education center for assistance.

@@ -1,0 +1,7 @@
+[project]
+authors = [
+  {name = "Bryan Corder"},
+  {name = "Chris Nance"},
+  {name = "Cody Wofford"},
+]
+description = "Team 2's Comp-670 Virtual Human Project"
