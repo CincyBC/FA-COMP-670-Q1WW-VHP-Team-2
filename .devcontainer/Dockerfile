@@ -13,8 +13,8 @@ COPY requirements.txt .
 RUN pip install --upgrade pip && pip install --no-cache-dir -r requirements.txt
 
 RUN mkdir /app 
-COPY ./app ./app
+COPY /app ./app
 WORKDIR /app
 
-EXPOSE 8000
-CMD ["chainlit", "run", "app.py", "-w"]
+EXPOSE 8082
+CMD ["chainlit", "run", "app.py", "-w", "--port", "8082"]

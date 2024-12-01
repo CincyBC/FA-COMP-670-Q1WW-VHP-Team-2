@@ -1,88 +1,58 @@
 import os
 import chainlit as cl
-import openai
+from groq import AsyncGroq
+from context.opening_context import opening_context
 
-import torch
-
-import os
-from typing import List, Optional
-
-from chainlit import AskUserMessage, Message, on_chat_start
-
-from llama_index.core import KeywordTableIndex, SimpleDirectoryReader
-from llama_index.core.llms import ChatMessage
-from llama_index.core import VectorStoreIndex
-from llama_index.core import Settings
-from llama_index.core import get_response_synthesizer
-from llama_index.core.query_engine import RetrieverQueryEngine
-
-from huggingface_hub import login
-
-HF_TOKEN: Optional[str] = os.getenv("HUGGING_FACE_TOKEN")
-
-MODEL_NAME="mistralai/Mixtral-8x7B-Instruct-v0.1"
-# MODEL_NAME = "HuggingFaceH4/zephyr-7b-alpha"
-DATA_DIR = "data"
-
-# Create the data directory if it does not exist
-os.makedirs(DATA_DIR, exist_ok=True)
-
-if HF_TOKEN:
-    login(token=HF_TOKEN)
-else:
-    print("HUGGING_FACE_TOKEN not found.")
-    
-print("Loading data.")
-documents = SimpleDirectoryReader("data").load_data()
-print("Data loaded!")
-
-# Load the tokenizer and model
-# print("Loading tokenizer.")
-# tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, token=HF_TOKEN)
-
-# print("Loading model.")
-# model = AutoModelForCausalLM.from_pretrained(
-#     MODEL_NAME, token=HF_TOKEN, device_map="auto"
-# )
-# llm = HuggingFaceInferenceAPI(
-#     repo_id=MODEL_NAME,
-#     token=HF_TOKEN,
-#     max_new_tokens=256,
-#     temperature=0.7,
-#     top_k=50,
-#     top_p=0.95,
-# )
-# index = VectorStoreIndex.from_documents(documents, llm=llm)
-# query_engine = index.as_query_engine()
-# print("Model loaded!")
+client = AsyncGroq(api_key=os.environ.get("GROQ_TOKEN"))
 
 @cl.on_chat_start
-async def main():
-    user_id = cl.user_session.get("id")
-    greeting_msg = cl.Message(content="Hello! How can I assist you?")
-    await greeting_msg.send()
-    print(f"Session started for user: {user_id}")
+async def start():
+    cl.user_session.set("model", "llama3-8b-8192")
+    cl.user_session.set("streaming", True)
+    cl.user_session.set("temperature", 0.5)
+    cl.user_session.set("max_tokens", 1024)
 
-# Handle user input
+    cl.user_session.set("conversation_history", [
+        {"role": "system", "content": opening_context}
+    ])
+    await cl.Message(
+        author="Assistant", content="Hello! I am a Franklin University automated advisor. How may I assist you?"
+    ).send()
+
 @cl.on_message
-async def handle_message(message: cl.Message):
-    user_id = cl.user_session.get("id")
-    user_input = message.content.strip()
-    res_content = simulate_response(user_input)
-    res_msg = cl.Message(content=res_content)
+async def main(message: cl.Message):
+    model = cl.user_session.get("model")
+    streaming = cl.user_session.get("streaming")
+    temperature = cl.user_session.get("temperature")
+    max_tokens = cl.user_session.get("max_tokens")
 
-    try:
-        await res_msg.send()
-    except Exception as e:
-        error_content="I've encountered an error. Can you try again?"
-        await cl.Message(content=error_content).send()
-        print(f"{e}")
+    conversation_history = cl.user_session.get("conversation_history")
 
-@cl.on_chat_end
-def end():
-    user_id = cl.user_session.get("id")
-    print(f"Session ended for user: {user_id}")
+    conversation_history.append({"role": "user", "content": message.content})
 
-# Placeholder for generating a response
-def simulate_response(user_input: str) -> str:
-    return f"(Simulated Response): You said: '{user_input}'."
+    stream = await client.chat.completions.create(
+        messages=conversation_history,
+        model=model,
+        temperature=temperature,
+        max_tokens=max_tokens,
+        stream=streaming,
+    )
+
+    msg = cl.Message(content="")
+
+    full_response = ""
+    if streaming:
+        async for chunk in stream:
+            content = chunk.choices[0].delta.content
+            if content:
+                full_response += content
+                await msg.stream_token(content)
+        await msg.send()
+    else:
+        response = await stream
+        full_response = response.choices[0].message.content
+        await cl.Message(content=full_response).send()
+
+    conversation_history.append({"role": "assistant", "content": full_response})
+
+    cl.user_session.set("conversation_history", conversation_history)
