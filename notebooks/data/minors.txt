@@ -1,0 +1,2389 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minors | College Minors List | Franklin.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minors  
+
+Home
+                /  
+                                              Degrees
+                /  
+                                              Minors
+                          
+
+  Augment your skills with a minor
+
+
+
+Customize your degree by taking additional courses of interest, known as a minor, as part of your academic program.What is a minor and, more importantly, what can it do for you?Minors are additional courses outside of your major field of study. They usually enhance your major in some way, such as allowing you to develop special expertise within your field; or they allow you to add a new skillset to complement the ones you’re already acquiring within your major.For example, an accounting major may want to minor in business economics to secure a more segmented economics job in the field. Or, an information systems major may want to minor in communication in order to become a better presenter. The additional qualifications as a result of taking minor courses may lead to new opportunities and future advancement.And because you choose your minor based on your interests, your degree becomes completely unique to you. There’s no limit to how many minors you can have, though, with careful planning, you may be able to complete your minor as part of your required degree program hours.
+
+
+
+
+
+
+
+
+  Minors
+
+
+
+
+      Accounting  (16 hours)    
+
+
+Accounting is often referred to as the “language of business.” As such, the Accounting minor is designed to augment a student’s skill set for non-accounting-related business fields, including business administration and management. The knowledge obtained in this minor builds on core accounting courses with additional upper-level courses that cover both technical and theoretical accounting skills, preparing students to meet the opportunities and challenges of advanced positions. The educational objectives of the Accounting minor are to enable a student to:  Evaluate contemporary financial accounting issues,  Analyze federal income tax issues, and Analyze information systems through evaluation of process controls and organizational system risks within a business process.
+
+
+
+
+ACCT 310 - Intermediate Accounting I (4)
+Intermediate Accounting I is the first of two in-depth financial accounting courses. Theory, the conceptual framework, development of generally accepted accounting principles, and applications are stressed. Topics include the income statement, statement of cash flows and, the balance sheet, specifically the asset accounts.
+
+
+ACCT 320 - Intermediate Accounting II (4)
+This course is the second of two in-depth financial accounting courses. Theory, concepts, and applications are stressed. Topics include time value of money, current and non-current liabilities, leases, deferred taxes, retirement benefits, stockholders' equity, earnings per share, accounting changes and errors, and the statement of cash flows. 
+
+
+ACCT 390 - Federal Income Tax I (4)
+An introduction to the federal income tax structure with emphasis on the individual taxpayer, including employee, sole proprietor and investor. This course also provides exposure to basic concepts that apply equally, or with slight modification, to taxpayers other than individuals. Major topics include filing status, exemptions, excludable and includable income, business and non-business deductions, disallowances, technical tax research, and computer problem applications.
+
+
+ACCT 425 - Accounting Information Systems (4)
+This course creates a framework for accounting information systems by combining knowledge about business as it relates to information systems, information technology, and accounting. Students will examine the REA enterprise ontology as it relates to databases which can be used to store and retrieve information for decision-making within an organization. Students learn that in the competitive organizations of today, and tomorrow, accountants cannot simply prepare and report information; they must take a more active role in understanding and creating systems and processes that impact the organization's bottom line.
+
+
+
+
+
+
+
+      Artificial Intelligence (16 hours)    
+
+
+Artificial intelligence (AI) is a rapidly growing field with the potential to revolutionize many industries. As a result, there is a high demand for AI-skilled professionals. The Minor of Artificial Intelligence would provide students with the knowledge and skills they need to succeed in this field. 
+
+
+This program requires 16-credit hours. It is designed for computing technology students to gain significant exposure to the modern technical area of artificial intelligence, which can provide valuable knowledge and skill in the development of students’ majors and for the job market. 
+
+This program is intended for both students majoring in Computer Science as well as other tech majors with the necessary prerequisite knowledge who wish to acquire an in-depth knowledge and applicable technical skills in Artificial Intelligence. The curriculum reflects the importance of understanding and assessing the broader societal impacts and implications of AI methods and applications, including issues in AI ethics, fairness, trust, and explainability. 
+
+The Minor of Artificial Intelligence combines the current industry trends and the guidance from the latest Computer Science Curricula 2023 (Version Gamma) recommendation by the Joint Task Force on Computing Curricula of the leading professional organizations in computing and AI: The Association for Computing Machinery (ACM) IEEE-Computer Society (IEEE-CS), and Association for Advancement of Artificial Intelligence (AAAI). 
+
+
+
+
+DATA 400 - Principles of Machine Learning (4)
+Students will learn the basic concepts behind major machine learning algorithms, the essential steps for creating a typical machine learning model, the strengths and weaknesses of different algorithms, and the model evaluation using different performance metrics. Eventually, students will be able to build a prediction model by machine learning algorithm using Python language. The common problems in practical machine learning exercises and their solutions also will be discussed.
+
+
+COMP 372 - Introduction to Artificial Intelligence (4)
+This course provides a broad introduction to Artificial Intelligence in the context of real-world application. The course covers both fundamental concepts in AI, as well as applied work in areas such as machine learning and real-life case study to demonstrate AI applications in the physical world. Ethical considerations in AI are also highlighted to give students the awareness of how AI could impact the humans and the society. 
+
+
+COMP 374 - Introduction to Deep Learning (4)
+This course is an introduction to deep learning, a subfield of machine learning that uses artificial neural networks to solve complex problems. Deep learning has revolutionized many fields, including computer vision, natural language processing, and machine translation. In this course, students will learn the basics of artificial neural networks, including their architecture, training, and evaluation. Different types of deep learning models, such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and selected generative models; how to apply deep learning to solve real-world problems in a variety of domains, such as computer vision, natural language processing, and machine translation.
+The course will be taught using a combination of lectures, programming assignments, and projects. Students will gain hands-on experience with deep learning using Python and popular deep learning frameworks.
+
+
+COMP 376 - Artificial Intelligence Engineering (4)
+This course covers the skills to design, build, productionize, optimize, operate and maintain Artificial Intelligence/Machine Learning systems in the cloud. Students will learn how to extract, transform and load data from a variety of sources, create, develop and test machine learning models and then utilize application program interface (API) calls to build and implement AI applications in the cloud.
+
+
+
+
+
+
+
+      Business Analytics  (16 hours)    
+
+
+The Business Analytics Minor at Franklin University is designed for current students in non-technical majors with an opportunity to gain necessary analytics skills while majoring in their programs. Students learn to manipulate, visualize, and analyze data through a sequence of courses, apply basic analytics methods to solve business problems, and effectively communicate the results. The minor offers the convenience and flexibility of quality online/face-to-face/hybrid education, expert instructors with relevant and real-world experience, and strong student support from dedicated faculty, tutors, and advisors.
+
+
+
+
+BUSA 200 - Database Fundamentals (2)
+This introductory course focuses on applying information technology to business strategies using databases. The student will gain a working knowledge of current database technology, including relational database concepts, database design, data extraction, and data warehousing while working with database applications.
+
+
+BUSA 250 - SQL for Business (2)
+This course introduces data analytics using Structured Query Language (SQL). Students will learn how to apply SQL in data exploration analysis and business problem-solving.
+
+
+BUSA 350 - Principles of Analytics Modeling (4)
+This course introduces the principles of analytics modeling. Students will learn exploratory data analytics, regression, classification, clustering, model interpretation, and model evaluation.
+
+
+DATA 300 - Introduction to Analytics (4)
+This course introduces the fundamentals of Business and Data Analytics. Students will learn business problem framing, data wrangling, descriptive and inferential statistics, data visualization, and data storytelling in analytics.
+
+
+DATA 310 - Data Visualization (4)
+This course introduces data visualization fundamentals using the leading visualization tools in the industry and focuses on project-based learning. Students will learn how to develop dashboards and discover insight effectively based on data.
+
+
+
+
+
+
+
+      Business Economics  (16 hours)    
+
+
+The Business Economics minor is designed to provide insights into the decision-making process to non-economics majors. Solid understanding of basic economic principles of opportunity cost, scarcity, diminishing returns, and gains from trade enables graduates to successfully compete in a global economy. Tools of economic analysis and “economic way of thinking” provide an essential foundation for forming business strategy. Acquired useful transferrable skills make the graduates with training in Business Economics valuable members of governmental and business organizations, successful entrepreneurs, and knowledgeable decision-makers. The educational objectives of the Business Economics minor are to enable a student to:  Evaluate financial and non-financial data for decision-making, Analyze ethical issues in economic policies and regulations, and Analyze current economic issues.
+
+
+
+
+ECON 321 - Intermediate Microeconomics (4)
+Intermediate Microeconomics provides a further examination of profit maximizing strategies by firms and individuals. Evaluation of consumer behavior, firms- production decisions, and market power are at the core of the analysis. Special attention is given to the asymmetric information considerations, game theory, and externalities.
+
+
+ECON 322 - Intermediate Macroeconomics (4)
+This course examines the differences between the economy in the short run and in the long run. A number of macroeconomic models are considered, and the results are used to conduct macroeconomic policy discussion on stabilization policies and government debt.
+
+
+At least 2 of the following courses:
+ECON 420 - Forecasting (4)
+This course provides a hands-on experience for creating working econometric models to forecast business activities, including revenues, costs, and profits. Trends, seasonal and cyclical fluctuations, as well as error term dynamics, are analyzed.
+OR ECON 450 - History of Economic Thought (4)
+History of Economic Thought provides a broad introduction to the development of economic thought through time. The ideas and concepts are considered in their historical perspective. Contributions by leading economists, emergence of a variety of schools of economic thought, and their relevance to the current economic problems constitute the core of the analysis.
+OR FINA 340 - Money, Banking, & Financial Markets (4)
+This course provides an overview of the financial system. The roles of money, financial intermediaries, financial markets, and central banks are discussed in the context of global economy.
+
+
+
+
+
+
+
+      Business Forensics  (16 hours)    
+
+
+The detection and deterrence of fraud in the workplace is a management responsibility that crosses all industries. To gain the knowledge necessary to fulfill this requirement, a student who minors in Business Forensics will learn the foundational skills needed to properly assist in the investigation, detection, documentation, and prevention of business fraud. The wide applicability of these specialized skills to all aspects of the business life cycle makes this minor a relevant addition to a manager’s expertise. The educational objectives of the Business Forensics minor are to enable a student to:  Detect business fraud using technical, analytical, and problem-solving skills, Determine the internal controls needed to help prevent business fraud, and Demonstrate written and oral communication skills in fraud investigation and reporting.
+
+
+
+
+FRAC 341 - Fraud Examination (4)
+This course provides an overview of the behavioral research associated with occupational fraud and the methodology of fraud examination (i.e., obtaining documentary evidence, interviewing witnesses and potential suspects, writing investigative reports, testifying to findings, and forensic document examination). The majority of the course is focused on detecting the most common types of occupational fraud, determining how each type of fraud is committed, and implementing prevention strategies.
+
+
+FRAC 344 - Corp Gvrnc/Intrnl Control Assessment (4)
+This course starts with an overview of key legislation and guidelines associated with corporate governance. This includes analyzing the components of the Committee of Sponsoring Organizations? (COSO) internal control framework, the Sarbanes-Oxley Act of 2002, Statement on Auditing Standards (SAS) No. 99, and the role of the Public Company Accounting Oversight Board (PCAOB). However, the primary focus of the course is on identifying, documenting, analyzing, and testing internal controls in an organization as part of an effective fraud prevention program.
+
+
+FRAC 346 - Interview Techniques and Legal Elements in Fraud Investigations (4)
+This course provides an overview of techniques and strategies used in interviewing and interrogation of witnesses and suspects. In addition, it explores the legal issues associated with fraud investigations and the criminal and civil legal systems under which perpetrators are judged.
+
+
+FRAC 347 - Forensic Communication (4)
+Forensic accounting and fraud examination require the engagement of many skills.  The focus of this course is to acquire experience in one of the most important skills?communication.  You will  learn and review some of the other skills such as interviewing and investigation. You will then practice methods of communication employed in various situations that you could encounter in your career, including written and verbal communication.
+
+
+
+
+
+
+
+      Communications  (16 hours)    
+
+
+Effective communication is vital to success in the workplace. Franklin’s Communications minor provides an enriching complement to any major. This minor enables students to gain the confidence, skills, and knowledge necessary to structure and manage communication in a variety of professional settings. 
+
+The educational objectives of the Communications minor will enable a student to: 
+
+Apply principles of communication in various contexts
+Evaluate communication opportunities, and Formulate effective communication strategies.
+
+
+
+
+COMM 315 - Communication Ethics (4)
+This course examines the strategies involved in effective, ethical communication in professional contexts. Students examine principles of ethical organizational communication and the temporal/cultural/social forces behind those principles, as well as apply reasoning and critical thinking in individual and group assignments. Comparing values and perspectives from diverse cultures, students will respond to cases in an intercultural professional environment.
+
+
+COMM 335 - Communication in Groups and Teams (4)
+The course examines current theories and best practices of working collaboratively in professional contexts. Students apply these concepts to analyze their own work experience, generating strategies for how to improve their performance in work groups. Students will learn basic project management skills and work in online virtual teams to complete a final communication project.
+
+
+COMM 321 - Organizational Communication (4)
+The course examines the role of communication in organizations. Students will learn the major theories of organizational communication, identifying and defining primary concepts, and applying them to discussions of real-world situations. The role of technology, corporate culture, leadership, teamwork, ethics, and diversity in communication is examined. Effective communication in global organizations and critiques of organization communication systems and structures are also presented.
+OR COMM 400 - Intercultural Communication (4)
+This course provides an overview of issues, processes, and theories involved with communicating with individuals from different cultures. Topics include thinking and communicating in global contexts and professional relationships in diverse environments.
+
+
+COMM 261 - Video Production (4)
+This course focuses on the professional production of video content. Students learn the basics of the production process from start to finish, including writing scripts, lighting, audio, camera basics as well as directing and shooting. They also learn to use professional editing software and how to deliver their final work for use on television, mobile devices, websites and physical media.
+OR MKTG 340 - Digital Marketing (4)
+Students investigate and evaluate various digital marketing and communication strategies and tactics. An emphasis is placed on critical evaluation skills, as well as social media, search marketing, websites, email, and the evaluation of digital marketing initiatives. Students create a full digital marketing plan for a real-world company.
+
+
+
+
+
+
+
+      Criminal Justice Administration  (16 hours)    
+
+
+The minor in Criminal Justice Administration (CJAD) was developed to offer selected CJAD courses to individuals who may have an interest in criminal justice as an additional area of study. The minor in CJAD may be of particular interest to students who are employed, or who seek to be employed, by a public safety agency in a non-sworn (civilian) capacity. The CJAD minor may also be of interest to students in business degree programs who work with private sector agencies that interact with agencies in the criminal justice system. The minor in CJAD provides an opportunity for personnel who are not directly involved with the criminal justice system to increase the scope of their knowledge, skills, and abilities in the area of criminal justice administration. The educational objectives of the minor in criminal justice are to enable graduates to:  Explain the purpose and function of the correctional system in the U.S., Describe the purpose and function of the courts system in the U.S., Compare and contrast theories of crime and offending that are commonly accepted in the field of criminal justice, Apply critical thinking, reasoning, and analytical skills required for ethical decision-making and problem solving in criminal justice, and Apply management, administrative, and leadership skills appropriate to a criminal justice agency
+
+
+
+
+CJAD 210 - Intro to Criminal Justice Administration (4)
+This is an introductory course designed to expose students to the various Major elements of the criminal justice system (police, courts, and corrections). Students will learn about the ways in which the various systems interact, the processing of offenders, the various forms of punishment and the alternatives to punishment. The future of the criminal justice system will also be discussed.
+
+
+CJAD 240 - Introduction to Criminology (4)
+This course will focus on theories of crime and types of offending. Topics related the causation, control and prevention of criminal behavior will be addressed in this course.
+
+
+At least 2 of the following courses:
+CJAD 310 - Courts and Criminal Procedure (4)
+This course addresses the requirements for processing criminal offenders through the court system. Topics include structure of the court system in the U.S., evidentiary standards, constitutional protections, the role and importance of case law, and the role of the prosecutor and defense attorney in the courts.
+OR CJAD 315 - Policing in America (4)
+This course is designed to provide insight into the history and organization of American police agencies from the mid-1800s to the present day. You will learn about the three levels of law enforcement in America. You will be exposed to managerial and organizational concepts commonly employed in American police agencies. You will become familiar with the standards and training generally required to become a police officer in America. The concept of police culture and related issues will also be discussed. You will have the opportunity to consider the history and current status of females and minorities in the American police system. American policing and its relationship to ethics and the power of discretion will be discussed. The operations and functions of patrol officers and detectives will also be discussed in some detail. Included in the discussion of patrol and detective operations will be a discussion of the related importance and impact of the Bill of Rights and the U.S. Supreme Court. The concept of police-community relations will be discussed as will selected philosophies of policing that impact police-community relations. Finally, you will consider the impact of new and emerging technologies on American policing. The impact of the advent of the Department of Homeland Security and related changes in the Post - 9/11 era will also be discussed.
+OR CJAD 320 - Corrections in America (4)
+This course considers contemporary corrections in America. This course will include a review of recent corrections-related research and a discussion of the role corrections plays in the criminal justice system. Topics covered will include a historical overview of corrections in America, alternatives to incarceration, types and functions of various prison systems in corrections, and various categories of inmates within the corrections system.
+OR CJAD 330 - Juvenile Justice & Delinquency (4)
+This course will address the history of the U.S. juvenile justice system and the nature and extent of youth crime. It will focus on the correlates and theoretical perspectives used to explain juvenile delinquency all within a framework of current research and strategies used to prevent, treat, and control youth crime. Students will analyze and apply these concepts to the structure within which juveniles are taken into custody, treated, processed, rehabilitated or punished in an integrated and collaborative environment. Finally, students will examine basic criminal justice research methods and the role of science and inquiry in criminal justice.
+OR CJAD 450 - Criminal Justice Management & Admin (4)
+This course will examine the basic concepts of management and administration as applied to agencies in the criminal justice system. Emphasis will be placed on issues related to the effective management and administration of criminal justice agencies. Topics covered will include environmental influence; conflict, power, and ethical issues; motivation, leadership, and communication. The concept of the service quality approach will also be considered.
+OR CJAD 455 - Ethics in the Criminal Justice System (4)
+This course will address the topics of ethical and moral values as they pertain to the criminal justice system. Topics covered will include ethics and the police, racial discrimination in the criminal justice system, the purpose of punishment, ethics in corrections, and the ethics of criminal justice policy making.
+
+
+
+
+
+
+
+      Data Analytics  (16 hours)    
+
+
+The Data Analytics Minor at Franklin University is designed for current students in Computer Science and other technical majors to offer them an opportunity to gain necessary analytics skills while majoring in their programs. Students learn to manage, visualize, and analyze data through a sequence of courses, apply basic analytics methods to solve business problems, and effectively communicate the results. The minor offers the convenience and flexibility of quality online/face-to-face/hybrid education, expert instructors with relevant and real-world experience, and strong student support from dedicated faculty, tutors, and advisors.
+
+
+
+
+COMP 281 - Database Management Systems (4)
+This course, Database Management Systems, covers the fundamental concepts necessary for the design, use, implementation, and administration of database systems. The course will stress the fundamentals of database modeling and design, the languages and facilities provided by database management systems, and some techniques for implementing and administering database systems.
+
+
+DATA 300 - Introduction to Analytics (4)
+This course introduces the fundamentals of Business and Data Analytics. Students will learn business problem framing, data wrangling, descriptive and inferential statistics, data visualization, and data storytelling in analytics.
+
+
+DATA 310 - Data Visualization (4)
+This course introduces data visualization fundamentals using the leading visualization tools in the industry and focuses on project-based learning. Students will learn how to develop dashboards and discover insight effectively based on data.
+
+
+DATA 400 - Principles of Machine Learning (4)
+Students will learn the basic concepts behind major machine learning algorithms, the essential steps for creating a typical machine learning model, the strengths and weaknesses of different algorithms, and the model evaluation using different performance metrics. Eventually, students will be able to build a prediction model by machine learning algorithm using Python language. The common problems in practical machine learning exercises and their solutions also will be discussed.
+
+
+
+
+
+
+
+      Digital Marketing  (16 hours)    
+
+
+The Digital Marketing minor is for students who wish to complement their major with the knowledge, skills, and abilities of a digital marketing specialist. The educational objectives of the Digital Marketing minor are to prepare students to: 1) strategically plan digital marketing activities in support of an organization’s overall marketing objectives, 2) apply best practices of user experience (UX) to a variety of internet-based marketing activities, and 3) make recommendations based on the analysis of activity and performance metrics.
+
+
+
+
+MKTG 340 - Digital Marketing (4)
+Students investigate and evaluate various digital marketing and communication strategies and tactics. An emphasis is placed on critical evaluation skills, as well as social media, search marketing, websites, email, and the evaluation of digital marketing initiatives. Students create a full digital marketing plan for a real-world company.
+
+
+MKTG 345 - Social Media Marketing (4)
+In this course, students will explore and experience the techniques for integrating Social media marketing as an integral component of a robust digital marketing campaign. Through an investigation of tools which include Internet forums, message boards, blogs, wikis, podcasts, picture sharing, video sharing, and social networking, students will have the opportunity to create and present a written plan for achieving business goals through the use of a social media marketing campaign. Also, by actively engaging in a hands-on simulation, the student will see the results of their social media marketing decisions.
+
+
+MKTG 415 - Search Engine Marketing (4)
+In this course, students will learn the components of search engine optimization and evaluate the processes that bring websites to the top. Students will also learn how to choose the best keywords and phrases to target and how to monitor and maintain successful search engine rankings for those keywords.
+
+
+MKTG 435 - Digital Marketing Analytics (4)
+In this course students will explore the process of analyzing the Internet Data that is obtained from Google Analytics. Marketers want to know if their websites are attracting visitors and whether or not their investment is paying off. With web analytics, you can identify website trends. You will also understand how visitors interact with your website. You can identify the navigational paths or problems that prevent visitors from completing their conversion goals. By segmenting visitors, you can also find out how profitable your search marketing campaigns are across search engines.
+
+
+
+
+
+
+
+      Emergency Mgmt & Homeland Security  (16 hours)    
+
+
+The minor in Emergency Management & Homeland Security (SEMT) was developed to offer major area SEMT courses to individuals who may have an interest in safety, security, and emergency management as an additional area of study. The minor in SEMT may be of particular interest to students who are employed by an Emergency Management, Homeland Security, or public safety agency in a non-sworn (civilian) capacity. Most Emergency Management, Homeland Security, and public safety agencies employ significant numbers of civilian employees in local, state, and federal agencies to support the sworn personnel in those agencies. The minor in SEMT provides an opportunity for non-sworn Emergency Management, Homeland Security, and public safety employees to increase the scope of their knowledge, skills, and abilities in the area of emergency management and homeland security. The educational objectives of the Emergency Management & Homeland Security minor are to enable a student to:  Apply principles of basic accounting, fiscal management, and budgeting appropriate to safety, security, and emergency management agencies, Apply appropriate ethical principles, laws, and human relations skills to all applicable areas of operations in safety, security, and emergency management agencies, Analyze the functions and interactions of various safety, security, and emergency management agencies and Evaluate the unique roles and challenges faced by safety, security, and emergency management agencies
+
+
+
+
+SEMT 322 - Ethics & Leadership in Public Safety Agencies (4)
+This course will study ethics and leadership theories in the context of public safety agencies. Consideration of leadership skills and traits in both the strategic and tactical settings will be considered. Ethics will be considered in terms of creating a culture of ethics within a public safety agency.
+
+
+SEMT 328 - Emergency Management Theory & Practice (4)
+This course focuses on emergency management and homeland security in the post-9/11 era. Emphasis will be on mitigation and preparedness related to international and domestic terrorism, as well as natural disasters.
+
+
+SEMT 335 - Introduction to Emergency Management & Homeland Security (4)
+This course analyzes emergency management and homeland security from a historical perspective. Disaster planning, disaster management, and homeland security at the local, state, and federal levels in the post 9/11 era are analyzed as well. Additionally, selected Homeland Security Presidential Directives are analyzed; in addition to training in several Federal Emergency Management Agency courses leading to FEMA certification. The National Incident Management System (NIMS) and the National Response Framework (NRF) are examined with regard to their impact on local, state, and federal agencies. Finally, special challenges for emergency management and homeland security will be analyzed.
+
+
+SEMT 450 - Critical Incident Management (4)
+The course will explore the NIMS, ICS, and other federally mandated systems in place for the management of critical incidents such as major fire scenes, major disasters, terrorist?s attacks, and other events that require a multi-agency response and recovery effort.  The course discusses and evaluates the roles of high-level leadership in setting policy direction and planning as well as real-time management of the scene.
+
+
+
+
+
+
+
+      Entrepreneurship  (16 hours)    
+
+
+Entrepreneurship is the process of developing and launching a new business enterprise, sourcing and organizing the required resources, and accepting both the risks and the rewards associated with the venture. The Entrepreneurship major integrates key principles from management, marketing, finance, and accounting to provide students - who may already be successful business managers or owners - with a broad understanding of entrepreneurship. The program focuses on the development and refinement of key entrepreneurial skills necessary for the effective creation, development and growth of small- to large-scale businesses. Students will acquire a fundamental understanding of business planning, company valuation, information technology, and consulting as they relate to new ventures, small enterprises and family businesses. The Entrepreneurship program focuses on the creation of social and economic value by developing core capabilities of idea generation, opportunity recognition, resource acquisition, and entrepreneurial management.
+
+
+
+
+ENTR 395 - Foundations of Entrepreneurship (4)
+Foundations of Entrepreneurship is an introductory course that examines the theory, practice, and tools of entrepreneurship. Various entrepreneurship structures and how such structures result in different unique pathways to success are explored. Students will focus on the importance of developing an entrepreneurial mindset as they assess their individual values and determine their affinity for entrepreneurial thinking, while also reviewing the risks and rewards of entrepreneurial businesses in the context of their chosen entrepreneurial philosophy. Finally, students will identify and evaluate opportunities for new ventures, and consider a strategic approach for successful business plan development.
+
+
+ENTR 400 - Commercialization of Entrepreneurial Products & Services (4)
+This course examines the techniques for the commercialization of the products or services offered by the entrepreneur. Students will be taught how to measure the realistic demand for their product or service. Primary and secondary marketing, including research, will be emphasized and addressed. Students will learn how creativity transitions to innovation. Value propositioning, branding, and pricing will be significant topics of discussion. In bringing products to market, students will be taught how to make use of cost-effective, cutting edge tools such as social media.
+
+
+ENTR 420 - Managing Micro Business & Generating Funding (4)
+This course covers the critical role of effective leadership in the successful growth of a new business entity. Students learn logical approaches to recruiting and leading an effective team. Focus will also be on all aspects of entrepreneurial finance and funding. Students learn how to make use of a standard accounting software package. Also covered are the fundamentals of raising capital, both debt and equity. Building on previous financial training, students learn the unique characteristics of analyzing small business financial statements with an eye toward potential valuation. Finally, asset acquisition and wealth strategies will be a topic pertinent to all who desire to pursue an entrepreneurial venture.
+
+
+MKTG 340 - Digital Marketing (4)
+Students investigate and evaluate various digital marketing and communication strategies and tactics. An emphasis is placed on critical evaluation skills, as well as social media, search marketing, websites, email, and the evaluation of digital marketing initiatives. Students create a full digital marketing plan for a real-world company.
+
+
+
+
+
+
+
+      Financial Management  (16 hours)    
+
+
+Because financial considerations are of significant element in all types of organizational decision making, Franklin’s Financial Management minor is a natural complement to other business disciplines. This minor is designed to provide students with an understanding of finance beyond that achieved through the principles course in the business core, providing them with more in-depth knowledge of the financial system, corporate finance, and investments. The educational objectives of the Financial Management minor are to enable a student to:  Calculate the value of market securities using bond and stock valuation models, Analyze financial statements and documentation. Apply cost of capital and budgeting tools to the evaluation of investment projects, and Construct investment portfolios based on the criteria of risk and return
+
+
+
+
+FINA 340 - Money, Banking, & Financial Markets (4)
+This course provides an overview of the financial system. The roles of money, financial intermediaries, financial markets, and central banks are discussed in the context of global economy.
+
+
+FINA 403 - Advanced Financial Management (4)
+An introduction to advanced concepts and methods of financial management. Topics include risk and return, asset evaluation, capital budgeting, capital structure, business financial planning and working capital management.
+
+
+FINA 405 - Investments (4)
+An examination of investment markets, transactions, planning and information. Topics include investment risk and return measures, debt and equity instruments, evaluation techniques, hybrid and derivative securities, mutual funds, real estate investments, tax planning and the investment process, and portfolio management.
+
+ 
+
+
+FINA 450 - Global Finance (4)
+Global Finance is an examination of financial management in the global economy. Topics include international financial markets, exchange rates, interest rates and inflation, exchange rate risk management, working capital management, capital budgeting, country risk analysis, long-term financing, and global strategic planning.
+
+
+
+
+
+
+
+      Fire & Emergency Service Administration  (16 hours)    
+
+
+Fire & Emergency Services is an area of study that includes a wide variety of disciplines involved in the preservation and maintenance of social order in society. The Fire & Emergency Services curriculum, based on the Fire & Emergency Services Higher Education model, is designed to prepare students for further academic study or for careers in Fire and Emergency Services. The educational objectives of the Fire & Emergency Services minor are to enable a student to:  Select and apply the appropriate statistical and quantitative tools and techniques of analytical decision-making in the context of the Fire and Emergency Services agencies, Apply critical thinking, reasoning, and analytical skills required for ethical decision-making and problem solving in Fire and Emergency Services, Demonstrate knowledge of ethical principles, laws and standards of professional conduct applicable to the Fire and Emergency Services system, and Apply management and administration skills appropriate to a Fire and Emergency Services agency.
+
+
+
+
+FIES 310 - Fire & Emergency Services Administration (4)
+This course focuses on Fire and Emergency Services Administration. In particular, the course provides an understanding of how the fire and emergency services administrator performs as an effective human resource manager, risk manager, and politician by recognizing legal and political issues affecting public safety, finding and applying appropriate legal rules and/or political constructs, and articulating supportable conclusions and recommendations.
+
+
+FIES 330 - HR Management for the Fire & Emergency Services (4)
+This course examines relationships and issues in personnel administration and human resource development within the context of fire-related organizations, including personnel management, organizational development, productivity, recruitment and selection, performance management systems, discipline, and collective bargaining.
+
+
+FIES 430 - Political & Legal Foundations for Fire Protection (4)
+This course examines the legal aspects of the fire services and the political and social impacts of legal issues. This course includes a review of the American legal system and in-depth coverage of legal and political issues involving employment and personnel matters, administrative and operational matters, planning and code enforcement, and legislative and political processes with regard to the fire services.
+
+
+FIES 450 - Applications of Fire Research (4)
+This course examines the basic principles of research and methodology for analyzing current fire-related research. The course also provides a framework for conducting and evaluating independent research in the following areas: fire dynamics, fire test standards and codes, fire safety, fire modeling, structural fire safety, life safety, firefighter health and safety, automatic detection and suppression, transportation fire hazards, risk analysis and loss control, fire service applied research and new trends in fire-related research.
+
+
+
+
+
+
+
+      Global Business  (16 hours)    
+
+
+In order to fully understand and successfully navigate in the 21st century-business environment, professionals will need to broaden their perspectives and adaptability. The minor in Global Business is designed to help students update their understanding of cultures and practices around the world, allowing them to strengthen the value of their primary degree with increased tolerance, communication skills, and marketability. The educational objectives of the Global Business minor are to enable a student to:  Identify current global issues and market trends, communicate appropriately for a range of purposes and audiences, explore ethnocentrism and the nature and function of culture, and Evaluate how businesses adjust to cultural differences in developing a global strategy
+
+
+
+
+HUMN 305 - Global Issues (4)
+This course provides students with a coherent view of the forces of economic, financial, cultural, political, and environmental globalization. Students will examine these issues from the perspective of various countries, continents, and the world as a whole. The challenges of globalization will be the foundation on which other weeks are based. Students will then explore human rights and democracy, global trade, inequality and ethics, environment and population issues, the globalization of crime and disease, and end with looking at current clashes and resolutions. These issues are of both global and local concern. Students will be guided to consider these complex concepts and engage in discussion about seeking solutions.
+
+
+COMM 400 - Intercultural Communication (4)
+This course provides an overview of issues, processes, and theories involved with communicating with individuals from different cultures. Topics include thinking and communicating in global contexts and professional relationships in diverse environments.
+
+
+FINA 450 - Global Finance (4)
+Global Finance is an examination of financial management in the global economy. Topics include international financial markets, exchange rates, interest rates and inflation, exchange rate risk management, working capital management, capital budgeting, country risk analysis, long-term financing, and global strategic planning.
+
+
+MKTG 450 - International and Cross-cultural Marketing (4)
+International markets are becoming ever-more interconnected. Meanwhile, the US population is becoming more culturally diverse. In this course, you will explore the dynamics of global markets, culture, and sub-culture and gain practical insights into analyzing consumer behavior across diverse cultural contexts ? both foreign and domestic. You will assess adaptable marketing strategies, tailor communications to resonate with varied audiences and draft brand localization plans. This course will equip you with the essential skills needed to successfully navigate the complexities of international and cross-cultural marketing. 
+
+
+
+
+
+
+
+      Healthcare & Society  (16 hours)    
+
+
+The minor in Healthcare & Society was developed to offer selected major area Healthcare Management courses to individuals who may have an interest in healthcare management. The minor in Healthcare & Society may be of interest to students who are employed, or who are seeking employment in, a healthcare setting or a related discipline. Those interested in pursuing a career in healthcare management may want to enroll in the Healthcare Management major. The healthcare industry is one of the fastest growing fields with an increasing demand for qualified personnel to support the delivery of health care services in the community. The minor in Healthcare & Society provides individuals with the opportunity to gain an appreciation of the role healthcare plays in our society as well as an understanding and skill set to successfully function in the healthcare environment. The educational objectives of the Healthcare & Society minor are to enable a student to:  Demonstrate the ability to interpret financial data and apply financial concepts in solving problems related to healthcare organizations, Demonstrate the ability to apply legal and ethical reasoning principles in resolving significant patient issues confronted by health services administrators, and Illustrate how the social, political, and economic environment in the United States impacts the health services delivery system
+
+
+
+
+HCM 300 - Healthcare Management (4)
+This course is designed to provide students with an overview of healthcare management principles and theories. It is a generally required course for any subsequent healthcare management courses. Through the examination of key healthcare concepts, students will acquire the knowledge and skills necessary to become an effective healthcare leader in diverse healthcare environments. Topics include healthcare leadership, management, communication, planning and decision making.
+
+
+HCM 340 - Community Health (4)
+This course will provide a comprehensive community health foundation. Students will gain an appreciation for community health and the implications for at-risks populations. Course topics include community health practices and strategies, communicable and environmental disease prevention, and population and mental health.
+
+
+HCM 442 - Legal Aspects of Healthcare Management (4)
+Understanding cultural competency, ethics, policy, and law is necessary for healthcare professionals in a continuously evolving healthcare system. This course will provide students with practical knowledge and methods for applying ethical, legal, and cultural decision-making frameworks to mitigate risks. Topics will include regulatory compliance, patient consent, privacy and confidentiality, and cultural competence.
+
+
+HCM 472 - Contemporary Issues in Healthcare Mgmt (4)
+This course will examine contemporary managed care, human resource, and operational issues impacting healthcare organizations' ability to provide adequate health services. Included in this course are application-based learning activities designed to equip students with the necessary management skills and knowledge to complex matters within healthcare organizations. 
+
+
+
+
+
+
+
+      Healthcare Management  (16 hours)    
+
+
+The minor in Healthcare Management was developed to offer selected major area Healthcare Management courses to individuals who have an interest in healthcare management or are interested in pursuing another major such as Healthcare Information Systems Management, or Business Administration. The minor in Healthcare Management, like the minor in Healthcare and Society, may be of interest to students who are employed, or seek to be employed, in a healthcare setting or related discipline. Those interested in pursuing a career in healthcare management degree may want to enroll in the Healthcare Management major. The healthcare industry is one of the fastest growing fields with an increasing demand for qualified personnel to support the delivery of health care services to an expanding population. The minor in Healthcare Management provides the individual with the opportunity to gain insight into the operational issues and opportunities facing today’s healthcare organizations. The educational objectives of the Healthcare Management minor are to enable a student to:  Demonstrate the ability to interpret financial data and apply financial concepts in solving problems related to healthcare organizations, Demonstrate the ability to apply legal and ethical reasoning principles in resolving significant patient issues confronted by health services administrators, and Synthesize management and organizational theory in a healthcare environment
+
+
+
+
+HCM 300 - Healthcare Management (4)
+This course is designed to provide students with an overview of healthcare management principles and theories. It is a generally required course for any subsequent healthcare management courses. Through the examination of key healthcare concepts, students will acquire the knowledge and skills necessary to become an effective healthcare leader in diverse healthcare environments. Topics include healthcare leadership, management, communication, planning and decision making.
+
+
+HCM 320 - Financial Management I (4)
+This course will provide students with a foundation in financial and managerial accounting. Students will explore concepts to enhance their financial knowledge, technical skills, and their ability to apply such skills in a working environment. Presented in this course are principles for making sound financial decisions and assessing healthcare organization's financial performance.
+
+
+
+
+
+
+HCM 442 - Legal Aspects of Healthcare Management (4)
+Understanding cultural competency, ethics, policy, and law is necessary for healthcare professionals in a continuously evolving healthcare system. This course will provide students with practical knowledge and methods for applying ethical, legal, and cultural decision-making frameworks to mitigate risks. Topics will include regulatory compliance, patient consent, privacy and confidentiality, and cultural competence.
+
+
+HCM 472 - Contemporary Issues in Healthcare Mgmt (4)
+This course will examine contemporary managed care, human resource, and operational issues impacting healthcare organizations' ability to provide adequate health services. Included in this course are application-based learning activities designed to equip students with the necessary management skills and knowledge to complex matters within healthcare organizations. 
+
+
+
+
+
+
+
+      Human Resources Management  (16 hours)    
+
+
+Managers encounter human resources (HR) issues daily, even when functioning in non-HR roles. Franklin’s Human Resources Management minor offers students an opportunity to increase the scope of their theoretical knowledge and practical abilities related to human resources management, including interviewing, hiring, training, motivating, and firing employees, as well as providing information about compensation and benefits. The educational objectives of the Human Resources Management minor are to enable a student to:  Integrate human resource concepts, principles, and practices into organizational situations, Apply concepts and theories of staffing, training, and development, and Apply concepts and theories of compensation
+
+
+
+
+HRM 300 - Human Resources Management (4)
+This course is an introduction to the human resources function and related elements and activities. The course outlines the roles and functions of members of the human resources department, as well as educating others outside human resources, in how their roles include human resources-related activities. The student will learn about the evolution in human resources management as we know it today. Emphasis is placed on the modern day importance of HRM and the new ?corporate view? of the function. Additionally, the student will be exposed to the view of HRM from the perception of both management and subordinate employees. The importance of maintaining fair and equitable compensation and benefit programs will be discussed. The student will be exposed to practical situations and problem solving regarding areas of employee counseling, discipline, and termination. Equal Employment Opportunity will be discussed in order for the student to understand its need, importance, and the legal issues surrounding it. Other critical areas of training and development, staffing, and strategy will also be explored.
+
+
+
+                      12 credits from the following subjects: HRM
+                    
+
+
+
+
+
+
+
+      Information Systems  (16 hours)    
+
+
+The Information Systems minor is designed for those who have an interest in technology and want to effectively interact with an organization’s Information Services (IS) or Technology (IT) department. Students learn the skills necessary to understand information systems architecture, concepts, and practices, and develop a technical vocabulary to help bridge the communication gap between business and technology. The educational objectives of the Information Systems minor are to enable students to:  Analyze, plan, design, and maintain enterprise architecture, Integrate disparate information systems infrastructure, and  Analyze and design complete information systems.
+
+
+
+
+DATA 300 - Introduction to Analytics (4)
+This course introduces the fundamentals of Business and Data Analytics. Students will learn business problem framing, data wrangling, descriptive and inferential statistics, data visualization, and data storytelling in analytics.
+
+
+ITEC 430 - Information Technology Project Management (4)
+This course provides an introduction to the concepts of information technology project management and techniques for initiating, planning, executing, monitoring, and controlling of resources to accomplish specific project goals. Both technical and behavioral aspects of project management are discussed. While the focus is on information technology projects, the principles follow the nine project management knowledge areas obtained in the Project Management Institute's?PMBOK?Guide, Third Edition?and, thus, are applicable to the management of any project. Topics will include integration, scope, time, cost, quality, human resource, communications, risk, and procurement management. Project management software utilization is emphasized.
+
+
+MIS 310 - Info Systems Architecture & Technology (4)
+This course provides a conceptual survey of general systems theory followed by a conceptual and technological survey of the structure of distributed information systems architectures, operating systems, network operating systems, peripheral technology and user interfaces. Interoperability between these architectural components will be explored and current technology and trends in each architectural element will be reviewed. This course will de-emphasize, although not ignore, mainframe architectures in favor of information architectures more applicable to client/server computing. The various interacting categories of client/server computing as well as the benefits and implications of such a system will be fully explored.
+
+
+MIS 400 - Systems Analysis & Design (4)
+This course is designed to provide a platform for students to gain both an understanding of, and basic competency in applying, object-oriented systems analysis and design (OOSAD). Emphasis will be on knowledge and skills related to analyzing, modeling and designing processes using the OO model. Topics studied include the software development life cycle (SDLC), analysis modeling, requirements determination, process and function modeling, structural and behavioral modeling and class, method, data management, interface and architecture design. The learning process will be one of working through, both individually and as part of a team, a case study-based project aimed at resolving the case study issues.
+
+
+
+
+
+
+
+      Management & Leadership  (16 hours)    
+
+
+The Management minor provides key scholarly- and practitioner-based knowledge that will be of value to managers and leaders. The minor focuses on the development of leadership competencies in human resources, organizational behavior, change management, and transformational leadership. The educational objectives of the Management minor are to enable a student to:  Analyze the organizational behavior of a department or business and recommend changes for improvement, Analyze, recommend, and apply change management processes to real world situations, Create a leadership development plan through the integration of transformational leadership theory, and Analyze organizational culture and evaluate its impact on an organizational performance
+
+
+
+
+MGMT 325 - Organizational Behavior (4)
+This course focuses on the organizational processes and theoretical constructs related to organizational behavior. The roles of leaders, followers, and teams, and their influence on the culture and performance of an organization are addressed through the analysis of key organizational behavior concepts and related cases. Topics will include: values, perception, attitudes, assumptions, learning, motivation, conflict, diversity, and change.
+
+
+MGMT 425 - Organizational Change (4)
+This course analyzes the forces that drive organizations to change, examines impediments to change, and surveys a range of approaches for making organizational change more effective. Students will develop an understanding of change processes and develop practical skills for becoming an organization change agent.
+
+
+MGMT 440 - Organizational Culture & Performance (4)
+This course focuses on the relationship between an organization's culture and its performance. The challenges and opportunities presented to both leaders and followers in adapting to and implementing organizational cultural change are addressed in this course. The impact culture has as a mediating factor between a leader's style and the effective performance of an organization is examined in this course.
+
+
+MGMT 470 - Organizational Leadership (4)
+Leadership is the ability to influence people towards a goal. This course will focus on the key factors and theories in leadership. You will develop skills to navigate your organization and determine how effective leaders or followers influence and motivate others in their organization. Students will build a foundation upon which to build lifelong learning practices for leadership development using both theory and application.
+
+
+
+
+
+
+
+      Marketing  (16 hours)    
+
+
+Because marketing impacts overall business strategy and operations, the Marketing minor provides an opportunity for business generalists (e.g., Business Administration and Management majors) and functional specialists (e.g., Accounting and Human Resources Management majors) to increase the scope of their knowledge, skills, and abilities in marketing, advertising, and consumer behavior. Students are exposed to marketing theories and methods, advertising campaigns and procedures, and how behavioral sciences influence an organization’s messaging. The educational objectives of the Marketing minor are to enable a student to:  Evaluate marketing activities using generally accepted marketing principles, concepts, and terminology, Recognize the forces that effect consumer behavior, and Plan for the implementation of advertising activities
+
+
+
+
+MKTG 300 - Marketing (4)
+Theory, strategies and methods are foundational to the informed practice of marketing. Students investigate the importance of marketing to an organization or cause, the interrelationship of the difference phases of marketing, the marketing of goods versus services, analysis and identification of markets, pricing strategies and digital marketing tactics.
+
+
+MKTG 320 - Advertising & Promotion (4)
+A study of fundamental principles and practices of advertising that emphasizes the development of a creative strategy and the decision-making process for the recommendation, implementation, and evaluation of a promotional campaign in support of the organization's strategy.
+
+
+MKTG 330 - Consumer Behavior (4)
+Marketing activities ? advertising, product development, distribution, pricing, and strategy ? aim to influence consumers to buy our goods, engage our services, support our cause, or vote for our candidate. An understanding of the drivers of consumer behavior is essential for the successful development and sales of goods and services. If we understand consumer behavior, we can begin to predict consumer behavior under differing conditions. And if we can predict consumer behavior, we can modify conditions to influence that behavior. In this project-based course, you will apply consumer behavior concepts, principles, and theories - primarily derived from the social sciences fields - to influence the acquisition, consumption, and disposition of products, services, and ideas.
+
+
+MKTG 332 - Marketing Research (4)
+Students develop an understanding of the theories and techniques of planning, conducting, analyzing and presenting market studies. Students will study different methodologies with emphasis on primary research including questionnaire design.
+
+
+
+
+
+
+
+      Marketing Promotions  (16 hours)    
+
+
+Our Marketing Promotions minor will be of particular interest to students who are employed—or seek to be employed—in a capacity closely aligned with marketing, such as communications or public relations. By providing a working knowledge of advertising, public relations, and persuasion, this minor enables students to increase the depth and scope of their business repertoire. The educational objectives of the Marketing Promotions minor are to enable a student to:  Develop strategies that serve to persuade an audience or target population, Plan for the implementation of advertising activities, and Use public relations activities to build and protect an organization’s reputation
+
+
+
+
+MKTG 320 - Advertising & Promotion (4)
+A study of fundamental principles and practices of advertising that emphasizes the development of a creative strategy and the decision-making process for the recommendation, implementation, and evaluation of a promotional campaign in support of the organization's strategy.
+
+
+MKTG 340 - Digital Marketing (4)
+Students investigate and evaluate various digital marketing and communication strategies and tactics. An emphasis is placed on critical evaluation skills, as well as social media, search marketing, websites, email, and the evaluation of digital marketing initiatives. Students create a full digital marketing plan for a real-world company.
+
+
+MKTG 345 - Social Media Marketing (4)
+In this course, students will explore and experience the techniques for integrating Social media marketing as an integral component of a robust digital marketing campaign. Through an investigation of tools which include Internet forums, message boards, blogs, wikis, podcasts, picture sharing, video sharing, and social networking, students will have the opportunity to create and present a written plan for achieving business goals through the use of a social media marketing campaign. Also, by actively engaging in a hands-on simulation, the student will see the results of their social media marketing decisions.
+
+
+PBRL 325 - Public Relations (4)
+A course in the technique of establishing and maintaining public relations with an examination of the public relations functions of some of the large concerns. Exercises in practical application of public relations techniques are included.
+
+
+
+
+
+
+
+      Performance Management  (16 hours)    
+
+
+The performance management minor is designed for undergraduate students who have an interest in increasing the performance of employees and organizations. Using a systems perspective, the performance management minor exposes students to concepts related to change management; organization development; organization analysis; and individual, team, and organizational performance. The educational objectives of the Performance Management minor are to enable a student to:  Diagnose organization, group, and individual performance problems, Recommend organization, group, and individual intervention techniques, Design strategies to implement and evaluate planned and unplanned change, and Describe the relationship between performance initiatives and organization strategy
+
+
+
+
+MGMT 325 - Organizational Behavior (4)
+This course focuses on the organizational processes and theoretical constructs related to organizational behavior. The roles of leaders, followers, and teams, and their influence on the culture and performance of an organization are addressed through the analysis of key organizational behavior concepts and related cases. Topics will include: values, perception, attitudes, assumptions, learning, motivation, conflict, diversity, and change.
+
+
+HRM 400 - Performance Management (4)
+This course uses a systems perspective to identify, select, develop, and evaluate solutions to document and improve the performance of individuals, groups, and organizations. Students will learn how to analyze performance problems and make recommendations at the employee, job, and organizational level that will assist the organization and its employees in achieving organizational goals and managing change. Students will also learn how to bridge the gap between organizational strategy, individuals, and departments.
+
+
+HRM 420 - Principles of Organizational Development (4)
+This course provides students with an overview of the emergence and development of organizational development as a field, processes for diagnosis and intervention, and basic skills needed to facilitate individual, small group, and organizational change. The course will also cover key concepts in organizational transformation, organizational development in global settings, and future directions in the field.
+
+
+MGMT 425 - Organizational Change (4)
+This course analyzes the forces that drive organizations to change, examines impediments to change, and surveys a range of approaches for making organizational change more effective. Students will develop an understanding of change processes and develop practical skills for becoming an organization change agent.
+
+
+
+
+
+
+
+      Public Administration  (16 hours)    
+
+
+The minor in Public Administration is for students who want to work in public or nonprofit organizations or who want to understand the system of American government and how it can be made to function more effectively. The minor can help you become a better citizen, a better community member, and a better business person since all individuals and organizations must interact with government and are significantly affected by government policy and regulations. Students learn how to navigate the American political system at the national, state, and local levels; analyze government finances and the budgeting process; and how public and nonprofit organizations can be improved to operate more efficiently and effectively. The educational objectives of the Public Administration minor will enable a student to:  Examine the impact of government institutions and the political system on program implementation and administrative decision making in public and nonprofit organizations, Apply legal and ethical principles for administrative decision making, Analyze administrative situations using public administration concepts, organizational theories and principles of management, and Analyze budget and financial information for administrative decision making and reporting
+
+
+
+
+HRM 400 - Performance Management (4)
+This course uses a systems perspective to identify, select, develop, and evaluate solutions to document and improve the performance of individuals, groups, and organizations. Students will learn how to analyze performance problems and make recommendations at the employee, job, and organizational level that will assist the organization and its employees in achieving organizational goals and managing change. Students will also learn how to bridge the gap between organizational strategy, individuals, and departments.
+
+
+POSC 204 - American Government (3)
+The course examines the complex political and legal environment of public administration. Students learn how politics, law, and the structure and principles of American government impact citizens, public policy, and the administration of public and nonprofit organizations. Students apply fundamental political theories and administrative law principles in administrative contexts. Students pursuing the Public Administration major should take this course prior to beginning their specialization course work.
+
+
+PUAD 305 - Introduction to Public Administration (4)
+Students are introduced to the field and profession of public administration. Students learn to think and act as ethical public administration professionals by developing a broad understanding of the political and organizational environment in which public administrators work and by applying fundamental analytical, decision- making, and communication skills. The professional knowledge and skills explored in the course provide a foundation for subsequent public administration courses.
+
+
+PUAD 420 - Government & Nonprofit Budgeting (4)
+Students learn fundamental budgeting, accounting, and financial management concepts and techniques necessary for planning, analysis, and decision making in government and nonprofit organizations. Students also examine the competing values and politics that underlie and impact the budget process and financial decisions. Finally, students apply skills for effectively communicating financial analysis methods and conclusions with colleagues, elected officials, the media, and the public.
+
+
+
+
+
+
+
+      Public Health Minor (16 hours)    
+
+
+The Pubic Health minor is for any student interested in theories, models, and processes that help improve human health and wellness. 
+
+
+
+
+PUBH 201 - Introduction to Public Health (4)
+This course provides a basic introduction to public health concepts and practice by examining the philosophy, purpose, history, organization, functions, tools, activities and results of public health practice at the national, state, and community levels. The course also examines public health occupations and careers. Case studies and a variety of practice-related exercises serve as a basis for learner participation in practical public health problem-solving simulations.
+
+
+PUBH 250 - Health Behavior (4)
+This course will provide students with an overview of how the social and behavioral sciences contribute to primary prevention in the rapidly expanding field of health behavior. Emphasis will be placed on theory-driven approaches that are supported by empirical investigations. Students will acquire a working knowledge of foundational theories used in public health practice as well as the ability to measure key theoretical constructs.
+
+
+PUBH 300 - Health Education and Promotion Concepts (4)
+Students taking this course will learn effective communication skills to positively influence the norms and behaviors of both individuals and communities.  Common themes are health education methods, including theories and models, promoting multicultural diversity, social marketing concepts, and health communication strategies.
+
+
+PUBH 310 - Health Program Planning (4)
+This course encompasses the important steps in planning an effective health program; including planning frameworks, needs assessment, and implementation steps.  Students will incorporate health behavior theories, health determinants, and behaviors to effectively strategize effective programs to improve health of a population.
+
+
+
+
+
+
+
+      Public Relations  (16 hours)    
+
+
+The ability to develop, protect and preserve an organization’s positive reputation is critical in any industry. Franklin’s Public Relations minor is designed for those who recognize the need for knowledge in and have an appreciation of public relations, promotional strategy, and crisis communication, but work in a non-public relations capacity. Students develop skills in situation analysis, media response, and top-of mind awareness building. The educational objectives of the Public Relations minor will enable a student to:  Establish techniques for maintaining public relations within an organization, Examine a variety of media and their influence on public opinion, Create and implement appropriate persuasive and promotional strategies, and Develop organizational crisis communication plans
+
+
+
+
+PBRL 325 - Public Relations (4)
+A course in the technique of establishing and maintaining public relations with an examination of the public relations functions of some of the large concerns. Exercises in practical application of public relations techniques are included.
+
+
+PBRL 350 - Media Research & Writing (4)
+This course examines how text, images, sound-bites, speeches, and other media operate to influence, define, and change public identity and thought. Students in this course will look at these verbal and non-verbal influences and how they mold and shape public discourse, cultural understanding, and our day-to-day life. Additionally, this course will examine the role of persuasion and attitudinal change in managing conflict and making decisions within various communicative contexts and amongst various publics.
+
+
+PBRL 425 - Media & Crisis Communication (4)
+Today?s public relations professionals have entered a new era where preparedness to respond rapidly to various levels of crisis is essential. Building a positive reputation through the strategic management of communications with internal and external audiences during good times is a necessary foundation for withstanding negative press. Utilizing analysis techniques, public relations tactics, and hands-on projects, you will evaluate crisis situations, create and implement a strategic crisis communication plan, and learn to coach the corporate spokesperson and manage the media, while maintaining the organization?s reputation.
+
+
+PBRL 445 - Public Relations & Promotional Strategy (4)
+In this course students will research, develop, and implement persuasive public relations campaign strategies appropriate to corporate, governmental, and/or not-for-profit organizations. This advanced course is designed for professionals who require specialized skills in public relations and promotional communication.
+
+
+
+
+
+
+
+      Public Safety Management & Leadership  (16 hours)    
+
+
+Most public safety agencies in major cities or large metropolitan areas employ significant numbers of civilian employees to support the sworn personnel in those agencies. The Public Safety Management minor is designed for nonsworn public safety employees to enhance their business and management skills in the area of public safety management. The educational objectives of the Public Safety Management & Leadership minor will enable a student to:  Apply principles of basic accounting, fiscal management and budgeting, Analyze the functions and interactions of various public safety agencies, Apply ethical principles, laws, and human relations skills to all, and Evaluate the unique roles and challenges faced by public safety agencies in the Homeland Security environment
+
+
+
+
+CJAD 420 - Cybercrime (4)
+Most assets escape exploitation not because they are impregnable but because they are not targeted.   (Herley, 2014    p.70)   Cybercrime is perpetrated all over the world and results in tremendous financial loss to many individuals, businesses, and countries of the World. This course sets out to accomplish several learning outcomes but also to develop a level of literacy about cyber related crime that will help to diminish or mitigate the problems associated with these types of crimes. The awareness of cybercrime-related activity as it pertains to your everyday life is important to your ability to navigate away from this serious criminal activity that is just beginning to grip our society. This course is designed as a literacy course and although it has critical terminology is not fundamentally a computer forensics or technical course.  Herley, C., (2014).  Security, Cybercrime, and Scale.  Communications of the ACM, 57,(9).  DOI:10.1145/2654847
+
+
+PUAD 420 - Government & Nonprofit Budgeting (4)
+Students learn fundamental budgeting, accounting, and financial management concepts and techniques necessary for planning, analysis, and decision making in government and nonprofit organizations. Students also examine the competing values and politics that underlie and impact the budget process and financial decisions. Finally, students apply skills for effectively communicating financial analysis methods and conclusions with colleagues, elected officials, the media, and the public.
+
+
+SEMT 335 - Introduction to Emergency Management & Homeland Security (4)
+This course analyzes emergency management and homeland security from a historical perspective. Disaster planning, disaster management, and homeland security at the local, state, and federal levels in the post 9/11 era are analyzed as well. Additionally, selected Homeland Security Presidential Directives are analyzed; in addition to training in several Federal Emergency Management Agency courses leading to FEMA certification. The National Incident Management System (NIMS) and the National Response Framework (NRF) are examined with regard to their impact on local, state, and federal agencies. Finally, special challenges for emergency management and homeland security will be analyzed.
+
+
+CJAD 360 - Intro: Terrorism & Intelligence Analysis (4)
+This course examines intelligence analysis and its indispensable relationship to the management of terrorist attacks, man-made disasters and natural disasters. It also explores vulnerabilities of our national defense and private sectors, as well as the threats posed to these institutions by terrorists. Students will discuss substantive issues regarding intelligence support of homeland security measures implemented by the United States and explore how the intelligence community operates.
+OR SEMT 450 - Critical Incident Management (4)
+The course will explore the NIMS, ICS, and other federally mandated systems in place for the management of critical incidents such as major fire scenes, major disasters, terrorist?s attacks, and other events that require a multi-agency response and recovery effort.  The course discusses and evaluates the roles of high-level leadership in setting policy direction and planning as well as real-time management of the scene.
+
+
+
+
+
+
+
+      Sport Management  (18 hours)    
+
+
+A minor in sport management is designed to give students majoring in other programs an opportunity to gain knowledge and skills specific to the business and management of sport. The 18-credit minor in Sport Management is designed specifically for students who are interested in pursuing a career path in the sport industry. The sport management minor will focus on a variety of sport industry topics including business functions, sports administration, sport marketing, event management, economic aspects, social issues in sport, and sport law.  If you have a passion for sports, a sport management minor is a great choice for you.
+
+
+
+
+EXS 203 - Contemporary Issues in Sport (3)
+This course is designed to look at sport and its role in society and the influence of society on sport in the areas of preparation for life, deviance in sports, coach?s role, gender, race and ethnicity, class relations and social mobility, sports and the economy, sports and the media, sports and politics, and sports and religion.
+
+
+SPM 207 - Principles of Sport Management (3)
+This course provides an introduction to the sport management field including career opportunities. Topics covered include knowledge and skills related to planning, organizing, directing, controlling, budgeting, and leading a sport-related organization. 
+
+
+SPM 306 - Sports Marketing (3)
+Through this course, students will gain an understanding of the special nature of the sports market. The course includes a combination of knowledge and skills related to the promotion, selling, and advertising of services and/or products within sports and physical activity industries.
+
+
+SPM 351 - Sports Law (3)
+This course provides information into the legal issues related to the sports field. Topics will cover the time frame from amateur through professional sports. Basic legal principles affecting the management of recreation and sports programs, liability and risk assessment of those programs will be covered.
+
+
+SPM 430 - Sales, Sponsorship and Revenue in Sport (3)
+This course will provide a more detailed discussion of sport promotion and sales management. Students will gain an understanding or sponsorships, licensing, global issues, and after-marketing techniques that confront the modern-day sports promoter.
+
+
+SPM 450 - Principles of Sport Administration (3)
+This course provides the student with the knowledge and skills necessary to manage athletic programs in schools, colleges, community centers, and other venues. It explores ethical, legal, and social issues relating to following the various standards such as NCAA, NAIA, OHSAA, and others. The course will also explore such areas as specific organizational management and structures, communication techniques, insurance and transportation issues.
+
+
+
+
+
+
+
+      Web Development  (16 hours)    
+
+
+The Web Development minor enables students to learn Web layout, architecture, navigation, coding, and programming in order to create effective websites. This minor is designed for those who want to learn technical and graphic aspects of website development but do not want Web development to be a career focus. This minor is most suitable for a Computer Science major. The educational objectives of the Web Development minor will enable a student to:  Design and implement basic websites incorporating DHTML, Javascript, cascading style sheets, animation and rich internet applications, and Apply the principles and elements of graphic design, typography, and color to the design of Web pages
+
+
+
+
+GRPH 210 - Fundamentals of Graphic Design (4)
+In this course students will explore the fundamental principles and creative process of graphic design. An emphasis is placed on visual problem solving skills and the creative and aesthetic aspects of traditional graphic design. The course also explores the implications of traditional graphic design in a digital format. NOTE: This is a technology course, in a technology program, and it requires the purchase of software that may be used in subsequent courses as well as being suitable for commercial work beyond completion of degree studies. For specific software requirements, consult the course syllabus.
+
+
+WEBD 236 - Web Information Systems Programming (4)
+This course builds web applications by employing server-side scripts that query relational databases. The student learns and reflects on two- and three-tier software architectures, separation of responsibility, model-view-controller pattern, basic security, and web frameworks. The student will design, code, test, debug, and document programs using a server-based scripting language. Note: This is a technology course in a technology program, and it requires the purchase of software that may be used in subsequent courses as well as being suitable for commercial work beyond completion of degree studies. 
+
+
+WEBD 335 - Advanced Client Side Development (4)
+This course builds on the fundamental concepts of constructing web pages by expanding into robust, efficient, and highly responsive client side applications of current web technologies. Students will apply advanced techniques that employ scripting languages, libraries, and frameworks to build interactive front ends to server applications. These web pages will be single page applications that use asynchronous scripting language callbacks to provide user interactivity. These applications will consume RESTful services.
+
+
+WEBD 435 - Advanced Server Side Development (4)
+This course builds on the fundamental concepts of constructing web pages by expanding into robust, efficient and highly responsive server side applications of current web technologies. Students will apply advanced techniques that employ server side languages, libraries, and frameworks to build interactive RESTful application programming interfaces (APIs). These APIs will be used to drive web applications that use asynchronous scripting language callbacks to provide user interactivity.
+
+
+
+
+
+
+
+
+
+
+  Minor Requirements & Policies
+
+
+
+
+The academic minor provides an opportunity to gain knowledge or skills in a topic area that complements the student's major area program of study. With careful planning, students may be able to complete the requirements for a minor without taking additional hours beyond those required for their degree program. Each academic minor  successfully completed will be documented on the student's transcript.
+Requirements
+
+All officially designated minors consist of 16 credit hours, of which at least half must be earned in residence at the University.
+Each minor course must be completed with a grade of “C” or higher and may not be take Credit/Non-Credit.
+General Education Elective, Major Area Electives, and University Electives may be used to fulfill the minor requirements.
+No more than four credits from the Major Area Required courses may be used to fulfill the Minor requirements.
+General Education Required course may not be used to fulfill the minor requirements.
+Any prerequisites to courses in the minor must be honored
+
+
+
+
+
+
+
+
+
+
+Degrees
+
+
+Microcredentials & Certificates
+
+
+Admissions
+
+
+Tuition & Financial Aid
+
+
+Transferring Credit
+
+
+The Franklin Experience
+
+
+About Us
+
+FranklinWORKS Marketplace
+
+
+
+Safety & Security
+
+
+Policy Information
+
+
+Your Privacy Settings
+
+
+Privacy Policy
+
+
+Terms of Use
+
+
+Careers At Franklin
+
+
+Sitemap
+
+
+
+
+Franklin University
+ Founded in 1902, Franklin is an accredited nonprofit university offering flexible college degrees online and at locations in Ohio and the Midwest.
+
+
+
+
+
+          Franklin University201 S Grant Ave.Columbus, OH 43215
+
+
+          Local: (614) 797-4700
+
+          Toll Free: (877) 341-6300
+          
+          admissions@franklin.edu
+        
+
+
+
+
+Copyright 2024 Franklin University
+
+
+
+
+Franklin University is accredited by the Higher Learning Commission (hlcommission.org/800.621.7440) and authorized by the Ohio Department of Higher Education.
+Franklin University is committed to being an inclusive community free from all forms of discrimination and harassment.
+
+
+
+ 
+
+
+
+
+(877) 341-6300 Apply NowRequest Info
+
+
+
+
+
+
+
+Degrees
+
+
+Program Finder
+
+
+Bachelor's Degrees
+
+
+Accounting
+
+
+Analytics
+
+
+Applied Data Science
+
+
+Business Analytics
+
+
+Healthcare Analytics
+
+
+
+
+Applied Management
+
+
+Business Administration
+
+
+Business Forensics
+
+
+Cloud Computing
+
+
+Communications
+
+
+Computer Science
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Education
+
+
+Adolescence to Young Adult Education (7-12)
+
+
+Education Studies
+
+
+Intervention Specialist
+
+
+Middle Childhood Education (4-9)
+
+
+Primary Education (PK-5)
+
+
+
+
+Exercise Science
+
+
+Financial Management
+
+
+Financial Planning
+
+
+Forensic Accounting
+
+
+Healthcare Administration
+
+
+Human Resources Management
+
+
+Information Systems
+
+
+Analytics
+
+
+Business Analysis & Project Management
+
+
+Business Information Systems
+
+
+Healthcare Information Systems
+
+
+
+
+Information Technology
+
+
+Management & Leadership
+
+
+Marketing
+
+
+Nursing (RN-BSN)
+
+
+Operations & Supply Chain Management
+
+
+Psychology
+
+
+Public Health
+
+
+Public Safety Management & Leadership
+
+
+Social Sciences
+
+
+Sport Management
+
+
+User Experience & Graphic Design
+
+
+
+
+Master's Degrees
+
+
+Accounting
+
+
+M.S. in Accounting - Financial Operations Focus
+
+
+M.S. in Accounting - Taxation Focus
+
+
+M.S. in Accounting (non-Accounting background)
+
+
+
+
+Business Analytics
+
+
+Business Psychology
+
+
+Communications
+
+
+M.S. in Communications-Health Communication
+
+
+M.S. in Communications-Strategic Communication
+
+
+
+
+Computer Science
+
+
+M.S. in Computer Science - General
+
+
+M.S. in Computer Science - Cybersecurity Focus
+
+
+M.S. in Computer Science - Data Analytics Focus
+
+
+M.S. in Computer Science - Software Systems Focus
+
+
+M.S. in Computer Science (non-Computer Science background)
+
+
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Data Analytics
+
+
+Education
+
+
+M.Ed. - Higher Education Leadership
+
+
+M.Ed. - K-12 Building Level Leadership
+
+
+M.Ed. - Principal Licensure
+
+
+
+
+Health Informatics
+
+
+Healthcare Administration (MHA)
+
+
+Healthcare Administration (MHA) - General
+
+
+Healthcare Administration (MHA) - Human Resources
+
+
+Healthcare Administration (MHA) - Operational Excellence
+
+
+Healthcare Administration (MHA) - Organizational Leadership
+
+
+
+
+Human Resource Management
+
+
+Information Systems
+
+
+Information Technology
+
+
+M.S. in Information Technology - Cybersecurity
+
+
+M.S. in Information Technology - Data Analytics
+
+
+M.S. in Information Technology - Healthcare
+
+
+M.S. in Information Technology - IT Leadership
+
+
+M.S. in Information Technology - IT Management
+
+
+M.S. in Information Technology - Learning Technology
+
+
+
+
+Instructional Design & Learning Technology
+
+
+MBA Programs
+
+
+MBA-General
+
+
+MBA-Business Analytics
+
+
+MBA-Business Psychology
+
+
+MBA-Finance
+
+
+MBA-Healthcare
+
+
+MBA-Human Resources
+
+
+MBA-Information Technology
+
+
+MBA-Marketing
+
+
+MBA-Operational Excellence
+
+
+MBA-Organizational Leadership
+
+
+MBA-STEM
+
+
+
+
+MSN Programs
+
+
+Nursing-Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Nursing-Family Nurse Practitioner (MSN-FNP)
+
+
+Nursing-Generalist (MSN)
+
+
+Nursing-Nurse Educator
+
+
+Nursing-Psychiatric Mental Health Nurse Practitioner
+
+
+Nurse Administrator (MSN-ADM)
+
+
+RN to MSN
+
+
+
+
+Professional Sales Leadership
+
+
+Public Administration (MPA)
+
+
+Public Administration-General
+
+
+Public Administration-Criminal Justice
+
+
+Public Administration-Healthcare
+
+
+Public Administration-Human Resources
+
+
+Public Administration-Organizational Leadership
+
+
+
+
+
+
+Doctoral Degrees
+
+
+Business Administration (DBA)
+
+
+Healthcare Administration (DHA)
+
+
+Instructional Design Leadership (Ed.D)
+
+
+Instructional Design Leadership (Ed.D.) - Curriculum & Instruction
+
+
+Instructional Design Leadership (Ed.D.) - Educational Technology
+
+
+
+
+Organizational Leadership (Ed.D.)
+
+
+Organizational Leadership (Ed.D.) - Higher Education Leadership Focus
+
+
+Organizational Leadership (Ed.D.) - Organizational Leadership Focus
+
+
+Organizational Leadership (Ed.D.) - PK-12 Educational Leadership Focus
+
+
+
+
+Nursing (DNP)
+
+
+DNP - Adult-Gerontology Primary Care Nurse Practitioner Track
+
+
+DNP - Family Nurse Practitioner Track
+
+
+DNP - Leadership Track
+
+
+DNP - Psychiatric Mental Health Nurse Practitioner Track
+
+
+BSN to DNP Option
+
+
+
+
+
+
+Associate Degrees
+
+
+Accounting
+
+
+Business Administration
+
+
+A.A.S. Business Administration
+
+
+A.S. Business Administration
+
+
+
+
+Communications
+
+
+Computer Science
+
+
+Criminal Justice
+
+
+Cybersecurity
+
+
+Financial Management
+
+
+Forensic Accounting
+
+
+Health Services
+
+
+IT-Project Management
+
+
+Information Technology
+
+
+Public Safety
+
+
+
+
+Online Degrees
+
+
+Online Learning at Franklin
+
+
+Accounting Programs
+
+
+Business & Leadership Programs
+
+
+Computer Science Programs
+
+
+Criminal Justice & Public Safety Programs
+
+
+Cybersecurity Programs
+
+
+Data & Analytics Programs
+
+
+Education Programs
+
+
+Finance Programs
+
+
+Healthcare Programs
+
+
+Human Resources Programs
+
+
+Information Technology Programs
+
+
+Marketing & Communications Programs
+
+
+Nursing Programs
+
+
+Operations & Project Management Programs
+
+
+Psychology Programs
+
+
+Public & Social Sciences Programs
+
+
+Online Learning Facts
+
+
+
+
+Degrees By Location
+
+
+Degrees By College
+
+
+College of Arts, Sciences & Technology
+
+
+College of Health & Public Administration
+
+
+International Institute For Innovative Instruction
+
+
+Ross College of Business
+
+
+School of Education
+
+
+School of Nursing
+
+
+
+
+Minors
+
+
+Bachelor’s & Master’s Combined Programs
+
+
+Degree Completion Programs
+
+
+Second Bachelor's Degrees
+
+
+
+
+Microcredentials & Certificates
+
+
+Microcredentials
+
+
+Undergraduate Certificates
+
+
+Accounting Data Analytics
+
+
+
+
+Graduate Certificates
+
+
+Cyber Defense
+
+
+Cyber Governance
+
+
+Criminal Justice Leadership
+
+
+Data Analytics
+
+
+Nurse Educator
+
+
+Instructional Design
+
+
+
+
+Post-Graduate Certificates
+
+
+Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Family Nurse Practitioner
+
+
+Psychiatric Mental Health Nurse Practitioner
+
+
+
+
+Post-Baccalaureate Teacher Certification
+
+
+Adolescence to Young Adult Education (7-12)
+
+
+Primary Education (PK-5)
+
+
+Intervention Specialist: Mild/Moderate (K-12)
+
+
+Middle Childhood Education (4-9)
+
+
+
+
+Advanced Accounting Microcredential
+
+
+
+
+Admissions
+
+
+Undergraduate Students
+
+
+Graduate Students
+
+
+Partnership Students
+
+
+International Students
+
+
+Study in the U.S.
+
+
+Earn Your Degree Online
+
+
+
+
+Community College Students
+
+
+College Credit Plus
+
+
+Military & Veterans
+
+
+Active Duty
+
+
+Air Force
+
+
+Army
+
+
+Coast Guard
+
+
+Marines
+
+
+Navy
+
+
+
+
+Veterans
+
+
+Montgomery GI Bill® - Selected Reserves
+
+
+Montgomery GI Bill®
+
+
+Post-9/11 GI Bill®
+
+
+Vocational Rehabilitation and Employment VetSuccess Program
+
+
+Yellow Ribbon Program
+
+
+
+
+Spouses & Family
+
+
+
+
+Online Open House
+
+
+Admission Requirements
+
+
+Associate Degrees
+
+
+Bachelor's Degrees
+
+
+General Bachelor's Degree
+
+
+Nursing (RN-BSN)
+
+
+
+
+Master's Degrees
+
+
+Accounting
+
+
+Business Administration (MBA)
+
+
+Business Analytics
+
+
+Business Psychology
+
+
+Computer Science
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Data Analytics
+
+
+Health Informatics
+
+
+Healthcare Administration (MHA)
+
+
+Human Resource Management
+
+
+Information Technology
+
+
+Instructional Design & Learning Technology
+
+
+Nurse Administrator (MSN-ADM)
+
+
+Nursing-Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Nursing-Family Nurse Practitioner (MSN-FNP)
+
+
+Nursing-Generalist (MSN)
+
+
+Nursing-Psychiatric Mental Health Nurse Practitioner
+
+
+Public Administration
+
+
+
+
+Doctoral Degrees
+
+
+Business Administration (DBA)
+
+
+Healthcare Administration (DHA)
+
+
+Instructional Design Leadership (DPS)
+
+
+Nursing Practice-Family Nurse Practitioner (DNP-FNP)
+
+
+Nursing Practice-Leadership Track (DNP)
+
+
+Organizational Leadership (Ed.D.)
+
+
+
+
+Graduate Certificates
+
+
+Criminal Justice Leadership
+
+
+Instructional Design
+
+
+
+
+
+
+
+
+Tuition & Financial Aid
+
+
+Tuition & Fees
+
+
+Cost Estimate Calculator Tool
+
+
+Tuition Guarantee
+
+
+Undergrad Tuition Comparison
+
+
+Federal Aid & State Aid
+
+
+Institutional Aid & Private Loans
+
+
+Applying for Aid
+
+
+Community College Students
+
+
+Scholarships
+
+
+Payment Options
+
+
+Financial Aid Resources
+
+
+
+
+Transferring Credit
+
+
+Estimate Your Transfer Credit
+
+
+How to Transfer Credits
+
+
+Types of Transfer Credit
+
+
+Previously Earned College Credit
+
+
+Certificates + Professional Training Credit
+
+
+Military Training Credit
+
+
+Testing Credit
+
+
+
+
+Transferring from a Community College
+
+
+Partner Schools
+
+
+Pathway Portal
+
+
+
+
+Transfer into a Bachelor’s Degree
+
+
+Transfer into a Master’s Degree
+
+
+Transfer into a Doctoral Degree
+
+
+Transfer into an Associate Degree
+
+
+
+
+The Franklin Experience
+
+
+Built For Working Adults
+
+
+Transfer Friendly
+
+
+Accredited University & Quality Degrees
+
+
+Fast & Affordable
+
+
+Student Success Stories
+
+
+Valued By Employers
+
+
+Nonprofit
+
+
+Student Support
+
+
+Career Development
+
+
+
+
+About Us
+
+
+Locations
+
+
+Ohio
+
+
+Columbus
+
+
+
+
+
+
+Partnerships
+
+
+College Credit Plus Partnerships
+
+
+Become a Partner
+
+
+Current Partners
+
+
+Teachers
+
+
+
+
+Community College Partnerships
+
+
+Career Advancement Program
+
+
+Benefits for Community Colleges
+
+
+Benefits for Businesses
+
+
+
+
+
+
+Employer Partnerships
+
+
+Global Partnerships
+
+
+Solutions
+
+
+Case Studies
+
+
+Al Baha University
+
+
+MCBS
+
+
+Saudi Electronic University
+
+
+
+
+Current Partnerships
+
+
+
+
+Medical School Partnerships
+
+
+Nurse Preceptor
+
+
+Ohio School District Partnerships
+
+
+
+
+Faculty & Staff
+
+
+Board of Trustees
+
+
+University Leadership
+
+
+University Directory
+
+
+Faculty Profiles
+
+
+President's Welcome
+
+
+Admission Advisors
+
+
+
+
+University Details
+
+
+Accreditation
+
+
+CCNE Accreditation
+
+
+IACBE Accreditation
+
+
+
+
+State Authorization & Professional Licensure Information
+
+
+Our Mission & Values
+
+
+The Four Cornerstones
+
+
+Our History
+
+
+Consumer Information
+
+
+Safety & Security
+
+
+Bookstore
+
+
+Assessment
+
+
+Map & Directions
+
+
+
+
+Franklin Pressroom
+
+
+COVID-19 Updates
+
+
+Students
+
+
+Faculty & Staff
+
+
+Future Students
+
+
+
+
+Events
+
+
+News
+
+
+Request an Expert
+
+
+Presentations & Awards
+
+
+Faculty Awards and Recognitions
+
+
+Speakers' Bureau
+
+
+Event Hosting
+
+
+
+
+Policy Information
+
+
+Title IX
+
+
+Discrimination Harassment & Sexual Misconduct
+
+
+Anti-Hazing Policy
+
+
+Drug Free School & Communities Act
+
+
+Franklin Intervention & Awareness Team
+
+
+Filing Complaints
+
+
+Office of Academic Scholarship
+
+
+Institutional Review Board (IRB)
+
+
+Application & Review Process
+
+
+Cayuse
+
+
+CITI Training
+
+
+Research Review Categories
+
+
+Committee & Policies
+
+
+Documents, Resources & FAQs
+
+
+
+
+Research at Franklin University
+
+
+Programs & Support
+
+
+Resources
+
+
+Research Opportunities
+
+
+About Us
+
+
+
+
+Office of Accessibility Services
+
+
+Combating Copyright Infringement
+
+
+Financial Aid Statement
+
+
+Influenza Information
+
+
+Information Technology Acceptable Use
+
+
+Notice of Privacy Rights (FERPA)
+
+
+Privacy Statement
+
+
+Student Parking
+
+
+Tuition Refund Policy
+
+
+Vaccinations
+
+
+Inclement Weather Policy
+
+
+Transfer Credit Policy & Procedures
+
+
+
+
+Community Engagement
+
+
+Request Your Franklin Transcripts
+
+
+Urbana University Resources
+
+
+Give to Franklin
+
+
+
+
+
+
+I AM A:
+
+
+
+Future Student
+
+
+Potential Partner
+
+
+Current Student
+
+
+Franklin Alumni
+
+
+Potential Donor
+
+
+
+SHORTCUTS:
+
+
+
+myFranklin
+
+
+Locations
+
+
+Online Degrees
+
+
+Degree Programs
+
+
+Documents & Forms
+
+
+FAQS
+
+
+University Directory
+
+
+News
+
+
+Blog
+
+
+
+
+Associated Sites
+
+
+
+FranklinWORKS Marketplace
+
+
+Franklin University Store & Apparel
+
+
+International Institute for Innovative Instruction
+
+
+Leadership Center
+
+
+Global Center for Healthcare Education
+
+
+Center for Public Safety & Cybersecurity Education
+
+
+Best Adult Colleges & Careers Guide
+
+
+Accounting MVP Blog
+
+
+Data & Analytics MVP Blog
+
+
+
+
+
+
+
+
+
+
+
