@@ -3,10 +3,7 @@ import chainlit as cl
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.llms.groq import Groq
-from llama_index.core import Settings, VectorStoreIndex, StorageContext, ChatPromptTemplate, PromptTemplate, get_response_synthesizer
-from llama_index.core.query_engine import CustomQueryEngine
-from llama_index.core.retrievers import BaseRetriever
-from llama_index.core.response_synthesizers import BaseSynthesizer
+from llama_index.core import Settings, VectorStoreIndex, get_response_synthesizer
 import qdrant_client
 import logging
 from llama_index.vector_stores.qdrant import QdrantVectorStore
@@ -17,7 +14,8 @@ from context.opening_context import opening_context
 async def start():
     vector_store = QdrantVectorStore(
     collection_name="vh_collection", 
-    client=qdrant_client.QdrantClient(url=os.environ['CN_QDRANT_URL'], api_key=os.environ['CN_QDRANT_TOKEN'])
+    client=qdrant_client.QdrantClient(url=os.environ['CN_QDRANT_URL'], api_key=os.environ['CN_QDRANT_TOKEN']),
+    aclient = qdrant_client.AsyncQdrantClient(url=os.environ['CN_QDRANT_URL'], api_key=os.environ['CN_QDRANT_TOKEN'])
     )
 
     llm = Groq(model="llama3-8b-8192", 
@@ -33,7 +31,7 @@ async def start():
     Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
     Settings.num_output = 512
     Settings.context_window = 3900
-    index = VectorStoreIndex.from_vector_store(vector_store=vector_store, settings=Settings)
+    index = VectorStoreIndex.from_vector_store(vector_store=vector_store, settings=Settings, use_async=True)
     retriever = index.as_retriever()
     synthesizer = get_response_synthesizer(response_mode="compact")
 
@@ -55,7 +53,6 @@ async def start():
 @cl.on_message
 async def main(message: cl.Message):
     conversation_history = cl.user_session.get("conversation_history")
-    streaming = cl.user_session.get("streaming")
     conversation_history.append({"role": "user", "content": message.content})
 
     query_engine = cl.user_session.get("query_engine") # type: RetrieverQueryEngine
