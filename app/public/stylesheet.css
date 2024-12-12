@@ -1,0 +1,40 @@
+:root {
+    --var-color-primary-dark: #001e3b;
+    --var-color-primary: #002b54;
+    --var-color-sidebar-light: #005581;
+    --var-color-sidebar-dark: #0b1f2c;
+}
+
+#header {
+    background-color: #001e3b;
+    box-shadow: 0px 4px hsla(0, 0%, 0%, 0.25);
+}
+
+/* Logo img elements */
+#header img, .css-14k6mw7 img {
+    max-height: 35px !important;
+}
+
+.theme-light #header .css-vubbuv {
+    color: white;
+}
+
+/* Sidebar bg color for light theme */
+.css-8sf169 .MuiDrawer-paper, .css-d02jlt .MuiDrawer-paper {
+    background-color: var(--var-color-sidebar-light);
+}
+
+/* Sidebar bg color for dark theme */
+.css-1cezocc .MuiDrawer-paper, .css-1ctp3sk .MuiDrawer-paper {
+    background-color: var(--var-color-sidebar-dark);
+}
+
+/* header icon colors*/
+.css-vz303y {
+    color: white;
+}
+
+/* Readme element */
+.MuiStack-root .css-1rplq84, .MuiStack-root .css-n3nj7q {
+    color: white;
+}
