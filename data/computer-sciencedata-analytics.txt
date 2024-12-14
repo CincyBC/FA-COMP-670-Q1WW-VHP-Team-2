@@ -1,0 +1,2611 @@
+URL: https://www.franklin.edu/degrees/masters/computer-science/data-analytics
+Online M.S. in Computer Science Data Analytics Focus | Franklin.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+M.S. in Computer Science - Data Analytics Focus
+ 
+
+  
+
+36Credit Hours20Month CompletionClass TypeFace-to-face, Online courseworkSee state availabilityNext Start Date
+            Jan 27, 2025
+                          About Start DatesAdditional future start dates include:Spring 2025
+                                                              Feb 17, 2025Summer 2025
+                                                              May 19, 2025Fall 2025
+                                                              Sep 29, 2025Spring 2026
+                                                              Jan 5, 2026
+                                                              Feb 16, 2026Summer 2026
+                                                              May 18, 2026Fall 2026
+                                                              Sep 7, 2026
+                                                              Sep 28, 2026Start dates for individual programs may vary and are subject to change. Please request free information & speak with an admission advisor for the latest program start dates.Placement TestsGMAT/GRE not required for admissionPlacement InformationRequest InfoApply TodayCost Estimator
+
+Home
+                /  
+                                              Degrees
+                /  
+                                              Master's Degrees
+                /  
+                                              Computer Science
+                /  
+                                              M.S. in Computer Science - Data Analytics Focus
+                          
+
+  Tailor your M.S. in computer science with a focus in data analytics
+
+
+Data in its raw form is an asset, but with the help of skilled data professionals, it’s a powerful tool that fuels strategic decision making. With Franklin’s 100% online M.S. in Computer Science with a focus in Data Analytics, you’ll be equipped to combine computer science and data modeling to uncover new opportunities for your organization. By combining applied data analytics skills with the core principles of Franklin’s industry-aligned master’s-level computer science program, the data analytics focus prepares you to excel in specialized roles.
+
+
+
+
+
+
+
+
+  Finish Fast
+Finish your master's in as few as 20 months.
+
+
+
+  Leading Architectural Tools 
+Get hands-on experience with R, Tableau and Python.
+
+
+
+  Customizable Program
+Tailor your master's degree program to your interests.
+
+
+
+  Real-World Practitioners
+Learn from experienced technology leaders.
+
+
+
+  100% Online Classes
+Take classes that fit with your busy life.
+
+
+
+  Game-Changing Skills
+Play an important role in communicating emerging technologies to stakeholders.
+
+
+
+
+
+
+
+
+
+
+  M.S. in Computer Science - Data Analytics Focus Overview
+
+
+
+
+
+  Boost your knowledge of machine learning techniques
+
+As part of your M.S. in Computer Science-Data Analytics, you’ll earn a Data & Machine Learning Engineering digital badge that demonstrates your understanding of machine learning techniques like linear and logistic regression, probabilistic inference and Support Vector Machines. You’ll also have foundational knowledge in algorithm analysis, data modeling, database design, implementation, optimization and queries. You’ll learn techniques to collect, prepare and analyze data to create visualizations, dashboards and stories to communicate business insights.Get hands-on experience with industry-standard data softwareIn an evolving field like data analytics, relevant skills matter more than ever. You’ll get an overview of current data analytics methods, concepts and current practices. You’ll be able to employ data mining principles to identify patterns in data. You’ll learn how to apply inferential statistical analysis methods, including t-tests and ANOVA to make decisions. Assignments will provide opportunities to use R, Tableau, Python, SAS or SPSS to conduct analysis and interpret results. Read more >
+
+
+
+Dimitri V.
+M.S. Computer Science '22
+"My professors taught me many valuable topics including applications of AI, testing, software architecture as well as industry best practices and insights. My classmates also helped me to learn and put the knowledge to use, and as a result, my experience at Franklin has shaped a complete perspective of the field of Computer Science for me." 
+
+
+
+
+
+
+
+  Future Start Dates
+
+
+
+
+Start dates for individual programs may vary and are subject to change. Please request free information & speak with an admission advisor for the latest program start dates.
+
+
+
+
+
+
+Spring 2025January27Recommended Register By: Jan 17 
+
+Spring 2025February17Recommended Register By: Feb 7 
+
+Summer 2025May19Recommended Register By: May 9 
+
+Fall 2025September29Recommended Register By: Sep 19 
+
+Spring 2026January5Recommended Register By: Dec 26 
+
+Spring 2026February16Recommended Register By: Feb 6 
+
+Summer 2026May18Recommended Register By: May 8 
+
+Fall 2026September7Recommended Register By: Aug 28 
+
+Fall 2026September28Recommended Register By: Sep 18 
+
+
+
+
+
+
+
+
+
+  Your Best Value M.S. Computer Science
+
+
+
+
+Choose Franklin's M.S. Computer Science and get a high-quality degree that fits your life and your budget. 
+
+
+
+
+
+
+
+Affordable Tuition
+
+
+$670
+PER CREDIT HOUR
+
+Affordable tuition rates for the M.S. in Computer Science provide value and quality.
+
+
+
+
+
+
+Finish Fast
+
+
+14
+MONTHS TO COMPLETE
+
+Realize your career goals sooner and reap the benefits.
+
+
+
+
+
+
+Non-Profit = Student Focused
+
+
+
+
+Unlike for-profit universities, Franklin invests in student success, not shareholder gain.
+
+
+
+
+
+
+Partner? Pay Less.
+Search below to see if you could save tuition through an employer or professional organization partnership.
+
+
+
+
+
+
+
+
+$24,120
+Total Tuition(After Partner Discount)
+
+
+
+
+
+
+
+
+
+Tuition Guarantee
+
+
+
+
+Inflation-proof your degree cost by locking-in your tuition rate from day one through graduation.
+
+
+
+
+
+
+
+Highly Recommended
+
+
+98%
+STUDENT SATISFACTION
+
+98% of graduating students would recommend Franklin to their family, friends and/or colleagues.
+
+
+**Source: Franklin University, Office of Career Development Student Satisfaction Survey (Summer 2023)
+
+×
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+  M.S. in Computer Science - Data Analytics Focus Curriculum
+
+
+
+
+				36 Semester Hours
+			
+
+
+				Major Area Required			
+
+
+
+
+COMP 611 - Advanced Data Structures and Programming (4)
+This course covers key knowledge and skills for advanced software development using the object-oriented approach. The student learns, manipulates and reflects on nonlinear data structures such as trees and heaps. Recursive algorithms, sorting algorithms, algorithm efficiency, and advanced design patterns are addressed. To support the advanced concepts and principles of software development, the student will design, code, test, debug, and document programs with increased scale and complexity using industry's best practices (such as GitHub) and the Java programming language.
+
+
+COMP 620 - Analysis of Algorithms (4)
+This course covers various algorithm design paradigms, mathematical analysis of algorithms, empirical analysis of algorithms and NP-completeness.
+
+
+COMP 630 - Issues in Database Management (4)
+This course focuses on the fundamental design considerations in designing a database. Specific topics include performance analysis of design alternatives, system configuration and the administration of a popular database system. The course also offers an in-depth analysis of the algorithms and machine organizations of database systems. Note, this course has proctored exam(s). This exams requires additional technology, if student uses online proctoring.
+
+
+COMP 655 - Distributed Systems (4)
+This course provides a comprehensive understanding of distributed systems, encompassing both fundamental concepts and practical skills for building modern distributed applications. The course will explore the architecture, design goals, and challenges of distributed systems, covering core principles like processes, transparency, communication, consistency, fault tolerance, and security. Throughout the course, students will gain hands-on experience through labs and a team project, where they will design, develop, containerize and deploy a microservice-based cloud native application using industry-standard tools and technologies.
+Through this course, students will gain in-depth understanding of core concepts of distributed computing, including study of both abstract concepts and practical techniques for building modern distributed applications.
+
+
+
+COMP 671 - Verification and Testing (4)
+This course focuses on the issues of delivering high-quality software, especially in large complex systems. Topics covered include testing strategies (black box, white box, regression, etc.), unit testing, system integration, system verification and support tools. It also will reinforce the need for requirements that are testable and traceable from the early design stages.
+
+
+COMP 691 - Capstone (4)
+This course, the final one in the Master of Science - Computer Science program, challenges students to research a current topic of interest in Computer Science and produce an original paper and presentation on the topic. In addition to the research paper, students are introduced to the economics of software development and the tools needed to estimate the cost of a software development project for management in a corporate environment. The last topic in the course is a discussion of ethics as it relates to Information Technology. Current topics in ethics will be discussed through the use of relevant case studies.
+
+
+
+
+
+				Major Electives			
+
+
+
+
+At least 12 credits from the following courses:
+MATH 601 - Introduction to Analytics  (4)
+This course provides an introductory overview of methods, concepts, and current practices in the growing field of statistics and data analytics. Topics to be covered include data collection, data analysis and visualization as well as probability, statistical inference and regression methods for informed decision-making. Students will explore these topics with current statistical software. Some emphasis will also be given to ethical principles of data analytics.
+DATA 605 - Data Visualization & Reporting  (4)
+This course focuses on collecting, preparing, and analyzing data to create visualizations, dashboards, and stories that can be used to communicate critical business insights. Students will learn how to structure and streamline data analysis projects and highlight their implications efficiently using the most popular visualization tools used by businesses today.
+DATA 611 - Applied Machine Learning  (4)
+This course explores two main areas of machine learning: supervised and unsupervised. Topics include the fundamental concepts, roadmap of a machine learning project, classification algorithms, regression algorithms, dimensionality reduction, model evaluation, natural language processing, neural networks and deep learning, typical issues in real-world machine learning problems, and Python programming in data science.
+COMP 645 - Object-Oriented Design & Practice  (4)
+This course surveys current practices in software development and software design, especially in the area of object-oriented design. The course will examine and contrast current and leading edge methodologies and practices, including agile, extreme programming, test-driven design, patterns, aspect-oriented programming, model-driven architecture, Unified Modeling Language, and integrated development environments.
+COMP 650 - System Architecture & Engineering  (4)
+This course covers topics in software systems engineering. Its scope is the design of the overall architecture for software systems with emphasis on distributed architectures. The issues in an architecture centered software development cycle and project management are addressed.
+COMP 670 - Application of Artificial Intelligence  (4)
+This course is an introduction to Artificial Intelligence (AI) from an applied perspective. After an introduction of some basic concepts and techniques (such as searching and knowledge representation), the course illustrates both the theoretical foundation and application of these techniques with examples from a variety of problems.
+
+The course surveys a wide range of active areas in AI such as machine learning, artificial neural networks, evolutionary computing, robotics, intelligent agents and bio-inspired AI approaches. It strikes a balance between engineering approaches and theory.
+
+Exercises include hands-on application of basic AI techniques as well as selection of appropriate technologies for a given problem. The principal topics in the selected areas are also coupled with projects where groups of students will participate in the creation of AI-based applications.
+COMP 610 - Internship in Computer Science  (1-4)
+This course provides MSCS students the opportunity to further their education with relevant work experience in the field of Computer Science. This internship is an ongoing seminar between the student, faculty and the employment supervisor. It involves a Learning Contract (Curricular Practical Training [CPT] Information, or other), periodic meetings with the faculty representative, and professional experience at a level equivalent to other electives of the MSCS program. Specification of the materials to be submitted is established in the learning contract. Participation cannot be guaranteed for all applicants.
+COMP 699 - Independent Studies in Graduate Computer Science  (1-4)
+Independent studies courses allow students in good academic standing to pursue learning in areas not covered by the regular curriculum or to extend study in areas presently taught. Study is under faculty supervision and graded on Pass/No Credit basis. For international students, curricular practiced training may be used as an independent study with approval of program chair. (See the "Independent Studies" section of the Academic Bulletin for more details.)
+CYSC 610 - Information Assurance  (4)
+This course covers the fundamentals of security in the enterprise environment. Included are coverage of risks and vulnerabilities, threat modeling, policy formation, controls and protection methods, encryption and authentication technologies, network security, cryptography, personnel and physical security issues, as well as ethical and legal issues. This foundational course serves as an introduction to many of the subsequent topics discussed in depth in later security courses. Note, this course has proctored exam(s). This exam requires additional technology, if student uses online proctoring.
+CYSC 620 - Software and App Security  (4)
+Today, software is at the heart of the business processes of nearly every business from finance to manufacturing.  Software pervades everyday life in expected places like phones and computers but also in places that you may not consider such as toasters, thermostats, automobiles, and even light bulbs. Security flaws in software can have impacts ranging from inconvenient to damaging and even catastrophic when it involves life-critical systems. How can software be designed and built to minimize the presence of flaws or mitigate their impacts?  This course focuses on software development processes that identify, model, and mitigate threats to all kinds of software.  Topics include threat modeling frameworks, attack trees, attack libraries, defensive tactics, secure software development lifecycle, web, cloud, and human factors.
+CYSC 640 - Cryptography  (4)
+The cryptographic primitives of enciphering/deciphering and hashing are the two main methods of preserving confidentiality and integrity of data at rest and in transit. As such, the study of cryptographic techniques is of primary interest to security practitioners. This course will cover the important principles in historical and modern cryptography including the underlying information theory, mathematics, and randomness.  Important technologies such as stream and block ciphers, symmetric and asymmetric cryptography, public key infrastructure, and key exchange will be explored. Finally, hashing and message authentication codes will be examined as a way of preserving data integrity.
+
+
+																					AND																			
+
+Students may complete a focus area to fulfill the Major Elective requirement.
+
+
+
+
+
+				Optional Focus Areas			
+
+
+
+
+Students may complete a focus area to fulfill the Major Elective requirement.
+
+
+																					OR																			
+Data Analytics:
+
+MATH 601 - Introduction to Analytics (4)
+This course provides an introductory overview of methods, concepts, and current practices in the growing field of statistics and data analytics. Topics to be covered include data collection, data analysis and visualization as well as probability, statistical inference and regression methods for informed decision-making. Students will explore these topics with current statistical software. Some emphasis will also be given to ethical principles of data analytics.
+DATA 605 - Data Visualization & Reporting (4)
+This course focuses on collecting, preparing, and analyzing data to create visualizations, dashboards, and stories that can be used to communicate critical business insights. Students will learn how to structure and streamline data analysis projects and highlight their implications efficiently using the most popular visualization tools used by businesses today.
+DATA 611 - Applied Machine Learning (4)
+This course explores two main areas of machine learning: supervised and unsupervised. Topics include the fundamental concepts, roadmap of a machine learning project, classification algorithms, regression algorithms, dimensionality reduction, model evaluation, natural language processing, neural networks and deep learning, typical issues in real-world machine learning problems, and Python programming in data science.
+
+
+																					OR																			
+Cybersecurity:
+
+CYSC 610 - Information Assurance (4)
+This course covers the fundamentals of security in the enterprise environment. Included are coverage of risks and vulnerabilities, threat modeling, policy formation, controls and protection methods, encryption and authentication technologies, network security, cryptography, personnel and physical security issues, as well as ethical and legal issues. This foundational course serves as an introduction to many of the subsequent topics discussed in depth in later security courses. Note, this course has proctored exam(s). This exam requires additional technology, if student uses online proctoring.
+CYSC 620 - Software and App Security (4)
+Today, software is at the heart of the business processes of nearly every business from finance to manufacturing.  Software pervades everyday life in expected places like phones and computers but also in places that you may not consider such as toasters, thermostats, automobiles, and even light bulbs. Security flaws in software can have impacts ranging from inconvenient to damaging and even catastrophic when it involves life-critical systems. How can software be designed and built to minimize the presence of flaws or mitigate their impacts?  This course focuses on software development processes that identify, model, and mitigate threats to all kinds of software.  Topics include threat modeling frameworks, attack trees, attack libraries, defensive tactics, secure software development lifecycle, web, cloud, and human factors.
+CYSC 640 - Cryptography (4)
+The cryptographic primitives of enciphering/deciphering and hashing are the two main methods of preserving confidentiality and integrity of data at rest and in transit. As such, the study of cryptographic techniques is of primary interest to security practitioners. This course will cover the important principles in historical and modern cryptography including the underlying information theory, mathematics, and randomness.  Important technologies such as stream and block ciphers, symmetric and asymmetric cryptography, public key infrastructure, and key exchange will be explored. Finally, hashing and message authentication codes will be examined as a way of preserving data integrity.
+
+
+																					OR																			
+Software Systems:
+
+COMP 645 - Object-Oriented Design & Practice (4)
+This course surveys current practices in software development and software design, especially in the area of object-oriented design. The course will examine and contrast current and leading edge methodologies and practices, including agile, extreme programming, test-driven design, patterns, aspect-oriented programming, model-driven architecture, Unified Modeling Language, and integrated development environments.
+COMP 650 - System Architecture & Engineering (4)
+This course covers topics in software systems engineering. Its scope is the design of the overall architecture for software systems with emphasis on distributed architectures. The issues in an architecture centered software development cycle and project management are addressed.
+COMP 670 - Application of Artificial Intelligence (4)
+This course is an introduction to Artificial Intelligence (AI) from an applied perspective. After an introduction of some basic concepts and techniques (such as searching and knowledge representation), the course illustrates both the theoretical foundation and application of these techniques with examples from a variety of problems.
+
+The course surveys a wide range of active areas in AI such as machine learning, artificial neural networks, evolutionary computing, robotics, intelligent agents and bio-inspired AI approaches. It strikes a balance between engineering approaches and theory.
+
+Exercises include hands-on application of basic AI techniques as well as selection of appropriate technologies for a given problem. The principal topics in the selected areas are also coupled with projects where groups of students will participate in the creation of AI-based applications.
+
+
+
+
+
+				Corequisites			
+
+
+
+
+COMP 501 - Foundations of Programming (4)
+This course covers fundamental programming principles. Students will learn about the basic elements of a computer program, such as data types, assignments, conditional branching, loops, functions, recursion, basic data structures, program debugging, and testing.
+OR ITEC 136 - Principles of Programming (4)
+This course introduces programming to individuals with little or no programming background. The goal of this course is to introduce the fundamentals of structured programming, problem solving, algorithm design, and software lifecycle. Topics will include testing, data types, operations, repetition and selection control structures, functions and procedures, arrays, and top down stepwise refinement. Students will design, code, test, debug, and document programs in a relevant programming language.
+OR COMP 111 - Introduction to Computer Science & Object-Oriented Programming (4)
+This course provides an introduction to software construction using an object-oriented approach. The student learns and reflects on problem analysis, object-oriented design, implementation, and testing. To support the concepts and principles of software construction, the student will design, code, test, debug, and document programs using the Java programming language. Basic data types, control structures, methods, and classes are used as the building blocks for reusable software components. Automated unit testing, programming style, and industrial practice are emphasized in addition to the object-oriented techniques of abstraction, encapsulation, and composition. Note, this course has proctored exam(s).
+
+
+																					AND																			
+
+COMP 511 - Foundation Data Struc & Obj Orntd Design (4)
+This course continues the object-oriented approach to intermediate-level software development. The student will learn and reflect on fundamental object-oriented analysis techniques, basic design patterns, and linear data structures such as lists and queues.
+OR COMP 121 - Object-Oriented Data Structures & Algorithms I (4)
+This course continues the objected-oriented approach to software construction. The student learns and reflects on advanced object-oriented techniques, algorithm efficiency, class hierarchies, and data structures. To support the concepts and principles of software construction, the student will design, code, test, debug, and document programs using the Java programming language. Design principles, I/O, exception handling, linear data structures (lists, stacks, and queues), and design patterns are emphasized in addition to the object-oriented techniques of inheritance and polymorphism. Note, this course has proctored exam(s).
+
+
+																					AND																			
+
+MATH 503 - Foundations of Mathematics for Computing (4)
+This course introduces students to fundamental algebraic, logical, and combinational concepts in mathematics that are needed in upper division computer science courses. Topics include integer representation; algorithms; modular arithmetic and exponentiation; discrete logarithms; cryptography; recursion; primality testing; number theory; graphs and directed graphs; trees; and Boolean Algebra.
+OR MATH 320 - Discrete Mathematics (4)
+This course introduces students to fundamental algebraic, logical, and combinational concepts in mathematics that are needed in upper-division computer science courses. Topics include sets, mappings, and relations; elementary counting principles; proof techniques with an emphasis on mathematical induction; graphs and directed graphs; Boolean algebras; recursion; and applications to computer science.
+
+
+																					AND																			
+
+Students with an undergraduate degree in computer science will be admitted without future prerequisites. However, the students will be expected to possess intermediate Java programming skills as determined by completing COMP 121 or COMP 511, having a Java SE 8 programmer certification from Oracle, or a portfolio of Java-related examples that would include the fundamentals of object-oriented programming, linear and non-liner data structures (stacks, queues, lists, etc.)
+
+
+																					AND																			
+
+Students without a computer science degree will need to have credit for the above Franklin University courses or the equivalent undergraduate course work for the prerequisites at an institutionally (formerly regionally) accredited institution OR appropriate relevant work experience. Graduate prerequisite courses (500 level) must be completed with a grade of "C" or better. Undergraduate prerequisite courses must be completed with a grade of "C" or better. Work experience as a software engineer, developer, or programmer analyst will be evaluated by the program chair upon request. Resumes, work samples, and personal interviews may all be used to determine the depth of knowledge in these areas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Free Master's ToolkitEliminate guesswork by comparing schools and calculate the ROI of a master’s degree.Download Now >
+
+
+
+
+
+
+
+
+  M.S. in Computer Science - Data Analytics Focus Program Details
+
+
+
+
+
+
+			
+  Tuition Costs
+
+			
+
+
+
+
+2024 - 2025 Tuition Cost Per CreditStandard tuition per credit hour$670Nursing programsMSN-FNP, MSN-PMHNP, MSN-AGPCNP, Post-Graduate FNP Certificate, Post-Graduate AGPCNP Certificate and Post-Graduate PMHNP Certificate$670MSN-Generalist, MSN-Nurse Administrator and MSN-Nurse Educator$598RN-MSN Pathway (NURS 500)$298Current service members$536Graduate Prerequisite Courses (500 level)$398Graduate Prerequisite Courses (500 level) - International Students$526
+
+
+
+
+
+
+
+   Know the Total Cost of Your Master’s from Day One
+Save yourself the anxiety of annual tuition increases with Franklin’s Tuition Guarantee. The guarantee lets you lock-in what you’ll pay from first-term through graduation, as long as you remain actively enrolled. Not only will this help you maximize funding sources - like employer reimbursement or financial aid, it will keep you focused on earning your degree. 
+
+
+
+
+
+
+
+Learn More
+
+
+
+
+
+
+
+
+
+			
+  Program Learning Outcomes
+
+			
+
+
+A learning outcome map functions as a roadmap to help guide students' progress through their program of study. Click HERE to view the M.S. Computer Science matrix.
+
+
+
+
+
+
+			
+  Degree Requirements
+
+			
+
+
+To be awarded a graduate degree, students must:
+
+Successfully complete all required curriculum courses.
+Maintain a minimum cumulative grade point average (GPA) of 3.00.
+Complete the residency requirement:
+	
+M.S. - Computer Science students must earn at least 24 of the 36 required credits at Franklin University – in any modality (on-site, hybrid or online).
+
+
+Complete the payment of all requisite tuition and fees;
+Not to be under disciplinary dismissal due to academic dishonesty or violation of Student Code of Conduct.
+
+Transfer credit awarded based on experiential learning shall not count toward the residence requirement at Franklin University.
+
+
+
+
+
+
+			
+  Admission Requirements
+
+			
+
+
+
+
+The admission process reflects Franklin University’s efforts to clearly identify the performance standards that can help predict student success in graduate level study. The selection criterion for Franklin’s graduate programs, as determined by faculty, emphasizes academic ability, contributory work experience, and personal qualities and characteristics.Requirements for admission include having earned a bachelor's degree from an institution accredited by the Accrediting Commission for Community and Junior Colleges, Western Association of Schools and Colleges (ACCJC), Higher Learning Commission (HLC), Middle States Commission on Higher Education (MSCHE), New England Commission on Higher Education (NECHE), Northwest Commission on Colleges and Universities (NWCCU), Southern Association of Colleges and School Commission on Colleges (SACSCOC), WASC Senior College and University Commission (WSCUC), or a Council for Higher Education Accreditation (CHEA)-recognized accrediting organization with a GPA of at least a 2.75 on a 4.0 scale.Applicants who earned at least a 2.5 GPA on a 4.0 scale in their earned bachelor’s degree will automatically be granted conditional enrollment status. Applicants who earned lower than a 2.5 GPA on a 4.0 scale in their earned bachelor’s degree can petition for conditional enrollment status to the program chair by submitting an essay detailing other criteria that the applicant believes should be considered to demonstrate their ability to be successful in a graduate program. This petition could include details on the applicant’s work experience, work ethic, level of professionalism, personality characteristics, level of difficulty of program of study previously completed, etc. Conditional enrollment requires students to achieve a final grade of “B” (3.0 GPA) or better in the first graduate-level course of their program. If the terms of the conditional enrollment are not met, the student will not be allowed to advance in their program and will be unable to earn this graduate degree from Franklin University. 
+
+
+
+
+English Language Testing & TOEFL IELTS
+Prospective students must demonstrate English Language Proficiency. The requirement is met through any of the following:
+
+The applicant is a citizen of a country where English is the official language.*
+The applicant has received a bachelor’s degree (or higher) from an institution located in an English-speaking country in which the courses were taught in English.*
+The applicant has earned appropriate scores on language proficiency exams taken within the last two years, as listed in the Academic Catalog.  
+
+*For more information about English proficiency, including a list of English-speaking nations, please visit our International Students section.
+
+
+
+
+
+
+Program Advisory Board
+
+The University employs a team approach to planning, developing and maintaining its academic curriculum. An essential element of this process – and a key to the institution’s quality assurance practices – is the Program Advisory Board (and the associated Alumni Advisory Board). A diverse array of business and industry leaders make up these discipline-specific boards that provide guidance on theory-to-practice ideas, global business perspectives, and emerging topics in the field. Each academic year, Program Advisory Boards meet with Division Chairs and faculty for lively and engaged conversations, thus bringing members’ substantial professional experience and expertise into the classroom. In addition, some Division Chairs elect to engage Program Advisory Board members in the assessment of academic program outcomes.
+
+
+Name
+Organization
+Title
+
+
+Herbert Berger
+Cardinal Health Inc.
+Enterprise Architect
+
+
+David Blum
+Hylant
+Chief Info. + Innovation Officer
+
+
+Gary Clark
+Columbus State Community College
+Principal Investigator, Asst. Prof.
+
+
+Sean Erikson
+Grange Insurance Companies
+VP, Architecture + IT Strategy
+
+
+Mihajlo Jovanovic
+ JP Morgan Chase
+Lead Software Engineer
+
+
+Perumal Ramasamy
+NetJets
+VP, Data + Quality Programs
+
+
+Srini Ramaswamy
+Battelle
+Head of Technology
+
+
+Gloria Rogiers
+Columbus State Community College
+Dean
+
+
+Paul Varner
+Nationwide
+Consulting IT Architect
+
+
+David Vasquez
+Nationwide Insurance
+Director, IT Applications
+
+
+Bradley West
+HMB Inc.
+Dir., Project Mgmt. Practice
+
+
+Byron White
+Chemical Abstracts Service
+Software Development Manager
+
+
+
+
+
+
+
+
+
+
+
+
+Manasa K.
+M.S. Computer Science '20
+"Thank you Franklin University, for helping me reach this important milestone in my career." 
+
+
+
+
+
+Knowledge & Skillsets
+
+
+Gain in-demand skills sought by employers with curriculum that teaches you:
+
+
+
+			
+  Data Visualization & Reporting
+
+			
+
+
+
+Enhance data collection procedures to include information that is relevant for building analytic systems
+Clearly and effectively present completed analysis with new insights and recommendations to the business partners
+Create interactive dashboards and stories from multiple data sets
+
+
+
+
+
+
+
+			
+  Applied Machine Learning 
+
+			
+
+
+
+Collaborate with different departments to build complex predictive models to support overall business objectives and business needs
+Process, clean, investigate and verify the integrity of data used for analysis
+Research and maintain awareness of best practices and techniques of statistical analysis
+Select features, build and optimize classifiers using machine learning techniques
+
+
+
+
+
+
+
+			
+  Algorithm Analysis 
+
+			
+
+
+
+Evaluate algorithm efficiency and determine the most elegant program logic for problems of varying complexity
+Establish algorithm requirements in support of software development roadmaps
+Assist in the development of advanced algorithms for next-generation functions
+Prototype, design, develop, unit test and release software-utilizing algorithms in support of goals, strategies, technologies and concepts
+
+
+
+
+
+
+
+			
+  Distributed Systems
+
+			
+
+
+
+Build and maintain high-performance distributed systems to meet organizational needs
+Create efficient data structures and analyze distributed algorithms to enable scalable applications
+Develop scalable, robust, distributed data architecture to support data analytics in real time
+Solve technical challenges and issues around distributed systems
+Process large amounts of data and tackle challenging technical problems
+
+
+
+
+
+
+
+			
+  Acceptance Testing 
+
+			
+
+
+
+Create detailed plans, cases and scripts to test applications
+Ensure software meets design specifications and performance standards
+Review requirements specifications to ensure testability and compliance with quality control standards
+
+
+
+
+
+
+
+			
+  Database Design & Administration 
+
+			
+
+
+
+Develop dynamic, data-driven applications through mastery of relational database design, complex SQL queries, and transaction processing
+Write SQL database queries of medium to high complexity in support of data analysis and technical programming
+Apply relational database design best practices to efficiently build data models
+Implement data models, database designs, data access, and table maintenance codes
+Analyze large collections of data in order to inform and apply association rules and other techniques, such as genetic encoding, classification hierarchies and regression analysis to decision making
+Apply relational algebra to the optimization of queries using heuristics
+Utilize data mining techniques to discover knowledge in large data collections
+Apply refactoring techniques to modify and improve database designs
+
+
+
+
+
+
+
+
+
+  Which Data Analytics Program is Best for You?
+
+
+
+
+Find the Data Analytics Program That Fits Your Goals
+If you’re interested in advancing your technology career, Franklin has several great options. Compare programs and identify your perfect match.
+
+
+
+
+
+
+
+
+
+section_icons/si-checkmark-color
+Created with Sketch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+section_icons/si-checkmark-white
+Created with Sketch.
+
+
+
+
+
+
+
+
+
+
+
+
+								M.S. in Computer Science Data Analytics Focus 
+			
+
+
+
+
+
+section_icons/si-document-color
+Created with Sketch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section_icons/si-document-white
+Created with Sketch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								M.S. in Information Technology - Data Analytics Focus 
+			
+
+
+
+
+
+icon_tiles/it-clipboard_chart-color
+Created with Sketch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+icon_tiles/it-clipboard_chart-color
+Created with Sketch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								M.S. in Data Analytics
+			
+
+
+
+Focus: 
+Enhance your expertise as you combine the principles of computer science with the elements of data modeling to facilitate knowledge discovery and application.
+ 
+Skills:
+Develop in-demand skills in the areas of database design, data mining, statistical analysis and visual storytelling.
+ 
+Careers: 
+Put your M.S. in Computer Science-Data Analytics to work helping organizations leverage data-informed insights for business growth and success.
+ 
+How many courses are in the program?
+Nine 12-week courses
+ 
+How quickly can I complete the program?
+20 months
+
+
+Learn More
+
+
+
+
+
+Focus: 
+Grow your skills as a technologist that uses data and statistical reasoning to identify trends, make predictions and inform decision making.
+ 
+Skills:
+Strengthen your understanding and application of statistical inference methodologies, data mining tools and techniques, and visual-based reporting.
+ 
+Careers: 
+Use your M.S. in IT-Data Analytics to help organizations understand and apply data to enhance position, demonstrate value, and improve profitability.
+ 
+How many courses are in the program?
+Nine 12-week courses
+ 
+How quickly can I complete the program?
+16 months
+
+
+Learn More
+
+
+
+
+
+Focus: 
+Develop proficiency in using data as a predictive tool for solving business challenges and creating a competitive advantage.
+ 
+Skills:
+Learn to use and apply descriptive and predictive analytics, data visualization and computer algorithms.
+ 
+Careers: 
+Apply your M.S. in Data Analytics to help organizations use data to maximize operations, inform decision making and optimize financial performance.
+ 
+How many courses are in the program?
+Eight 12-week courses
+ 
+How quickly can I complete the program?
+19 months
+
+
+Learn More
+
+
+
+
+
+
+
+
+
+
+
+  Get College Credit for What You Already Know
+
+
+
+
+The certificates and training listed below are relevant to this degree program. Search our database to view pre-evaluated credentials and see how a license, certification or professional training saves you time and money toward your degree.
+
+
+
+
+
+
+
+
+
+
+
+
+Most Value
+Alphabetical
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit MyCertificates + Training to view all pre-evaluated credentials.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+
+
+		What is a M.S. in Computer Science degree with a focus in Data Analytics?
+		
+
+
+The M.S. in Computer Science with a focus in Data Analytics is a theory-to-practice master’s-level program built on a solid foundation of computer science principles, including advanced data structure and programming, algorithm analysis and distributed systems, and combined with applied skills in data analytics.
+
+
+
+
+		What can you do with a M.S. in Computer Science degree with a focus in Data Analytics?
+		
+
+
+With an M.S. in Computer Science with a focus in Data Analytics, you’ll gain applied skills in data analytics within a computer science framework that can prepare you for a variety of positions including data engineer, machine learning engineer and data scientist.
+
+
+
+
+		Why get a M.S. in Computer Science degree with a focus in Data Analytics?
+		
+
+
+With an M.S. in Computer Science with a focus in Data Analytics, you’ll be equipped to combine computer science and data modeling to uncover new opportunities for your organization.Building on the core principles of a master’s-level computer science program, the cybersecurity focus enables you to customize your degree to your career aspirations.
+
+
+
+
+		What makes Franklin’s M.S. in Computer Science degree with a focus in Data Analytics unique?
+		
+
+
+Franklin’s M.S. in Computer Science with a focus in Data Analytics is a 20-month, 100% online program influenced and designed by leaders in the technology industry. In Franklin’s theory-to-practice program, you’ll be taught by in-field practitioners.
+
+
+
+
+		When can I start Franklin’s M.S. in Computer Science degree with a focus in Data Analytics?
+		
+
+
+Choose from three start dates each year – fall (August), spring (January) or summer (May).
+
+
+
+
+		How much will my M.S. in Computer Science degree with a focus in Data Analytics cost?
+		
+
+
+Franklin University offers a quality education at a competitive cost so you can afford to invest in your future. Our per credit hour tuition rates (vs. per year or per term rates) enable you to get a realistic estimate of exactly how much your degree will cost. Our 2024-2025 tuition rate is $670 per credit hour. Use Franklin’s free MyCost Estimator to get a personalized estimate of your total degree cost. If you have any questions, ask our helpful staff about available financing options and financial aid programs.
+
+
+
+
+		How long does it take to get a M.S. in Computer Science degree with a focus in Data Analytics? 
+		
+
+
+Franklin's master's degree programs are specifically designed for busy, working adults -- that means you could finish your M.S. in Computer Science degree with a focus in Data Analytics in as few as 20 months.
+
+
+See All >
+
+
+
+
+Back to College Blog
+
+
+
+
+ How Hard is Computer Science?
+
+
+
+ Should I Get a Master’s in Computer Science?
+
+
+
+Master’s in Computer Science Requirements: Everything You Need To Know
+
+
+
+Master's in Computer Science Salary: What Pay Can You Expect?
+
+
+
+ Can You Get a Master’s in Computer Science Online with an Unrelated Bachelor’s?
+
+
+
+
+
+
+  Related Programs
+
+
+
+
+M.S. in Cybersecurity 
+M.S. in Data Analytics 
+M.S. in Information Technology
+M.S. Instructional Design & Learning Technology
+
+
+
+
+Any Program TypeAccountingComputer ScienceCriminal Justice & Public SafetyCybersecurityData & AnalyticsHuman ResourcesOperations & Project ManagementPsychologyBusiness & LeadershipEducationFinanceHealthcareMarketing & CommunicationsNursingPublic & Social SciencesInformation TechnologyAny Degree TypeAssociate DegreeUndergraduate CertificateBachelor's DegreeMaster's DegreeGraduate CertificateDoctoral DegreePost-Graduate CertificatePost BaccalaureateFind Programs
+
+
+
+
+
+
+
+
+
+Degrees
+
+
+Microcredentials & Certificates
+
+
+Admissions
+
+
+Tuition & Financial Aid
+
+
+Transferring Credit
+
+
+The Franklin Experience
+
+
+About Us
+
+FranklinWORKS Marketplace
+
+
+
+Safety & Security
+
+
+Policy Information
+
+
+Your Privacy Settings
+
+
+Privacy Policy
+
+
+Terms of Use
+
+
+Careers At Franklin
+
+
+Sitemap
+
+
+
+
+Franklin University
+ Founded in 1902, Franklin is an accredited nonprofit university offering flexible college degrees online and at locations in Ohio and the Midwest.
+
+
+
+
+
+          Franklin University201 S Grant Ave.Columbus, OH 43215
+
+
+          Local: (614) 797-4700
+
+          Toll Free: (877) 341-6300
+          
+          admissions@franklin.edu
+        
+
+
+
+
+Copyright 2024 Franklin University
+
+
+
+
+Franklin University is accredited by the Higher Learning Commission (hlcommission.org/800.621.7440) and authorized by the Ohio Department of Higher Education.
+Franklin University is committed to being an inclusive community free from all forms of discrimination and harassment.
+
+
+
+ 
+
+
+
+
+(877) 341-6300 Apply NowRequest Info
+
+
+
+
+
+
+
+Degrees
+
+
+Program Finder
+
+
+Bachelor's Degrees
+
+
+Accounting
+
+
+Analytics
+
+
+Applied Data Science
+
+
+Business Analytics
+
+
+Healthcare Analytics
+
+
+
+
+Applied Management
+
+
+Business Administration
+
+
+Business Forensics
+
+
+Cloud Computing
+
+
+Communications
+
+
+Computer Science
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Education
+
+
+Adolescence to Young Adult Education (7-12)
+
+
+Education Studies
+
+
+Intervention Specialist
+
+
+Middle Childhood Education (4-9)
+
+
+Primary Education (PK-5)
+
+
+
+
+Exercise Science
+
+
+Financial Management
+
+
+Financial Planning
+
+
+Forensic Accounting
+
+
+Healthcare Administration
+
+
+Human Resources Management
+
+
+Information Systems
+
+
+Analytics
+
+
+Business Analysis & Project Management
+
+
+Business Information Systems
+
+
+Healthcare Information Systems
+
+
+
+
+Information Technology
+
+
+Management & Leadership
+
+
+Marketing
+
+
+Nursing (RN-BSN)
+
+
+Operations & Supply Chain Management
+
+
+Psychology
+
+
+Public Health
+
+
+Public Safety Management & Leadership
+
+
+Social Sciences
+
+
+Sport Management
+
+
+User Experience & Graphic Design
+
+
+
+
+Master's Degrees
+
+
+Accounting
+
+
+M.S. in Accounting - Financial Operations Focus
+
+
+M.S. in Accounting - Taxation Focus
+
+
+M.S. in Accounting (non-Accounting background)
+
+
+
+
+Business Analytics
+
+
+Business Psychology
+
+
+Communications
+
+
+M.S. in Communications-Health Communication
+
+
+M.S. in Communications-Strategic Communication
+
+
+
+
+Computer Science
+
+
+M.S. in Computer Science - General
+
+
+M.S. in Computer Science - Cybersecurity Focus
+
+
+M.S. in Computer Science - Data Analytics Focus
+
+
+M.S. in Computer Science - Software Systems Focus
+
+
+M.S. in Computer Science (non-Computer Science background)
+
+
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Data Analytics
+
+
+Education
+
+
+M.Ed. - Higher Education Leadership
+
+
+M.Ed. - K-12 Building Level Leadership
+
+
+M.Ed. - Principal Licensure
+
+
+
+
+Health Informatics
+
+
+Healthcare Administration (MHA)
+
+
+Healthcare Administration (MHA) - General
+
+
+Healthcare Administration (MHA) - Human Resources
+
+
+Healthcare Administration (MHA) - Operational Excellence
+
+
+Healthcare Administration (MHA) - Organizational Leadership
+
+
+
+
+Human Resource Management
+
+
+Information Systems
+
+
+Information Technology
+
+
+M.S. in Information Technology - Cybersecurity
+
+
+M.S. in Information Technology - Data Analytics
+
+
+M.S. in Information Technology - Healthcare
+
+
+M.S. in Information Technology - IT Leadership
+
+
+M.S. in Information Technology - IT Management
+
+
+M.S. in Information Technology - Learning Technology
+
+
+
+
+Instructional Design & Learning Technology
+
+
+MBA Programs
+
+
+MBA-General
+
+
+MBA-Business Analytics
+
+
+MBA-Business Psychology
+
+
+MBA-Finance
+
+
+MBA-Healthcare
+
+
+MBA-Human Resources
+
+
+MBA-Information Technology
+
+
+MBA-Marketing
+
+
+MBA-Operational Excellence
+
+
+MBA-Organizational Leadership
+
+
+MBA-STEM
+
+
+
+
+MSN Programs
+
+
+Nursing-Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Nursing-Family Nurse Practitioner (MSN-FNP)
+
+
+Nursing-Generalist (MSN)
+
+
+Nursing-Nurse Educator
+
+
+Nursing-Psychiatric Mental Health Nurse Practitioner
+
+
+Nurse Administrator (MSN-ADM)
+
+
+RN to MSN
+
+
+
+
+Professional Sales Leadership
+
+
+Public Administration (MPA)
+
+
+Public Administration-General
+
+
+Public Administration-Criminal Justice
+
+
+Public Administration-Healthcare
+
+
+Public Administration-Human Resources
+
+
+Public Administration-Organizational Leadership
+
+
+
+
+
+
+Doctoral Degrees
+
+
+Business Administration (DBA)
+
+
+Healthcare Administration (DHA)
+
+
+Instructional Design Leadership (Ed.D)
+
+
+Instructional Design Leadership (Ed.D.) - Curriculum & Instruction
+
+
+Instructional Design Leadership (Ed.D.) - Educational Technology
+
+
+
+
+Organizational Leadership (Ed.D.)
+
+
+Organizational Leadership (Ed.D.) - Higher Education Leadership Focus
+
+
+Organizational Leadership (Ed.D.) - Organizational Leadership Focus
+
+
+Organizational Leadership (Ed.D.) - PK-12 Educational Leadership Focus
+
+
+
+
+Nursing (DNP)
+
+
+DNP - Adult-Gerontology Primary Care Nurse Practitioner Track
+
+
+DNP - Family Nurse Practitioner Track
+
+
+DNP - Leadership Track
+
+
+DNP - Psychiatric Mental Health Nurse Practitioner Track
+
+
+BSN to DNP Option
+
+
+
+
+
+
+Associate Degrees
+
+
+Accounting
+
+
+Business Administration
+
+
+A.A.S. Business Administration
+
+
+A.S. Business Administration
+
+
+
+
+Communications
+
+
+Computer Science
+
+
+Criminal Justice
+
+
+Cybersecurity
+
+
+Financial Management
+
+
+Forensic Accounting
+
+
+Health Services
+
+
+IT-Project Management
+
+
+Information Technology
+
+
+Public Safety
+
+
+
+
+Online Degrees
+
+
+Online Learning at Franklin
+
+
+Accounting Programs
+
+
+Business & Leadership Programs
+
+
+Computer Science Programs
+
+
+Criminal Justice & Public Safety Programs
+
+
+Cybersecurity Programs
+
+
+Data & Analytics Programs
+
+
+Education Programs
+
+
+Finance Programs
+
+
+Healthcare Programs
+
+
+Human Resources Programs
+
+
+Information Technology Programs
+
+
+Marketing & Communications Programs
+
+
+Nursing Programs
+
+
+Operations & Project Management Programs
+
+
+Psychology Programs
+
+
+Public & Social Sciences Programs
+
+
+Online Learning Facts
+
+
+
+
+Degrees By Location
+
+
+Degrees By College
+
+
+College of Arts, Sciences & Technology
+
+
+College of Health & Public Administration
+
+
+International Institute For Innovative Instruction
+
+
+Ross College of Business
+
+
+School of Education
+
+
+School of Nursing
+
+
+
+
+Minors
+
+
+Bachelor’s & Master’s Combined Programs
+
+
+Degree Completion Programs
+
+
+Second Bachelor's Degrees
+
+
+
+
+Microcredentials & Certificates
+
+
+Microcredentials
+
+
+Undergraduate Certificates
+
+
+Accounting Data Analytics
+
+
+
+
+Graduate Certificates
+
+
+Cyber Defense
+
+
+Cyber Governance
+
+
+Criminal Justice Leadership
+
+
+Data Analytics
+
+
+Nurse Educator
+
+
+Instructional Design
+
+
+
+
+Post-Graduate Certificates
+
+
+Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Family Nurse Practitioner
+
+
+Psychiatric Mental Health Nurse Practitioner
+
+
+
+
+Post-Baccalaureate Teacher Certification
+
+
+Adolescence to Young Adult Education (7-12)
+
+
+Primary Education (PK-5)
+
+
+Intervention Specialist: Mild/Moderate (K-12)
+
+
+Middle Childhood Education (4-9)
+
+
+
+
+Advanced Accounting Microcredential
+
+
+
+
+Admissions
+
+
+Undergraduate Students
+
+
+Graduate Students
+
+
+Partnership Students
+
+
+International Students
+
+
+Study in the U.S.
+
+
+Earn Your Degree Online
+
+
+
+
+Community College Students
+
+
+College Credit Plus
+
+
+Military & Veterans
+
+
+Active Duty
+
+
+Air Force
+
+
+Army
+
+
+Coast Guard
+
+
+Marines
+
+
+Navy
+
+
+
+
+Veterans
+
+
+Montgomery GI Bill® - Selected Reserves
+
+
+Montgomery GI Bill®
+
+
+Post-9/11 GI Bill®
+
+
+Vocational Rehabilitation and Employment VetSuccess Program
+
+
+Yellow Ribbon Program
+
+
+
+
+Spouses & Family
+
+
+
+
+Online Open House
+
+
+Admission Requirements
+
+
+Associate Degrees
+
+
+Bachelor's Degrees
+
+
+General Bachelor's Degree
+
+
+Nursing (RN-BSN)
+
+
+
+
+Master's Degrees
+
+
+Accounting
+
+
+Business Administration (MBA)
+
+
+Business Analytics
+
+
+Business Psychology
+
+
+Computer Science
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Data Analytics
+
+
+Health Informatics
+
+
+Healthcare Administration (MHA)
+
+
+Human Resource Management
+
+
+Information Technology
+
+
+Instructional Design & Learning Technology
+
+
+Nurse Administrator (MSN-ADM)
+
+
+Nursing-Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Nursing-Family Nurse Practitioner (MSN-FNP)
+
+
+Nursing-Generalist (MSN)
+
+
+Nursing-Psychiatric Mental Health Nurse Practitioner
+
+
+Public Administration
+
+
+
+
+Doctoral Degrees
+
+
+Business Administration (DBA)
+
+
+Healthcare Administration (DHA)
+
+
+Instructional Design Leadership (DPS)
+
+
+Nursing Practice-Family Nurse Practitioner (DNP-FNP)
+
+
+Nursing Practice-Leadership Track (DNP)
+
+
+Organizational Leadership (Ed.D.)
+
+
+
+
+Graduate Certificates
+
+
+Criminal Justice Leadership
+
+
+Instructional Design
+
+
+
+
+
+
+
+
+Tuition & Financial Aid
+
+
+Tuition & Fees
+
+
+Cost Estimate Calculator Tool
+
+
+Tuition Guarantee
+
+
+Undergrad Tuition Comparison
+
+
+Federal Aid & State Aid
+
+
+Institutional Aid & Private Loans
+
+
+Applying for Aid
+
+
+Community College Students
+
+
+Scholarships
+
+
+Payment Options
+
+
+Financial Aid Resources
+
+
+
+
+Transferring Credit
+
+
+Estimate Your Transfer Credit
+
+
+How to Transfer Credits
+
+
+Types of Transfer Credit
+
+
+Previously Earned College Credit
+
+
+Certificates + Professional Training Credit
+
+
+Military Training Credit
+
+
+Testing Credit
+
+
+
+
+Transferring from a Community College
+
+
+Partner Schools
+
+
+Pathway Portal
+
+
+
+
+Transfer into a Bachelor’s Degree
+
+
+Transfer into a Master’s Degree
+
+
+Transfer into a Doctoral Degree
+
+
+Transfer into an Associate Degree
+
+
+
+
+The Franklin Experience
+
+
+Built For Working Adults
+
+
+Transfer Friendly
+
+
+Accredited University & Quality Degrees
+
+
+Fast & Affordable
+
+
+Student Success Stories
+
+
+Valued By Employers
+
+
+Nonprofit
+
+
+Student Support
+
+
+Career Development
+
+
+
+
+About Us
+
+
+Locations
+
+
+Ohio
+
+
+Columbus
+
+
+
+
+
+
+Partnerships
+
+
+College Credit Plus Partnerships
+
+
+Become a Partner
+
+
+Current Partners
+
+
+Teachers
+
+
+
+
+Community College Partnerships
+
+
+Career Advancement Program
+
+
+Benefits for Community Colleges
+
+
+Benefits for Businesses
+
+
+
+
+
+
+Employer Partnerships
+
+
+Global Partnerships
+
+
+Solutions
+
+
+Case Studies
+
+
+Al Baha University
+
+
+MCBS
+
+
+Saudi Electronic University
+
+
+
+
+Current Partnerships
+
+
+
+
+Medical School Partnerships
+
+
+Nurse Preceptor
+
+
+Ohio School District Partnerships
+
+
+
+
+Faculty & Staff
+
+
+Board of Trustees
+
+
+University Leadership
+
+
+University Directory
+
+
+Faculty Profiles
+
+
+President's Welcome
+
+
+Admission Advisors
+
+
+
+
+University Details
+
+
+Accreditation
+
+
+CCNE Accreditation
+
+
+IACBE Accreditation
+
+
+
+
+State Authorization & Professional Licensure Information
+
+
+Our Mission & Values
+
+
+The Four Cornerstones
+
+
+Our History
+
+
+Consumer Information
+
+
+Safety & Security
+
+
+Bookstore
+
+
+Assessment
+
+
+Map & Directions
+
+
+
+
+Franklin Pressroom
+
+
+COVID-19 Updates
+
+
+Students
+
+
+Faculty & Staff
+
+
+Future Students
+
+
+
+
+Events
+
+
+News
+
+
+Request an Expert
+
+
+Presentations & Awards
+
+
+Faculty Awards and Recognitions
+
+
+Speakers' Bureau
+
+
+Event Hosting
+
+
+
+
+Policy Information
+
+
+Title IX
+
+
+Discrimination Harassment & Sexual Misconduct
+
+
+Anti-Hazing Policy
+
+
+Drug Free School & Communities Act
+
+
+Franklin Intervention & Awareness Team
+
+
+Filing Complaints
+
+
+Office of Academic Scholarship
+
+
+Institutional Review Board (IRB)
+
+
+Application & Review Process
+
+
+Cayuse
+
+
+CITI Training
+
+
+Research Review Categories
+
+
+Committee & Policies
+
+
+Documents, Resources & FAQs
+
+
+
+
+Research at Franklin University
+
+
+Programs & Support
+
+
+Resources
+
+
+Research Opportunities
+
+
+About Us
+
+
+
+
+Office of Accessibility Services
+
+
+Combating Copyright Infringement
+
+
+Financial Aid Statement
+
+
+Influenza Information
+
+
+Information Technology Acceptable Use
+
+
+Notice of Privacy Rights (FERPA)
+
+
+Privacy Statement
+
+
+Student Parking
+
+
+Tuition Refund Policy
+
+
+Vaccinations
+
+
+Inclement Weather Policy
+
+
+Transfer Credit Policy & Procedures
+
+
+
+
+Community Engagement
+
+
+Request Your Franklin Transcripts
+
+
+Urbana University Resources
+
+
+Give to Franklin
+
+
+
+
+
+
+I AM A:
+
+
+
+Future Student
+
+
+Potential Partner
+
+
+Current Student
+
+
+Franklin Alumni
+
+
+Potential Donor
+
+
+
+SHORTCUTS:
+
+
+
+myFranklin
+
+
+Locations
+
+
+Online Degrees
+
+
+Degree Programs
+
+
+Documents & Forms
+
+
+FAQS
+
+
+University Directory
+
+
+News
+
+
+Blog
+
+
+
+
+Associated Sites
+
+
+
+FranklinWORKS Marketplace
+
+
+Franklin University Store & Apparel
+
+
+International Institute for Innovative Instruction
+
+
+Leadership Center
+
+
+Global Center for Healthcare Education
+
+
+Center for Public Safety & Cybersecurity Education
+
+
+Best Adult Colleges & Careers Guide
+
+
+Accounting MVP Blog
+
+
+Data & Analytics MVP Blog

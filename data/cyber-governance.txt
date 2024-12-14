@@ -1,0 +1,1835 @@
+URL: https://www.franklin.edu/microcredentials-certificates/graduate-certificates/cyber-governance
+Cybersecurity Governance Certificate | Online Graduate Certificate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graduate Certificate in Cyber Governance
+ 
+
+  16Credit Hours8Month CompletionClass Type100% onlineSee state availabilityNext Start Date
+								Jan 6, 2025
+																	About Start DatesAdditional future start dates include:Summer 2025
+																																			May 19, 2025Fall 2025
+																																			Aug 18, 2025
+																																			Sep 29, 2025Spring 2026
+																																			Jan 5, 2026
+																																			Feb 16, 2026Summer 2026
+																																			May 18, 2026Fall 2026
+																																			Aug 17, 2026Start dates for individual programs may vary and are subject to change. Please request free information & speak with an admission advisor for the latest program start dates.Placement TestsGMAT/GRE not required for admissionPlacement InformationRequest InfoApply TodayCost Estimator Home
+                /  
+                                              Microcredentials & Certificates
+                /  
+                                              Graduate Certificates
+                /  
+                                              Cyber Governance
+                          
+
+  Complete a Graduate Certificate in Cyber Governance Online
+
+
+As the incidence of cyber threats continues to grow, many organizations struggle to establish processes to align security programs with business objectives, adhere to regulations and standards, and create security policies to manage risk. Franklin University’s online Graduate Certificate in Cyber Governance can help you acquire information security governance skills or add security concepts to your existing management skills. 
+
+
+Program Availability
+
+Alabama
+Alaska
+American Samoa
+Arizona
+Arkansas
+Armed Forces America
+California
+Colorado
+Connecticut
+Delaware
+District Of Columbia
+Federated States of Micronesia
+Florida
+Georgia
+Guam
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Marshall Islands
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Northern Mariana Islands
+Ohio
+Oklahoma
+Oregon
+Palau
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virgin Islands
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+
+
+
+						Online
+					
+On Site
+
+
+
+
+
+
+
+
+
+
+  Finish Fast
+Earn your certificate and prepare to advance in as few as 8 months.  
+
+
+
+  Boost Your Marketability
+Gain cyber governance skills you can use in any industry. 
+
+
+
+  No STEM Required 
+Get started right away – no tech background or corequisite courses needed.  
+
+
+
+  Shape100% Online Coursework
+Balance your learning with other commitments. 
+
+
+
+  Learn from the Best
+Benefit from the expertise of seasoned, in-field practitioners.
+
+
+
+
+
+
+
+
+
+
+
+  Cyber Governance Certificate Program Overview
+
+
+
+
+
+  Expand your expertise and broaden your marketability 
+
+If you are a business professional with an affinity toward technology or a tech guru with a desire to break into management, the Graduate Certificate in Cyber Governance is a good fit for you. Situated at the intersection of business and cybersecurity, cyber governance requires the ability to understand threats from a technical standpoint, but making decisions that guide organizations through challenges requires careful consideration of financial, operational and regulatory issues. For that reason, the ability to communicate credibly with stakeholders across the organization is critical.  Franklin’s Cyber Governance Graduate Certificate has multiple start dates each year, can be completed 100% online in as few as 8 months and has no technical pre-requisite courses – so you can get in, get out and get moving to your next opportunity on your terms.  Gain industry-aligned skills in fast-growing field The Cyber Governance Graduate Certificate is aligned with industry standards including the Certified Information Systems Security Professional (CISSP) and the Certified in Risk and Information Systems Control (CRISC).  By completing the certificate, you’ll have the knowledge and skills to communicate effectively with senior executives about security-related issues, identify and mitigate security risks through appropriate controls, develop security strategy and measure effectiveness, develop policies and procedures compatible with regulatory requirements, construct disaster recovery plans and apply ethical thinking and reasoning to security and privacy issues.  Earn your Graduate Certificate in Cyber Governance from a university built for busy adults As an accredited, nonprofit university, our focus at Franklin is on you. Our team of academic advisors will help ease your transition to becoming a student, while our flexible course schedules and 100% online coursework help to balance your education with work, family and life.  Students rate our faculty members as top-notch for the real-world expertise they are able to bring to the coursework. When you need help, your instructor is just a phone call or email away. You can also rely on support resources from the Learning Commons, like workshops, tutoring sessions and library services. Get started on your future today.  Read more >
+
+
+
+
+
+
+  Cyber Governance Certificate Courses & Curriculum
+
+
+
+
+				16 Semester Hours
+			
+
+
+				Major Area Required			
+
+
+
+
+CYSC 600 - Intro to Cybersecurity Fundamentals (4)
+Designed specifically for graduate students from diverse backgrounds, this course demystifies the complex world of cybersecurity, making it accessible and engaging for those without prior technical expertise. Focusing on critical thinking, the course explores security via people, processes, and technology and will introduce, define, and apply general cybersecurity information. Additional topics include legal compliance and governance, ethics and privacy, basic risk management, and personal and professional awareness and safety. Emphasis is on the critical sectors which allows for industry-specific application of concepts relevant to the students? programs of study.
+OR CYSC 610 - Information Assurance (4)
+This course covers the fundamentals of security in the enterprise environment. Included are coverage of risks and vulnerabilities, threat modeling, policy formation, controls and protection methods, encryption and authentication technologies, network security, cryptography, personnel and physical security issues, as well as ethical and legal issues. This foundational course serves as an introduction to many of the subsequent topics discussed in depth in later security courses. Note, this course has proctored exam(s). This exam requires additional technology, if student uses online proctoring.
+
+
+																					AND																			
+
+CYSC 630 - Information Risk Management (4)
+When audits, technology, or compliance become the driver for security initiatives the resulting program is strategically fragmented, reactive, and rigid. Moreover, there are few, if any, assurances that the biggest threats are being addressed.  On the other hand, risk assessment places values on assets, evaluates the current controls, and provides data to improve the protection in a controlled, proactive, and flexible manner.  This course teaches an approach to security that combines operational security, risk assessment, test and review and mitigation such that value can be demonstrated. A project-based approach to risk assessment is followed including, project definition and preparation, data gathering, technical information, physical data gathering, analysis, mitigation, recommendations, and reporting. Note, this course has proctored exam(s).
+
+
+CYSC 660 - Cybercrime, Ethics, and Privacy (4)
+The prevalence of data breaches, identity theft, and the dark net today makes the study of digital cybercrime, ethics, and compliance highly relevant to information security. Laws related to intellectual property, privacy, and criminal and civil proceedings will be discussed. Ethical behavior and frameworks for navigating between customer and business concerns in the workplace are also emphasized.
+
+
+CYSC 680 - Information Security Policy & Governance (4)
+As organizations have fallen victim to the proliferation of cyberattacks in recent years, many have responded reactively, thereby developing a posture that "wins the previous war." However, regulations and laws are now necessitating a more proactive stance. Organizations that can develop an effective security strategy stand to gain as they balance business with security. This course is about leading organizations in developing an effective information security program via policies, frameworks, architecture, standards, organizational hierarchies, controls and metrics with the end goal being a proactive security posture tailored to the specific business needs.
+
+
+
+
+
+
+
+
+
+
+
+
+  Keep the Momentum Going
+
+
+
+
+
+
+
+  Keep the momentum going and earn your master’s degree 
+Completion of the four courses required to earn the Graduate Certificate in Cyber Governance not only equips you with job-ready skills but also positions you just five classes away from completing Franklin’s M.S. in Cybersecurity, a comprehensive degree that equips you with both theory-based knowledge and application-oriented security skills to develop solutions that minimize risk. 
+
+
+
+
+
+
+
+
+
+Program Details
+
+
+
+
+
+			
+  Tuition Costs
+
+			
+
+
+
+
+2024 - 2025 Tuition Cost Per CreditStandard tuition per credit hour$670Nursing programsMSN-FNP, MSN-PMHNP, MSN-AGPCNP, Post-Graduate FNP Certificate, Post-Graduate AGPCNP Certificate and Post-Graduate PMHNP Certificate$670MSN-Generalist, MSN-Nurse Administrator and MSN-Nurse Educator$598RN-MSN Pathway (NURS 500)$298Current service members$536Graduate Prerequisite Courses (500 level)$398Graduate Prerequisite Courses (500 level) - International Students$526
+
+
+
+
+
+
+
+   Know the Total Cost of Your Master’s from Day One
+Save yourself the anxiety of annual tuition increases with Franklin’s Tuition Guarantee. The guarantee lets you lock-in what you’ll pay from first-term through graduation, as long as you remain actively enrolled. Not only will this help you maximize funding sources - like employer reimbursement or financial aid, it will keep you focused on earning your degree. 
+
+
+
+
+
+
+
+Learn More
+
+
+
+
+
+
+
+
+
+			
+  Certificate Requirements
+
+			
+
+
+
+
+The Graduate Academic Certificate and Post-Graduate Certificate programs are a graduate-level program of study that concentrates on a specific body of knowledge within a field of study. It is intended to prepare, upgrade, or retrain a person for immediate application of the knowledge learned. The credits earned as part of this program of study can be applied to a related degree program at Franklin University.
+Graduate Academic Certificate Program Requirements
+
+The program must have a minimum of fifteen (15) credit hours with at least twelve (12) of those credit hours earned at Franklin University
+Students must adhere to the same admissions standards as those entering the graduate program
+All applicable prerequisites must be taken prior to enrolling in the required certificate courses
+Courses must be completed with a grade of “B-” or better (Nursing post-graduate and graduate certificates require a "B" or better in all courses)
+A minimum cumulative grade point average (GPA) of 3.0 is required to receive the certificate
+Students seeking a certificate must attain the requirements for the graduate certificate within four years of the first trimester completed under a declared program. Thereafter, a student is bound by current Academic Catalog requirements.
+Students should refer to the major programs section of the academic catalog that may outline additional requirements.
+
+Application for Completion:
+
+Every student in a certificate program must complete an application for completion in order for the certificate to be awarded. Please contact your Academic Advisor for the application.
+Completed applications must be submitted to your Academic Advisor no later than 2 weeks prior to the end of the term of certificate completion.
+There is a $25 fee due with your application. Franklin University will not issue certificates to students with unpaid balances.
+Certificates will be mailed to the student’s home address at the end of the trimester of completion.
+
+
+
+
+
+
+
+
+
+			
+  Admission Requirements
+
+			
+
+
+
+
+The admission process reflects Franklin University’s efforts to clearly identify the performance standards that can help predict student success in graduate level study. The selection criterion for Franklin’s graduate programs, as determined by faculty, emphasizes academic ability, contributory work experience, and personal qualities and characteristics.Requirements for admission include having earned a bachelor's degree from an institution accredited by the Accrediting Commission for Community and Junior Colleges, Western Association of Schools and Colleges (ACCJC), Higher Learning Commission (HLC), Middle States Commission on Higher Education (MSCHE), New England Commission on Higher Education (NECHE), Northwest Commission on Colleges and Universities (NWCCU), Southern Association of Colleges and School Commission on Colleges (SACSCOC), WASC Senior College and University Commission (WSCUC), or a Council for Higher Education Accreditation (CHEA)-recognized accrediting organization with a GPA of at least a 2.75 on a 4.0 scale.Applicants who earned at least a 2.5 GPA on a 4.0 scale in their earned bachelor’s degree will automatically be granted conditional enrollment status. Applicants who earned lower than a 2.5 GPA on a 4.0 scale in their earned bachelor’s degree can petition for conditional enrollment status to the program chair by submitting an essay detailing other criteria that the applicant believes should be considered to demonstrate their ability to be successful in a graduate program. This petition could include details on the applicant’s work experience, work ethic, level of professionalism, personality characteristics, level of difficulty of program of study previously completed, etc. Conditional enrollment requires students to achieve a final grade of “B” (3.0 GPA) or better in the first graduate-level course of their program. If the terms of the conditional enrollment are not met, the student will not be allowed to advance in their program and will be unable to earn this graduate degree from Franklin University. 
+
+
+
+
+English Language Testing & TOEFL IELTS
+Prospective students must demonstrate English Language Proficiency. The requirement is met through any of the following:
+
+The applicant is a citizen of a country where English is the official language.*
+The applicant has received a bachelor’s degree (or higher) from an institution located in an English-speaking country in which the courses were taught in English.*
+The applicant has earned appropriate scores on language proficiency exams taken within the last two years, as listed in the Academic Catalog.  
+
+*For more information about English proficiency, including a list of English-speaking nations, please visit our International Students section.
+
+
+
+
+
+
+
+
+
+
+
+
+Request Free Information!Want to learn more about Franklin University? Complete the simple form - it just takes a minute!Invest in yourself by finishing your degree.Take advantage of flexible courses that fit your busy schedule.Finish faster. Save more. Franklin fits your life.Get in-demand knowledge that helps Franklin grads stand out with top employers.Request InformationWhat type of program are you seeking?-- Select Program Type --AssociateBachelor'sCombined Bachelor's & Master'sMaster'sCertificateDoctorateNon-Degree SeekingPost BaccalaureateCollege Credit Plus/Pre-College (HS Student)What is your program of interest?-- Select Program --Microcredential-- Select Microcredential --SpecializationNoneDo you have an associate degree or diploma in nursing?-- Select Status --YesNoNursing License Status-- Select Status --I have a current RN licenseMy license is pendingMy license is suspended or expiredI do not have an RN license
+				A clear and unencumbered nursing license is required for this program.  Please resolve the issue with your license and return to inquire at that time.  In the interim, we welcome you to select an alternate academic program.
+			
+				A clear and unencumbered nursing license is required to enter this program.  We welcome you to select an alternate academic program.
+			When would you like to start classes?What is your highest level of education?-- Select Highest Education --Currently pursuing a high school diploma or GEDHave a high school diploma or GEDHave or currently pursuing Associate'sCurrently pursuing Bachelor's at an institution other than FranklinHave Bachelor'sHave or currently pursuing Master'sHave or currently pursuing DoctorateWhere did you receive (or are currently pursuing) your Associate's Degree?-- Select Country --My country is not listed"
+								AlbaniaAlgeriaAnguillaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBermudaBoliviaBosnia and HerzegovinaBotswanaBrazilBulgariaBurkina FasoCameroonCanadaChinaColombiaCongoCroatiaCubaCuracaoDemocratic Republic of CongoDenmarkDominicaDominican RepublicEcuadorEgyptEnglandEritreaEstoniaEthiopiaFranceGabonGambiaGermanyGhanaGrenadaGuatemalaGuinea, West AfricaGuyanaHaitiHungaryIndiaIranIraqIrelandIsraelItalyIvory Coast (Cote d'Ivoire)JamaicaJapanJordanKenyaKyrgyzstanLebanonLesothoLiberiaLithuaniaLuxembourgMacedoniaMalawiMalaysiaMaltaMauritaniaMexicoMoldovaMongoliaMontserratNamibia, AfricaNepalNetherlandsNew ZealandNigeriaNorwayOmanPakistanPalestinePanamaPeruPhilippinesPolandPuerto RicoQatarRepublic of CyprusRepublic of GeorgiaRomaniaRussiaRwandaSaint Kitts and NevisSaint LuciaSaudi ArabiaScotlandSenegalSerbiaSingaporeSlovakiaSouth AfricaSouth KoreaSpainSt. LuciaSwedenSwitzerlandSyriaTaiwan, R.O.C.TanzaniaThailandTogoTrinidadTunisiaTurkeyTurks and Caicos IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUnknownUzbekistanVenezuelaVietnamYemenZambiaZimbabwe-- Select State ---- Select City ---- Select Institution --First NameLast NamePrimary EmailPrimary PhoneSelect the state where you live-- Select State --AlabamaAlaskaAmerican SamoaArizonaArkansasArmed Forces AmericaCaliforniaColoradoConnecticutDelawareDistrict Of ColumbiaFederated States of MicronesiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarshall IslandsMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPalauPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirgin IslandsVirginiaWashingtonWest VirginiaWisconsinWyomingZip CodeI do not live in the U.S.Where is your country of citizenship?-- Select Country --AfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAmerican Samoa(Western Samoa)American Virgin IslandsAndorraAngolaAnguillaAntarticaAntigua and BarbudaArgentinaArmeniaArubaAshmore and Cartier IslandsAustraliaAustriaAzerbaijanBahamasBahrainBamakoBandungBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBrunei DarussalamBulgariaBurkina FasoBurmaBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCote D'Ivoire (Ivory Coast)CroatiaCubaCuracaoCzech RepublicDemocratic Republic of CongoDenmarkDjibouti - RddDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEnglandEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFiji IslandsFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGermanyGhanaGibraltarGreat BritainGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuinea, West AfricaGuinea-BissauGuyanaHaitiHeard and McDonald IslandsHerzegovinaHoly See (Vatican City)HondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyIvory Coast (Cote d'Ivoire)JamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmar (Burma)Namibia, AfricaNauruNavassa IslandNepalNetherlandsNetherlands AntillesNew CaledoniaNew Guinea (Papua New Guinea)New ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorth KoreaNorthern IrelandNorthern Mariana IslandsNorwayOmanPakistanPalau, W Caroline IslandsPalestinePanamaPapua New GuineaParaguayPersiaPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarRepublic of CyprusRepublic of GeorgiaRepublic of MoldovaReunionRomaniaRussiaRwandaSaint BarthelemySaint HelenaSaint Kitts and NevisSaint LuciaSaint MartinSaint Pierre and MiquelonSaint Vincent and GrenadinesSan MarinoSao Tome and PrincipeSaudi ArabiaScotlandSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth AmericaSouth KoreaSouth SudanSoviet UnionSpainSri LankaSt. KittsSt. LuciaSt. MaartenSt. Thomas, V.I.SudanSurinameSvalbard and Jan MayenSwazilandSwedenSwitzerlandSyriaTaiwan, R.O.C.TajikistanTanzaniaThailandTimor-LesteTogoToklauTongaTrinidadTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUnknownUruguayUzbekistanVanuatuVenezuelaVietnamWales U.K.Wallis and FutunaWest AfricaWest IndiesWestern SaharaYemenYugoslaviaZaire(Democratic Rep of CongoZambiaZimbabweAre you serving in the U.S. military, a veteran, or a spouse or dependent of a servicemember?YesNoImmigration StatusI am a U.S. immigrant, such as a Permanent Resident, Asylee, Refugee, or undocumented immigrantI am a non-immigrant to the U.S., such as an F-1 Student, H-1B Worker, H-4 Dependent, J-1 Visitor, or B-1/B-2 TouristI plan to come to the U.S. as an international studentI plan to study online from outside the U.S. 
+				Step 1 of 3Get Started >< BackNext >Submit
+				In submitting my contact information, I understand that I will receive phone calls, text messages and email about attending Franklin University. I may opt out of these communications at any time.
+				
+				Your privacy is important to us. Privacy PolicyLoading...We're SorryThere was an unexpected error with the form (your web browser was unable to retrieve some required data from our servers).  This kind of error may occur if you have temporarily lost your internet connection.  If you're able to verify that your internet connection is stable and the error persists, the Franklin University Help Desk is available to assist you at helpdesk@franklin.edu, 614.947.6682 (local), or 1.866.435.7006 (toll free).Just a moment while we process your submission.
+
+
+
+
+
+
+
+Career Opportunities
+
+
+
+
+
+
+
+  Cybersecurity Manager
+Cybersecurity managers protect information systems by detecting threats to the system and creating cyber-attack response plans. 
+
+
+
+  Cybersecurity Analyst  
+Cybersecurity analysts monitor hardware, software and networks for unauthorized access, and investigate and respond to incidents in real time. 
+
+
+
+  Chief Information Security Officer 
+Chief information security officers are responsible for maintaining an organization’s regulatory compliance and understanding how regulations impact the organization/industry, as well as managing and advocating for security at the leadership level.  
+
+
+
+  Cybersecurity Architect 
+Cybersecurity architects use extensive knowledge of computer networking, firewalls and penetration testing to assist in the design, building and defense of networks.  
+
+
+
+
+
+
+
+
+
+
+
+Degrees
+
+
+Microcredentials & Certificates
+
+
+Admissions
+
+
+Tuition & Financial Aid
+
+
+Transferring Credit
+
+
+The Franklin Experience
+
+
+About Us
+
+FranklinWORKS Marketplace
+
+
+
+Safety & Security
+
+
+Policy Information
+
+
+Your Privacy Settings
+
+
+Privacy Policy
+
+
+Terms of Use
+
+
+Careers At Franklin
+
+
+Sitemap
+
+
+
+
+Franklin University
+ Founded in 1902, Franklin is an accredited nonprofit university offering flexible college degrees online and at locations in Ohio and the Midwest.
+
+
+
+
+
+          Franklin University201 S Grant Ave.Columbus, OH 43215
+
+
+          Local: (614) 797-4700
+
+          Toll Free: (877) 341-6300
+          
+          admissions@franklin.edu
+        
+
+
+
+
+Copyright 2024 Franklin University
+
+
+
+
+Franklin University is accredited by the Higher Learning Commission (hlcommission.org/800.621.7440) and authorized by the Ohio Department of Higher Education.
+Franklin University is committed to being an inclusive community free from all forms of discrimination and harassment.
+
+
+
+ 
+
+
+
+
+(877) 341-6300 Apply NowRequest Info
+
+
+
+
+
+
+
+Degrees
+
+
+Program Finder
+
+
+Bachelor's Degrees
+
+
+Accounting
+
+
+Analytics
+
+
+Applied Data Science
+
+
+Business Analytics
+
+
+Healthcare Analytics
+
+
+
+
+Applied Management
+
+
+Business Administration
+
+
+Business Forensics
+
+
+Cloud Computing
+
+
+Communications
+
+
+Computer Science
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Education
+
+
+Adolescence to Young Adult Education (7-12)
+
+
+Education Studies
+
+
+Intervention Specialist
+
+
+Middle Childhood Education (4-9)
+
+
+Primary Education (PK-5)
+
+
+
+
+Exercise Science
+
+
+Financial Management
+
+
+Financial Planning
+
+
+Forensic Accounting
+
+
+Healthcare Administration
+
+
+Human Resources Management
+
+
+Information Systems
+
+
+Analytics
+
+
+Business Analysis & Project Management
+
+
+Business Information Systems
+
+
+Healthcare Information Systems
+
+
+
+
+Information Technology
+
+
+Management & Leadership
+
+
+Marketing
+
+
+Nursing (RN-BSN)
+
+
+Operations & Supply Chain Management
+
+
+Psychology
+
+
+Public Health
+
+
+Public Safety Management & Leadership
+
+
+Social Sciences
+
+
+Sport Management
+
+
+User Experience & Graphic Design
+
+
+
+
+Master's Degrees
+
+
+Accounting
+
+
+M.S. in Accounting - Financial Operations Focus
+
+
+M.S. in Accounting - Taxation Focus
+
+
+M.S. in Accounting (non-Accounting background)
+
+
+
+
+Business Analytics
+
+
+Business Psychology
+
+
+Communications
+
+
+M.S. in Communications-Health Communication
+
+
+M.S. in Communications-Strategic Communication
+
+
+
+
+Computer Science
+
+
+M.S. in Computer Science - General
+
+
+M.S. in Computer Science - Cybersecurity Focus
+
+
+M.S. in Computer Science - Data Analytics Focus
+
+
+M.S. in Computer Science - Software Systems Focus
+
+
+M.S. in Computer Science (non-Computer Science background)
+
+
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Data Analytics
+
+
+Education
+
+
+M.Ed. - Higher Education Leadership
+
+
+M.Ed. - K-12 Building Level Leadership
+
+
+M.Ed. - Principal Licensure
+
+
+
+
+Health Informatics
+
+
+Healthcare Administration (MHA)
+
+
+Healthcare Administration (MHA) - General
+
+
+Healthcare Administration (MHA) - Human Resources
+
+
+Healthcare Administration (MHA) - Operational Excellence
+
+
+Healthcare Administration (MHA) - Organizational Leadership
+
+
+
+
+Human Resource Management
+
+
+Information Systems
+
+
+Information Technology
+
+
+M.S. in Information Technology - Cybersecurity
+
+
+M.S. in Information Technology - Data Analytics
+
+
+M.S. in Information Technology - Healthcare
+
+
+M.S. in Information Technology - IT Leadership
+
+
+M.S. in Information Technology - IT Management
+
+
+M.S. in Information Technology - Learning Technology
+
+
+
+
+Instructional Design & Learning Technology
+
+
+MBA Programs
+
+
+MBA-General
+
+
+MBA-Business Analytics
+
+
+MBA-Business Psychology
+
+
+MBA-Finance
+
+
+MBA-Healthcare
+
+
+MBA-Human Resources
+
+
+MBA-Information Technology
+
+
+MBA-Marketing
+
+
+MBA-Operational Excellence
+
+
+MBA-Organizational Leadership
+
+
+MBA-STEM
+
+
+
+
+MSN Programs
+
+
+Nursing-Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Nursing-Family Nurse Practitioner (MSN-FNP)
+
+
+Nursing-Generalist (MSN)
+
+
+Nursing-Nurse Educator
+
+
+Nursing-Psychiatric Mental Health Nurse Practitioner
+
+
+Nurse Administrator (MSN-ADM)
+
+
+RN to MSN
+
+
+
+
+Professional Sales Leadership
+
+
+Public Administration (MPA)
+
+
+Public Administration-General
+
+
+Public Administration-Criminal Justice
+
+
+Public Administration-Healthcare
+
+
+Public Administration-Human Resources
+
+
+Public Administration-Organizational Leadership
+
+
+
+
+
+
+Doctoral Degrees
+
+
+Business Administration (DBA)
+
+
+Healthcare Administration (DHA)
+
+
+Instructional Design Leadership (Ed.D)
+
+
+Instructional Design Leadership (Ed.D.) - Curriculum & Instruction
+
+
+Instructional Design Leadership (Ed.D.) - Educational Technology
+
+
+
+
+Organizational Leadership (Ed.D.)
+
+
+Organizational Leadership (Ed.D.) - Higher Education Leadership Focus
+
+
+Organizational Leadership (Ed.D.) - Organizational Leadership Focus
+
+
+Organizational Leadership (Ed.D.) - PK-12 Educational Leadership Focus
+
+
+
+
+Nursing (DNP)
+
+
+DNP - Adult-Gerontology Primary Care Nurse Practitioner Track
+
+
+DNP - Family Nurse Practitioner Track
+
+
+DNP - Leadership Track
+
+
+DNP - Psychiatric Mental Health Nurse Practitioner Track
+
+
+BSN to DNP Option
+
+
+
+
+
+
+Associate Degrees
+
+
+Accounting
+
+
+Business Administration
+
+
+A.A.S. Business Administration
+
+
+A.S. Business Administration
+
+
+
+
+Communications
+
+
+Computer Science
+
+
+Criminal Justice
+
+
+Cybersecurity
+
+
+Financial Management
+
+
+Forensic Accounting
+
+
+Health Services
+
+
+IT-Project Management
+
+
+Information Technology
+
+
+Public Safety
+
+
+
+
+Online Degrees
+
+
+Online Learning at Franklin
+
+
+Accounting Programs
+
+
+Business & Leadership Programs
+
+
+Computer Science Programs
+
+
+Criminal Justice & Public Safety Programs
+
+
+Cybersecurity Programs
+
+
+Data & Analytics Programs
+
+
+Education Programs
+
+
+Finance Programs
+
+
+Healthcare Programs
+
+
+Human Resources Programs
+
+
+Information Technology Programs
+
+
+Marketing & Communications Programs
+
+
+Nursing Programs
+
+
+Operations & Project Management Programs
+
+
+Psychology Programs
+
+
+Public & Social Sciences Programs
+
+
+Online Learning Facts
+
+
+
+
+Degrees By Location
+
+
+Degrees By College
+
+
+College of Arts, Sciences & Technology
+
+
+College of Health & Public Administration
+
+
+International Institute For Innovative Instruction
+
+
+Ross College of Business
+
+
+School of Education
+
+
+School of Nursing
+
+
+
+
+Minors
+
+
+Bachelor’s & Master’s Combined Programs
+
+
+Degree Completion Programs
+
+
+Second Bachelor's Degrees
+
+
+
+
+Microcredentials & Certificates
+
+
+Microcredentials
+
+
+Undergraduate Certificates
+
+
+Accounting Data Analytics
+
+
+
+
+Graduate Certificates
+
+
+Cyber Defense
+
+
+Cyber Governance
+
+
+Criminal Justice Leadership
+
+
+Data Analytics
+
+
+Nurse Educator
+
+
+Instructional Design
+
+
+
+
+Post-Graduate Certificates
+
+
+Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Family Nurse Practitioner
+
+
+Psychiatric Mental Health Nurse Practitioner
+
+
+
+
+Post-Baccalaureate Teacher Certification
+
+
+Adolescence to Young Adult Education (7-12)
+
+
+Primary Education (PK-5)
+
+
+Intervention Specialist: Mild/Moderate (K-12)
+
+
+Middle Childhood Education (4-9)
+
+
+
+
+Advanced Accounting Microcredential
+
+
+
+
+Admissions
+
+
+Undergraduate Students
+
+
+Graduate Students
+
+
+Partnership Students
+
+
+International Students
+
+
+Study in the U.S.
+
+
+Earn Your Degree Online
+
+
+
+
+Community College Students
+
+
+College Credit Plus
+
+
+Military & Veterans
+
+
+Active Duty
+
+
+Air Force
+
+
+Army
+
+
+Coast Guard
+
+
+Marines
+
+
+Navy
+
+
+
+
+Veterans
+
+
+Montgomery GI Bill® - Selected Reserves
+
+
+Montgomery GI Bill®
+
+
+Post-9/11 GI Bill®
+
+
+Vocational Rehabilitation and Employment VetSuccess Program
+
+
+Yellow Ribbon Program
+
+
+
+
+Spouses & Family
+
+
+
+
+Online Open House
+
+
+Admission Requirements
+
+
+Associate Degrees
+
+
+Bachelor's Degrees
+
+
+General Bachelor's Degree
+
+
+Nursing (RN-BSN)
+
+
+
+
+Master's Degrees
+
+
+Accounting
+
+
+Business Administration (MBA)
+
+
+Business Analytics
+
+
+Business Psychology
+
+
+Computer Science
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Data Analytics
+
+
+Health Informatics
+
+
+Healthcare Administration (MHA)
+
+
+Human Resource Management
+
+
+Information Technology
+
+
+Instructional Design & Learning Technology
+
+
+Nurse Administrator (MSN-ADM)
+
+
+Nursing-Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Nursing-Family Nurse Practitioner (MSN-FNP)
+
+
+Nursing-Generalist (MSN)
+
+
+Nursing-Psychiatric Mental Health Nurse Practitioner
+
+
+Public Administration
+
+
+
+
+Doctoral Degrees
+
+
+Business Administration (DBA)
+
+
+Healthcare Administration (DHA)
+
+
+Instructional Design Leadership (DPS)
+
+
+Nursing Practice-Family Nurse Practitioner (DNP-FNP)
+
+
+Nursing Practice-Leadership Track (DNP)
+
+
+Organizational Leadership (Ed.D.)
+
+
+
+
+Graduate Certificates
+
+
+Criminal Justice Leadership
+
+
+Instructional Design
+
+
+
+
+
+
+
+
+Tuition & Financial Aid
+
+
+Tuition & Fees
+
+
+Cost Estimate Calculator Tool
+
+
+Tuition Guarantee
+
+
+Undergrad Tuition Comparison
+
+
+Federal Aid & State Aid
+
+
+Institutional Aid & Private Loans
+
+
+Applying for Aid
+
+
+Community College Students
+
+
+Scholarships
+
+
+Payment Options
+
+
+Financial Aid Resources
+
+
+
+
+Transferring Credit
+
+
+Estimate Your Transfer Credit
+
+
+How to Transfer Credits
+
+
+Types of Transfer Credit
+
+
+Previously Earned College Credit
+
+
+Certificates + Professional Training Credit
+
+
+Military Training Credit
+
+
+Testing Credit
+
+
+
+
+Transferring from a Community College
+
+
+Partner Schools
+
+
+Pathway Portal
+
+
+
+
+Transfer into a Bachelor’s Degree
+
+
+Transfer into a Master’s Degree
+
+
+Transfer into a Doctoral Degree
+
+
+Transfer into an Associate Degree
+
+
+
+
+The Franklin Experience
+
+
+Built For Working Adults
+
+
+Transfer Friendly
+
+
+Accredited University & Quality Degrees
+
+
+Fast & Affordable
+
+
+Student Success Stories
+
+
+Valued By Employers
+
+
+Nonprofit
+
+
+Student Support
+
+
+Career Development
+
+
+
+
+About Us
+
+
+Locations
+
+
+Ohio
+
+
+Columbus
+
+
+
+
+
+
+Partnerships
+
+
+College Credit Plus Partnerships
+
+
+Become a Partner
+
+
+Current Partners
+
+
+Teachers
+
+
+
+
+Community College Partnerships
+
+
+Career Advancement Program
+
+
+Benefits for Community Colleges
+
+
+Benefits for Businesses
+
+
+
+
+
+
+Employer Partnerships
+
+
+Global Partnerships
+
+
+Solutions
+
+
+Case Studies
+
+
+Al Baha University
+
+
+MCBS
+
+
+Saudi Electronic University
+
+
+
+
+Current Partnerships
+
+
+
+
+Medical School Partnerships
+
+
+Nurse Preceptor
+
+
+Ohio School District Partnerships
+
+
+
+
+Faculty & Staff
+
+
+Board of Trustees
+
+
+University Leadership
+
+
+University Directory
+
+
+Faculty Profiles
+
+
+President's Welcome
+
+
+Admission Advisors
+
+
+
+
+University Details
+
+
+Accreditation
+
+
+CCNE Accreditation
+
+
+IACBE Accreditation
+
+
+
+
+State Authorization & Professional Licensure Information
+
+
+Our Mission & Values
+
+
+The Four Cornerstones
+
+
+Our History
+
+
+Consumer Information
+
+
+Safety & Security
+
+
+Bookstore
+
+
+Assessment
+
+
+Map & Directions
+
+
+
+
+Franklin Pressroom
+
+
+COVID-19 Updates
+
+
+Students
+
+
+Faculty & Staff
+
+
+Future Students
+
+
+
+
+Events
+
+
+News
+
+
+Request an Expert
+
+
+Presentations & Awards
+
+
+Faculty Awards and Recognitions
+
+
+Speakers' Bureau
+
+
+Event Hosting
+
+
+
+
+Policy Information
+
+
+Title IX
+
+
+Discrimination Harassment & Sexual Misconduct
+
+
+Anti-Hazing Policy
+
+
+Drug Free School & Communities Act
+
+
+Franklin Intervention & Awareness Team
+
+
+Filing Complaints
+
+
+Office of Academic Scholarship
+
+
+Institutional Review Board (IRB)
+
+
+Application & Review Process
+
+
+Cayuse
+
+
+CITI Training
+
+
+Research Review Categories
+
+
+Committee & Policies
+
+
+Documents, Resources & FAQs
+
+
+
+
+Research at Franklin University
+
+
+Programs & Support
+
+
+Resources
+
+
+Research Opportunities
+
+
+About Us
+
+
+
+
+Office of Accessibility Services
+
+
+Combating Copyright Infringement
+
+
+Financial Aid Statement
+
+
+Influenza Information
+
+
+Information Technology Acceptable Use
+
+
+Notice of Privacy Rights (FERPA)
+
+
+Privacy Statement
+
+
+Student Parking
+
+
+Tuition Refund Policy
+
+
+Vaccinations
+
+
+Inclement Weather Policy
+
+
+Transfer Credit Policy & Procedures
+
+
+
+
+Community Engagement
+
+
+Request Your Franklin Transcripts
+
+
+Urbana University Resources
+
+
+Give to Franklin
+
+
+
+
+
+
+I AM A:
+
+
+
+Future Student
+
+
+Potential Partner
+
+
+Current Student
+
+
+Franklin Alumni
+
+
+Potential Donor
+
+
+
+SHORTCUTS:
+
+
+
+myFranklin
+
+
+Locations
+
+
+Online Degrees
+
+
+Degree Programs
+
+
+Documents & Forms
+
+
+FAQS
+
+
+University Directory
+
+
+News
+
+
+Blog
+
+
+
+
+Associated Sites
+
+
+
+FranklinWORKS Marketplace
+
+
+Franklin University Store & Apparel
+
+
+International Institute for Innovative Instruction
+
+
+Leadership Center
+
+
+Global Center for Healthcare Education
+
+
+Center for Public Safety & Cybersecurity Education
+
+
+Best Adult Colleges & Careers Guide
+
+
+Accounting MVP Blog
+
+
+Data & Analytics MVP Blog

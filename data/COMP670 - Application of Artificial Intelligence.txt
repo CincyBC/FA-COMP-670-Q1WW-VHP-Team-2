@@ -1,0 +1,15 @@
+COMP670 - Application of Artificial Intelligence
+Course Title
+Application of Artificial Intelligence
+Credit Hours
+4
+Course Description
+This course is an introduction to Artificial Intelligence (AI) from an applied perspective. After an introduction of some basic concepts and techniques (such as searching and knowledge representation), the course illustrates both the theoretical foundation and application of these techniques with examples from a variety of problems.
+
+The course surveys a wide range of active areas in AI such as machine learning, artificial neural networks, evolutionary computing, robotics, intelligent agents and bio-inspired AI approaches. It strikes a balance between engineering approaches and theory.
+
+Exercises include hands-on application of basic AI techniques as well as selection of appropriate technologies for a given problem. The principal topics in the selected areas are also coupled with projects where groups of students will participate in the creation of AI-based applications.
+Prerequisites
+Complete at least 1 of the following: 
+COMP511 - Foundation Data Struc & Obj Orntd Design (4)
+COMP121 - Object-Oriented Data Structures & Algorithms I (4)

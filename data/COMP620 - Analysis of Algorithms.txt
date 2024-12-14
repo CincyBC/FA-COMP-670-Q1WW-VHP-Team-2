@@ -1,0 +1,24 @@
+COMP620 - Analysis of Algorithms
+Course Title
+Analysis of Algorithms
+Credit Hours
+4
+Course Description
+This course covers various algorithm design paradigms, mathematical analysis of algorithms, empirical analysis of algorithms and NP-completeness.
+Prerequisites
+Complete all of the following
+Complete at least 1 of the following: 
+COMP611 - Advanced Data Structures and Programming (4)
+COMP311 - Object-Oriented Data Structures & Algorithms II (4)
+Complete at least 1 of the following: 
+MATH503 - Foundations of Mathematics for Computing (4)
+MATH320 - Discrete Mathematics (4)
+Outcomes
+Apply the methods and use the tools necessary to analyze algorithms
+Use various techniques for the design and analysis of efficient algorithms
+Describe and manipulate advanced data structures (B-trees, Heaps)
+Describe, use and analyze a variety of graph algorithms
+Describe and analyze various string matching algorithms
+Describe and analyze various computational geometry algorithms
+Describe the characteristics for determining NP-completeness
+Describe appropriate uses for approximation algorithms

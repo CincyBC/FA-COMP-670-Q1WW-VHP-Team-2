@@ -1,0 +1,21 @@
+COMP611 - Advanced Data Structures and Programming
+Course Title
+Advanced Data Structures and Programming
+Credit Hours
+4
+Course Description
+This course covers key knowledge and skills for advanced software development using the object-oriented approach. The student learns, manipulates and reflects on nonlinear data structures such as trees and heaps. Recursive algorithms, sorting algorithms, algorithm efficiency, and advanced design patterns are addressed. To support the advanced concepts and principles of software development, the student will design, code, test, debug, and document programs with increased scale and complexity using industry's best practices (such as GitHub) and the Java programming language.
+Prerequisites
+Complete all of the following
+Complete at least 1 of the following: 
+COMP511 - Foundation Data Struc & Obj Orntd Design (4)
+COMP121 - Object-Oriented Data Structures & Algorithms I (4)
+Complete at least 1 of the following: 
+MATH503 - Foundations of Mathematics for Computing (4)
+MATH320 - Discrete Mathematics (4)
+Outcomes
+Analyze real-world problems with advanced object-oriented analysis principles and design patterns.
+Analyze, manipulate, and apply non-linear data structures.
+Analyze, compare, contrast, and execute sorting algorithms.
+Design, code, analyze, and trace recursive algorithms and data structures.
+Design, develop, and manage software projects with increased scale and complexity with industry's best practices, such as GitHub.

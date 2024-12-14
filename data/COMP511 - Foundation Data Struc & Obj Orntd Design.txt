@@ -1,0 +1,19 @@
+COMP511 - Foundation Data Struc & Obj Orntd Design
+Course Title
+Foundation Data Struc & Obj Orntd Design
+Credit Hours
+4
+Course Description
+This course continues the object-oriented approach to intermediate-level software development. The student will learn and reflect on fundamental object-oriented analysis techniques, basic design patterns, and linear data structures such as lists and queues.
+Prerequisites
+Complete at least 1 of the following: 
+COMP501 - Foundations of Programming (4)
+COMP111 - Introduction to Computer Science & Object-Oriented Programming (4)
+ITEC136 - Principles of Programming (4)
+Outcomes
+Analyze real-world problems with object-oriented principles of inheritance and polymorphism.
+Design, implement, and test solutions based on object-oriented principles of inheritance and polymorphism.
+Detect and correct runtime program errors using exceptions.
+Read and write random access and sequential files of text and binary data.
+Analyze, code, and execute linear data structures.
+Analyze, compare, contrast, and apply basic design patterns.

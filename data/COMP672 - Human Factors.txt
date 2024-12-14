@@ -1,0 +1,7 @@
+COMP672 - Human Factors
+Course Title
+Human Factors
+Credit Hours
+4
+Course Description
+This course provides a broad overview of human-computer interaction (HCI) as a sub-area of computer science and explores user-centered design approaches in information systems. Topics include user interface and software design strategies, user experience levels, interaction styles, usability engineering and assessment models.

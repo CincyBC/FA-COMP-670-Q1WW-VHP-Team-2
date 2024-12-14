@@ -1,0 +1,26 @@
+COMP630 - Issues in Database Management
+Course Title
+Issues in Database Management
+Credit Hours
+4
+Course Description
+This course focuses on the fundamental design considerations in designing a database. Specific topics include performance analysis of design alternatives, system configuration and the administration of a popular database system. The course also offers an in-depth analysis of the algorithms and machine organizations of database systems. Note, this course has proctored exam(s). This exams requires additional technology, if student uses online proctoring.
+Prerequisites
+Complete at least 1 of the following: 
+COMP511 - Foundation Data Struc & Obj Orntd Design (4)
+COMP121 - Object-Oriented Data Structures & Algorithms I (4)
+Outcomes
+Describe the database system architecture
+Define the formal relational model
+Use relational algebra and relational calculus to express relational queries
+Apply patterns to database design
+Apply refactoring techniques to modify and improve database designs
+Investigate techniques for measuring the effectiveness of database design
+Differentiate between the various techniques for semantic data modeling
+Examine the techniques and issues involved in securing databases
+Experiment with techniques for the optimization of database queries
+Predict new trends in database management
+Explore the role of databases in Web technology
+Apply data mining techniques
+Fluently communicate database concepts orally and in writing
+Predict new trends in database management, Explore the role of databases in Web Technology

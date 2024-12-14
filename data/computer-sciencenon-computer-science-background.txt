@@ -1,0 +1,2098 @@
+URL: https://www.franklin.edu/degrees/masters/computer-science/non-computer-science-background
+Online Master’s in Computer Science No CS Undergrad or Major | Franklin.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+M.S. in Computer Science (non-Computer Science background)
+ 
+
+  Home
+                /  
+                                              Degrees
+                /  
+                                              Master's Degrees
+                /  
+                                              Computer Science
+                /  
+                                              M.S. in Computer Science (non-Computer Science background)
+                          
+
+  Excel in a high-tech career with a master’s in computer science – without a CS undergrad
+
+
+The field of computer science is booming. So, too, are the number of high-pay, high-reward, high-tech career opportunities for those with a master’s in computer science. But what if you have a bachelor's in something unrelated to computer science? With our streamlined pathway to Franklin’s M.S. in Computer Science (MSCS), you don’t need a bachelor’s in computer science. You can earn a 100% online MSCS in about 2 years, starting with a foundational program designed to help you develop industry-relevant computer science knowledge and skills.
+
+
+Program Availability
+
+Alabama
+Alaska
+American Samoa
+Arizona
+Arkansas
+Armed Forces America
+California
+Colorado
+Connecticut
+Delaware
+District Of Columbia
+Federated States of Micronesia
+Florida
+Georgia
+Guam
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Marshall Islands
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Northern Mariana Islands
+Ohio
+Oklahoma
+Oregon
+Palau
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virgin Islands
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+
+
+
+						Online
+					
+On Site
+
+
+
+
+
+
+
+
+
+
+  24-Month Completion
+Get to your future career in accounting in as few as 24 months.
+
+
+
+  Streamlined Pathway
+A three-course pathway positions non-computer science majors for success.
+
+
+
+  Leading Architectural Tools
+Get hands-on experience with SQL/MariaDB, MongoDB, Java, Java EE and Git.
+
+
+
+
+
+
+
+
+
+
+Program Overview
+
+
+
+Are you a self-taught techie or STEM major ready for a top-ranked career in software engineering, AI, cybersecurity or DevOps? Propel yourself and your career ambitions forward with an online master’s in computer science. With Franklin’s affordable pathway to an M.S. Computer Science (MSCS) for non-computer science majors, you don’t need a bachelor’s in CS. Designed for busy working adults, the non-CS major pathway enables you to fast-track your enrollment in Franklin’s MSCS degree program by completing two of three corequisite courses in as little as 3-4 months. You can choose to complete the third corequisite course prior to starting master’s level courses or take it alongside your first master’s-level course. Completion of three corequisite courses and nine MSCS courses puts you on a course to earn your master’s in computer science – and the career opportunities that come with it – in about 2 years.Develop industry-relevant computer science skillsOne of the biggest reasons to enroll in a computer science masters for non-CS majors is to fill in knowledge gaps. Franklin’s streamlined pathway to an M.S. Computer Science can help bridge any disparities between your interests and aptitudes and your capabilities and qualifications. Through a short series of three corequisite courses, you’ll develop a deeper understanding of computer science in today’s world while building essential skills across the discipline, ranging from operating systems to network architecture to security to databases to algorithms. How to fast-track your career re-boot with a master’s in computer science (no CS undergrad required)The hype about a computer science career is real, for good reason. The opportunities are diverse and the possibilities are wide open. However, to stand out, you need cutting-edge computer science knowledge and skills beyond what another bachelor’s degree or a technical certificate can offer. Franklin’s pathway to an M.S. in Computer Science degree gives you the know-how and skills needed to succeed in your master’s-level computer science classes. Because you learn from experienced in-field technology experts, you’ll also benefit from their real-world experiences.Plus, at Franklin, you’ll enjoy a flexible course schedule, interactive online classes, and the support of academic advisors committed to easing your transition as you pursue a master’s in computer science without a CS undergrad degree. Get started on your future today.Read more >
+
+
+
+
+
+
+  Your Best Value M.S. Computer Science
+
+
+
+
+Choose Franklin's M.S. Computer Science and get a high-quality degree that fits your life and your budget. 
+
+
+
+
+
+
+
+Affordable Tuition
+
+
+$670
+PER CREDIT HOUR
+
+Affordable tuition rates for the M.S. in Computer Science provide value and quality.
+
+
+
+
+
+
+Finish Fast
+
+
+14
+MONTHS TO COMPLETE
+
+Realize your career goals sooner and reap the benefits.
+
+
+
+
+
+
+Non-Profit = Student Focused
+
+
+
+
+Unlike for-profit universities, Franklin invests in student success, not shareholder gain.
+
+
+
+
+
+
+Partner? Pay Less.
+Search below to see if you could save tuition through an employer or professional organization partnership.
+
+
+
+
+
+
+
+
+$24,120
+Total Tuition(After Partner Discount)
+
+
+
+
+
+
+
+
+
+Tuition Guarantee
+
+
+
+
+Inflation-proof your degree cost by locking-in your tuition rate from day one through graduation.
+
+
+
+
+
+
+
+Highly Recommended
+
+
+98%
+STUDENT SATISFACTION
+
+98% of graduating students would recommend Franklin to their family, friends and/or colleagues.
+
+
+**Source: Franklin University, Office of Career Development Student Satisfaction Survey (Summer 2023)
+
+×
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+  Corequisite Curriculum
+
+
+
+
+
+  Courses
+
+
+
+
+
+
+                    COMP 501 - Foundations of Programming (4)
+          
+        
+
+          This course covers fundamental programming principles. Students will learn about the basic elements of a computer program such as data types, assignments, conditional branching, loops, functions, recursion, basic data structures, program debugging, and testing. Note, this course has proctored exam(s).
+                  
+
+
+
+
+
+                    COMP 511 - Foundation Data Struc & Obj Orntd Design (4)
+          
+        
+
+          This course continues the object-oriented approach to intermediate-level software development. The student will learn and reflect on fundamental object-oriented analysis techniques, basic design patterns, and linear data structures such as lists and queues. To support the concepts and principles of software development, the student will design, code, test, debug, and document programs using the Java programming language. Note, this course has proctored exam(s). This exams requires additional technology, if student uses online proctoring.
+                  
+
+
+
+
+
+                    MATH 503 - Foundations of Mathematics for Computing (4)
+          
+        
+
+          This course introduces students to fundamental algebraic, logical, and combinational concepts in mathematics that are needed in upper division computer science courses. Topics include integer representation; algorithms; modular arithmetic and exponentation; discrete logarithms; cryptography; recursion; primality testing; number theory; graphs and directed graphs; trees; and Boolean Algebra. Note, this course has proctored exam(s). This exams requires additional technology, if student uses online proctoring.
+                  
+
+
+
+
+
+Complete corequisite courses that provide foundational knowledge in CS and then seamlessly transition to master’s level coursework. Note that the third corequisite can be taken alongside the first graduate course.
+
+
+
+View course schedule options > 
+
+
+
+
+
+
+
+  Available M.S. in Computer Science Programs
+
+
+
+
+Aligned with industry competencies, Franklin’s online M.S. in Computer Science prepares you to address the most prevalent challenges facing computer science professionals today. At Franklin, you’ll learn from faculty who add their real-world expertise to programs designed with input from industry leaders.
+
+
+
+
+
+
+
+  M.S. in Computer Science
+Get the skills to deliver robust software design, architecture and implementation that helps organizations of all sizes increase efficiency and profitability.Learn More
+
+
+
+  M.S. in Computer Science-Cybersecurity 
+Build your expertise in software delivery, verification and testing alongside a solid foundation of computer science principles.Learn More
+
+
+
+  M.S. in Computer Science-Data Analytics 
+Grow your knowledge of computer science and data modeling and get hands-on experience in industry-standard tools like SAS and SPSS.Learn More
+
+
+
+  M.S. in Computer Science-Software Systems
+Boost your competencies in system architecture and artificial intelligence that pave your way to creating scalable modern software systems.Learn More
+
+
+
+  M.S. in Computer Science-Pathway for Non-CS Majors
+Enter the rapidly growing computer science field. Three 12-week classes provide the foundational knowledge to prepare you to excel at the master’s level. Learn More
+
+
+
+
+
+
+
+
+
+Microcredentials Align with Job Essentials
+
+
+
+
+        In today's dynamic work environments, adaptive professionals thrive. A microcredential - either as a stand-alone course or integrated into your degree program - is a short, skill-specific recognition that enables you to demonstrate your competency in a distinct area. Like Franklin's degree programs, microcredentials are aligned with market and industry demand to ensure what you learn can be put to use right away. Microcredentials are easily shared via digital badges and can be stacked to create a unique portfolio of in-demand skills.
+      
+
+
+
+
+
+Software Systems
+
+
+
+Software Security
+
+
+
+Data & Machine Learning Engineering
+
+
+
+
+
+Learn More
+
+
+
+
+
+
+
+  M.S. in Computer Science (non-Computer Science background) Program Details
+
+
+
+
+
+
+			
+  Tuition Costs
+
+			
+
+
+
+
+2024 - 2025 Tuition Cost Per CreditStandard tuition per credit hour$670Nursing programsMSN-FNP, MSN-PMHNP, MSN-AGPCNP, Post-Graduate FNP Certificate, Post-Graduate AGPCNP Certificate and Post-Graduate PMHNP Certificate$670MSN-Generalist, MSN-Nurse Administrator and MSN-Nurse Educator$598RN-MSN Pathway (NURS 500)$298Current service members$536Graduate Prerequisite Courses (500 level)$398Graduate Prerequisite Courses (500 level) - International Students$526
+
+
+
+
+
+
+
+   Know the Total Cost of Your Master’s from Day One
+Save yourself the anxiety of annual tuition increases with Franklin’s Tuition Guarantee. The guarantee lets you lock-in what you’ll pay from first-term through graduation, as long as you remain actively enrolled. Not only will this help you maximize funding sources - like employer reimbursement or financial aid, it will keep you focused on earning your degree. 
+
+
+
+
+
+
+
+Learn More
+
+
+
+
+
+
+
+
+
+			
+  Program Learning Outcomes
+
+			
+
+
+A learning outcome map functions as a roadmap to help guide students' progress through their program of study. Click HERE to view the M.S. Computer Science matrix.
+
+
+
+
+
+
+			
+  Degree Requirements
+
+			
+
+
+To be awarded a graduate degree, students must:
+
+Successfully complete all required curriculum courses.
+Maintain a minimum cumulative grade point average (GPA) of 3.00.
+Complete the residency requirement:
+	
+M.S. - Computer Science students must earn at least 24 of the 36 required credits at Franklin University – in any modality (on-site, hybrid or online).
+
+
+Complete the payment of all requisite tuition and fees;
+Not to be under disciplinary dismissal due to academic dishonesty or violation of Student Code of Conduct.
+
+Transfer credit awarded based on experiential learning shall not count toward the residence requirement at Franklin University.
+
+
+
+
+
+
+			
+  Admission Requirements
+
+			
+
+
+
+
+The admission process reflects Franklin University’s efforts to clearly identify the performance standards that can help predict student success in graduate level study. The selection criterion for Franklin’s graduate programs, as determined by faculty, emphasizes academic ability, contributory work experience, and personal qualities and characteristics.Requirements for admission include having earned a bachelor's degree from an institution accredited by the Accrediting Commission for Community and Junior Colleges, Western Association of Schools and Colleges (ACCJC), Higher Learning Commission (HLC), Middle States Commission on Higher Education (MSCHE), New England Commission on Higher Education (NECHE), Northwest Commission on Colleges and Universities (NWCCU), Southern Association of Colleges and School Commission on Colleges (SACSCOC), WASC Senior College and University Commission (WSCUC), or a Council for Higher Education Accreditation (CHEA)-recognized accrediting organization with a GPA of at least a 2.75 on a 4.0 scale.Applicants who earned at least a 2.5 GPA on a 4.0 scale in their earned bachelor’s degree will automatically be granted conditional enrollment status. Applicants who earned lower than a 2.5 GPA on a 4.0 scale in their earned bachelor’s degree can petition for conditional enrollment status to the program chair by submitting an essay detailing other criteria that the applicant believes should be considered to demonstrate their ability to be successful in a graduate program. This petition could include details on the applicant’s work experience, work ethic, level of professionalism, personality characteristics, level of difficulty of program of study previously completed, etc. Conditional enrollment requires students to achieve a final grade of “B” (3.0 GPA) or better in the first graduate-level course of their program. If the terms of the conditional enrollment are not met, the student will not be allowed to advance in their program and will be unable to earn this graduate degree from Franklin University. 
+
+
+
+
+English Language Testing & TOEFL IELTS
+Prospective students must demonstrate English Language Proficiency. The requirement is met through any of the following:
+
+The applicant is a citizen of a country where English is the official language.*
+The applicant has received a bachelor’s degree (or higher) from an institution located in an English-speaking country in which the courses were taught in English.*
+The applicant has earned appropriate scores on language proficiency exams taken within the last two years, as listed in the Academic Catalog.  
+
+*For more information about English proficiency, including a list of English-speaking nations, please visit our International Students section.
+
+
+
+
+
+
+Program Advisory Board
+
+The University employs a team approach to planning, developing and maintaining its academic curriculum. An essential element of this process – and a key to the institution’s quality assurance practices – is the Program Advisory Board (and the associated Alumni Advisory Board). A diverse array of business and industry leaders make up these discipline-specific boards that provide guidance on theory-to-practice ideas, global business perspectives, and emerging topics in the field. Each academic year, Program Advisory Boards meet with Division Chairs and faculty for lively and engaged conversations, thus bringing members’ substantial professional experience and expertise into the classroom. In addition, some Division Chairs elect to engage Program Advisory Board members in the assessment of academic program outcomes.
+
+
+Name
+Organization
+Title
+
+
+Herbert Berger
+Cardinal Health Inc.
+Enterprise Architect
+
+
+David Blum
+Hylant
+Chief Info. + Innovation Officer
+
+
+Gary Clark
+Columbus State Community College
+Principal Investigator, Asst. Prof.
+
+
+Sean Erikson
+Grange Insurance Companies
+VP, Architecture + IT Strategy
+
+
+Mihajlo Jovanovic
+ JP Morgan Chase
+Lead Software Engineer
+
+
+Perumal Ramasamy
+NetJets
+VP, Data + Quality Programs
+
+
+Srini Ramaswamy
+Battelle
+Head of Technology
+
+
+Gloria Rogiers
+Columbus State Community College
+Dean
+
+
+Paul Varner
+Nationwide
+Consulting IT Architect
+
+
+David Vasquez
+Nationwide Insurance
+Director, IT Applications
+
+
+Bradley West
+HMB Inc.
+Dir., Project Mgmt. Practice
+
+
+Byron White
+Chemical Abstracts Service
+Software Development Manager
+
+
+
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+
+
+		How long does it take to get an M.S. in Computer Science degree? 
+		
+
+
+Franklin's master's degree programs are specifically designed for busy, working adults -- that means you could finish your M.S. in Computer Science degree in as few as 20 months.
+
+
+
+
+		When can I start Franklin’s M.S. in Computer Science degree?
+		
+
+
+Choose from three start dates each year – fall (August), spring (January) or summer (May).
+
+
+
+
+		How much will my M.S. in Computer Science degree cost?
+		
+
+
+Franklin University offers a quality education at a competitive cost so you can afford to invest in your future. Our per credit hour tuition rates (vs. per year or per term rates) enable you to get a realistic estimate of exactly how much your degree will cost. Our 2024-2025 tuition rate is $670 per credit hour. Use Franklin’s free MyCost Estimator to get a personalized estimate of your total degree cost. If you have any questions, ask our helpful staff about available financing options and financial aid programs.
+
+
+
+
+		What is an M.S. in Computer Science degree?
+		
+
+
+Franklin University's M.S. in Computer Science is a master's-level degree program designed to advance your skills and career path. In this program, you'll learn both the theoretical and practical application skills needed to participate in the development of emerging technologies.
+
+
+
+
+		What can you do with an M.S. in Computer Science degree?
+		
+
+
+As a graduate of Franklin University's M.S. in Computer Science degree program, you'll be ready to take the next step in your career, assuming a software project leadership role that includes planning processes and products, designing software architecture, and sharing software development progress with key stakeholders.
+
+
+
+
+		Why get an M.S. in Computer Science degree?
+		
+
+
+With an M.S. in Computer Science degree, you’ll be equipped to deliver robust software solutions to help organizations increase efficiency, reduce turnaround time, and maximize investment.You can also tailor the program to your interests with a broad range of electives or pursue focus areas in cybersecurity, data analytics and software systems and qualify for a variety of specialized roles.
+
+
+
+
+		What makes Franklin’s M.S. in Computer Science degree unique?
+		
+
+
+Franklin’s M.S. in Computer Science degree is a 20-month, 100% online program influenced and designed by leaders in the technology industry. In Franklin’s theory-to-practice program, you’ll be taught by in-field practitioners. You can also tailor the program to your interests with a broad range of electives or pursue focus areas in cybersecurity, data analytics and software systems and qualify for a variety of specialized roles.
+
+
+See All >
+
+
+
+
+
+
+
+
+
+Degrees
+
+
+Microcredentials & Certificates
+
+
+Admissions
+
+
+Tuition & Financial Aid
+
+
+Transferring Credit
+
+
+The Franklin Experience
+
+
+About Us
+
+FranklinWORKS Marketplace
+
+
+
+Safety & Security
+
+
+Policy Information
+
+
+Your Privacy Settings
+
+
+Privacy Policy
+
+
+Terms of Use
+
+
+Careers At Franklin
+
+
+Sitemap
+
+
+
+
+Franklin University
+ Founded in 1902, Franklin is an accredited nonprofit university offering flexible college degrees online and at locations in Ohio and the Midwest.
+
+
+
+
+
+          Franklin University201 S Grant Ave.Columbus, OH 43215
+
+
+          Local: (614) 797-4700
+
+          Toll Free: (877) 341-6300
+          
+          admissions@franklin.edu
+        
+
+
+
+
+Copyright 2024 Franklin University
+
+
+
+
+Franklin University is accredited by the Higher Learning Commission (hlcommission.org/800.621.7440) and authorized by the Ohio Department of Higher Education.
+Franklin University is committed to being an inclusive community free from all forms of discrimination and harassment.
+
+
+
+ 
+
+
+
+
+(877) 341-6300 Apply NowRequest Info
+
+
+
+
+
+
+
+Degrees
+
+
+Program Finder
+
+
+Bachelor's Degrees
+
+
+Accounting
+
+
+Analytics
+
+
+Applied Data Science
+
+
+Business Analytics
+
+
+Healthcare Analytics
+
+
+
+
+Applied Management
+
+
+Business Administration
+
+
+Business Forensics
+
+
+Cloud Computing
+
+
+Communications
+
+
+Computer Science
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Education
+
+
+Adolescence to Young Adult Education (7-12)
+
+
+Education Studies
+
+
+Intervention Specialist
+
+
+Middle Childhood Education (4-9)
+
+
+Primary Education (PK-5)
+
+
+
+
+Exercise Science
+
+
+Financial Management
+
+
+Financial Planning
+
+
+Forensic Accounting
+
+
+Healthcare Administration
+
+
+Human Resources Management
+
+
+Information Systems
+
+
+Analytics
+
+
+Business Analysis & Project Management
+
+
+Business Information Systems
+
+
+Healthcare Information Systems
+
+
+
+
+Information Technology
+
+
+Management & Leadership
+
+
+Marketing
+
+
+Nursing (RN-BSN)
+
+
+Operations & Supply Chain Management
+
+
+Psychology
+
+
+Public Health
+
+
+Public Safety Management & Leadership
+
+
+Social Sciences
+
+
+Sport Management
+
+
+User Experience & Graphic Design
+
+
+
+
+Master's Degrees
+
+
+Accounting
+
+
+M.S. in Accounting - Financial Operations Focus
+
+
+M.S. in Accounting - Taxation Focus
+
+
+M.S. in Accounting (non-Accounting background)
+
+
+
+
+Business Analytics
+
+
+Business Psychology
+
+
+Communications
+
+
+M.S. in Communications-Health Communication
+
+
+M.S. in Communications-Strategic Communication
+
+
+
+
+Computer Science
+
+
+M.S. in Computer Science - General
+
+
+M.S. in Computer Science - Cybersecurity Focus
+
+
+M.S. in Computer Science - Data Analytics Focus
+
+
+M.S. in Computer Science - Software Systems Focus
+
+
+M.S. in Computer Science (non-Computer Science background)
+
+
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Data Analytics
+
+
+Education
+
+
+M.Ed. - Higher Education Leadership
+
+
+M.Ed. - K-12 Building Level Leadership
+
+
+M.Ed. - Principal Licensure
+
+
+
+
+Health Informatics
+
+
+Healthcare Administration (MHA)
+
+
+Healthcare Administration (MHA) - General
+
+
+Healthcare Administration (MHA) - Human Resources
+
+
+Healthcare Administration (MHA) - Operational Excellence
+
+
+Healthcare Administration (MHA) - Organizational Leadership
+
+
+
+
+Human Resource Management
+
+
+Information Systems
+
+
+Information Technology
+
+
+M.S. in Information Technology - Cybersecurity
+
+
+M.S. in Information Technology - Data Analytics
+
+
+M.S. in Information Technology - Healthcare
+
+
+M.S. in Information Technology - IT Leadership
+
+
+M.S. in Information Technology - IT Management
+
+
+M.S. in Information Technology - Learning Technology
+
+
+
+
+Instructional Design & Learning Technology
+
+
+MBA Programs
+
+
+MBA-General
+
+
+MBA-Business Analytics
+
+
+MBA-Business Psychology
+
+
+MBA-Finance
+
+
+MBA-Healthcare
+
+
+MBA-Human Resources
+
+
+MBA-Information Technology
+
+
+MBA-Marketing
+
+
+MBA-Operational Excellence
+
+
+MBA-Organizational Leadership
+
+
+MBA-STEM
+
+
+
+
+MSN Programs
+
+
+Nursing-Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Nursing-Family Nurse Practitioner (MSN-FNP)
+
+
+Nursing-Generalist (MSN)
+
+
+Nursing-Nurse Educator
+
+
+Nursing-Psychiatric Mental Health Nurse Practitioner
+
+
+Nurse Administrator (MSN-ADM)
+
+
+RN to MSN
+
+
+
+
+Professional Sales Leadership
+
+
+Public Administration (MPA)
+
+
+Public Administration-General
+
+
+Public Administration-Criminal Justice
+
+
+Public Administration-Healthcare
+
+
+Public Administration-Human Resources
+
+
+Public Administration-Organizational Leadership
+
+
+
+
+
+
+Doctoral Degrees
+
+
+Business Administration (DBA)
+
+
+Healthcare Administration (DHA)
+
+
+Instructional Design Leadership (Ed.D)
+
+
+Instructional Design Leadership (Ed.D.) - Curriculum & Instruction
+
+
+Instructional Design Leadership (Ed.D.) - Educational Technology
+
+
+
+
+Organizational Leadership (Ed.D.)
+
+
+Organizational Leadership (Ed.D.) - Higher Education Leadership Focus
+
+
+Organizational Leadership (Ed.D.) - Organizational Leadership Focus
+
+
+Organizational Leadership (Ed.D.) - PK-12 Educational Leadership Focus
+
+
+
+
+Nursing (DNP)
+
+
+DNP - Adult-Gerontology Primary Care Nurse Practitioner Track
+
+
+DNP - Family Nurse Practitioner Track
+
+
+DNP - Leadership Track
+
+
+DNP - Psychiatric Mental Health Nurse Practitioner Track
+
+
+BSN to DNP Option
+
+
+
+
+
+
+Associate Degrees
+
+
+Accounting
+
+
+Business Administration
+
+
+A.A.S. Business Administration
+
+
+A.S. Business Administration
+
+
+
+
+Communications
+
+
+Computer Science
+
+
+Criminal Justice
+
+
+Cybersecurity
+
+
+Financial Management
+
+
+Forensic Accounting
+
+
+Health Services
+
+
+IT-Project Management
+
+
+Information Technology
+
+
+Public Safety
+
+
+
+
+Online Degrees
+
+
+Online Learning at Franklin
+
+
+Accounting Programs
+
+
+Business & Leadership Programs
+
+
+Computer Science Programs
+
+
+Criminal Justice & Public Safety Programs
+
+
+Cybersecurity Programs
+
+
+Data & Analytics Programs
+
+
+Education Programs
+
+
+Finance Programs
+
+
+Healthcare Programs
+
+
+Human Resources Programs
+
+
+Information Technology Programs
+
+
+Marketing & Communications Programs
+
+
+Nursing Programs
+
+
+Operations & Project Management Programs
+
+
+Psychology Programs
+
+
+Public & Social Sciences Programs
+
+
+Online Learning Facts
+
+
+
+
+Degrees By Location
+
+
+Degrees By College
+
+
+College of Arts, Sciences & Technology
+
+
+College of Health & Public Administration
+
+
+International Institute For Innovative Instruction
+
+
+Ross College of Business
+
+
+School of Education
+
+
+School of Nursing
+
+
+
+
+Minors
+
+
+Bachelor’s & Master’s Combined Programs
+
+
+Degree Completion Programs
+
+
+Second Bachelor's Degrees
+
+
+
+
+Microcredentials & Certificates
+
+
+Microcredentials
+
+
+Undergraduate Certificates
+
+
+Accounting Data Analytics
+
+
+
+
+Graduate Certificates
+
+
+Cyber Defense
+
+
+Cyber Governance
+
+
+Criminal Justice Leadership
+
+
+Data Analytics
+
+
+Nurse Educator
+
+
+Instructional Design
+
+
+
+
+Post-Graduate Certificates
+
+
+Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Family Nurse Practitioner
+
+
+Psychiatric Mental Health Nurse Practitioner
+
+
+
+
+Post-Baccalaureate Teacher Certification
+
+
+Adolescence to Young Adult Education (7-12)
+
+
+Primary Education (PK-5)
+
+
+Intervention Specialist: Mild/Moderate (K-12)
+
+
+Middle Childhood Education (4-9)
+
+
+
+
+Advanced Accounting Microcredential
+
+
+
+
+Admissions
+
+
+Undergraduate Students
+
+
+Graduate Students
+
+
+Partnership Students
+
+
+International Students
+
+
+Study in the U.S.
+
+
+Earn Your Degree Online
+
+
+
+
+Community College Students
+
+
+College Credit Plus
+
+
+Military & Veterans
+
+
+Active Duty
+
+
+Air Force
+
+
+Army
+
+
+Coast Guard
+
+
+Marines
+
+
+Navy
+
+
+
+
+Veterans
+
+
+Montgomery GI Bill® - Selected Reserves
+
+
+Montgomery GI Bill®
+
+
+Post-9/11 GI Bill®
+
+
+Vocational Rehabilitation and Employment VetSuccess Program
+
+
+Yellow Ribbon Program
+
+
+
+
+Spouses & Family
+
+
+
+
+Online Open House
+
+
+Admission Requirements
+
+
+Associate Degrees
+
+
+Bachelor's Degrees
+
+
+General Bachelor's Degree
+
+
+Nursing (RN-BSN)
+
+
+
+
+Master's Degrees
+
+
+Accounting
+
+
+Business Administration (MBA)
+
+
+Business Analytics
+
+
+Business Psychology
+
+
+Computer Science
+
+
+Criminal Justice Administration
+
+
+Cybersecurity
+
+
+Data Analytics
+
+
+Health Informatics
+
+
+Healthcare Administration (MHA)
+
+
+Human Resource Management
+
+
+Information Technology
+
+
+Instructional Design & Learning Technology
+
+
+Nurse Administrator (MSN-ADM)
+
+
+Nursing-Adult-Gerontology Primary Care Nurse Practitioner
+
+
+Nursing-Family Nurse Practitioner (MSN-FNP)
+
+
+Nursing-Generalist (MSN)
+
+
+Nursing-Psychiatric Mental Health Nurse Practitioner
+
+
+Public Administration
+
+
+
+
+Doctoral Degrees
+
+
+Business Administration (DBA)
+
+
+Healthcare Administration (DHA)
+
+
+Instructional Design Leadership (DPS)
+
+
+Nursing Practice-Family Nurse Practitioner (DNP-FNP)
+
+
+Nursing Practice-Leadership Track (DNP)
+
+
+Organizational Leadership (Ed.D.)
+
+
+
+
+Graduate Certificates
+
+
+Criminal Justice Leadership
+
+
+Instructional Design
+
+
+
+
+
+
+
+
+Tuition & Financial Aid
+
+
+Tuition & Fees
+
+
+Cost Estimate Calculator Tool
+
+
+Tuition Guarantee
+
+
+Undergrad Tuition Comparison
+
+
+Federal Aid & State Aid
+
+
+Institutional Aid & Private Loans
+
+
+Applying for Aid
+
+
+Community College Students
+
+
+Scholarships
+
+
+Payment Options
+
+
+Financial Aid Resources
+
+
+
+
+Transferring Credit
+
+
+Estimate Your Transfer Credit
+
+
+How to Transfer Credits
+
+
+Types of Transfer Credit
+
+
+Previously Earned College Credit
+
+
+Certificates + Professional Training Credit
+
+
+Military Training Credit
+
+
+Testing Credit
+
+
+
+
+Transferring from a Community College
+
+
+Partner Schools
+
+
+Pathway Portal
+
+
+
+
+Transfer into a Bachelor’s Degree
+
+
+Transfer into a Master’s Degree
+
+
+Transfer into a Doctoral Degree
+
+
+Transfer into an Associate Degree
+
+
+
+
+The Franklin Experience
+
+
+Built For Working Adults
+
+
+Transfer Friendly
+
+
+Accredited University & Quality Degrees
+
+
+Fast & Affordable
+
+
+Student Success Stories
+
+
+Valued By Employers
+
+
+Nonprofit
+
+
+Student Support
+
+
+Career Development
+
+
+
+
+About Us
+
+
+Locations
+
+
+Ohio
+
+
+Columbus
+
+
+
+
+
+
+Partnerships
+
+
+College Credit Plus Partnerships
+
+
+Become a Partner
+
+
+Current Partners
+
+
+Teachers
+
+
+
+
+Community College Partnerships
+
+
+Career Advancement Program
+
+
+Benefits for Community Colleges
+
+
+Benefits for Businesses
+
+
+
+
+
+
+Employer Partnerships
+
+
+Global Partnerships
+
+
+Solutions
+
+
+Case Studies
+
+
+Al Baha University
+
+
+MCBS
+
+
+Saudi Electronic University
+
+
+
+
+Current Partnerships
+
+
+
+
+Medical School Partnerships
+
+
+Nurse Preceptor
+
+
+Ohio School District Partnerships
+
+
+
+
+Faculty & Staff
+
+
+Board of Trustees
+
+
+University Leadership
+
+
+University Directory
+
+
+Faculty Profiles
+
+
+President's Welcome
+
+
+Admission Advisors
+
+
+
+
+University Details
+
+
+Accreditation
+
+
+CCNE Accreditation
+
+
+IACBE Accreditation
+
+
+
+
+State Authorization & Professional Licensure Information
+
+
+Our Mission & Values
+
+
+The Four Cornerstones
+
+
+Our History
+
+
+Consumer Information
+
+
+Safety & Security
+
+
+Bookstore
+
+
+Assessment
+
+
+Map & Directions
+
+
+
+
+Franklin Pressroom
+
+
+COVID-19 Updates
+
+
+Students
+
+
+Faculty & Staff
+
+
+Future Students
+
+
+
+
+Events
+
+
+News
+
+
+Request an Expert
+
+
+Presentations & Awards
+
+
+Faculty Awards and Recognitions
+
+
+Speakers' Bureau
+
+
+Event Hosting
+
+
+
+
+Policy Information
+
+
+Title IX
+
+
+Discrimination Harassment & Sexual Misconduct
+
+
+Anti-Hazing Policy
+
+
+Drug Free School & Communities Act
+
+
+Franklin Intervention & Awareness Team
+
+
+Filing Complaints
+
+
+Office of Academic Scholarship
+
+
+Institutional Review Board (IRB)
+
+
+Application & Review Process
+
+
+Cayuse
+
+
+CITI Training
+
+
+Research Review Categories
+
+
+Committee & Policies
+
+
+Documents, Resources & FAQs
+
+
+
+
+Research at Franklin University
+
+
+Programs & Support
+
+
+Resources
+
+
+Research Opportunities
+
+
+About Us
+
+
+
+
+Office of Accessibility Services
+
+
+Combating Copyright Infringement
+
+
+Financial Aid Statement
+
+
+Influenza Information
+
+
+Information Technology Acceptable Use
+
+
+Notice of Privacy Rights (FERPA)
+
+
+Privacy Statement
+
+
+Student Parking
+
+
+Tuition Refund Policy
+
+
+Vaccinations
+
+
+Inclement Weather Policy
+
+
+Transfer Credit Policy & Procedures
+
+
+
+
+Community Engagement
+
+
+Request Your Franklin Transcripts
+
+
+Urbana University Resources
+
+
+Give to Franklin
+
+
+
+
+
+
+I AM A:
+
+
+
+Future Student
+
+
+Potential Partner
+
+
+Current Student
+
+
+Franklin Alumni
+
+
+Potential Donor
+
+
+
+SHORTCUTS:
+
+
+
+myFranklin
+
+
+Locations
+
+
+Online Degrees
+
+
+Degree Programs
+
+
+Documents & Forms
+
+
+FAQS
+
+
+University Directory
+
+
+News
+
+
+Blog
+
+
+
+
+Associated Sites
+
+
+
+FranklinWORKS Marketplace
+
+
+Franklin University Store & Apparel
+
+
+International Institute for Innovative Instruction
+
+
+Leadership Center
+
+
+Global Center for Healthcare Education
+
+
+Center for Public Safety & Cybersecurity Education
+
+
+Best Adult Colleges & Careers Guide
+
+
+Accounting MVP Blog
+
+
+Data & Analytics MVP Blog

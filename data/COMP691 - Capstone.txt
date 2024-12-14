@@ -1,0 +1,21 @@
+COMP691 - Capstone
+Course Title
+Capstone
+Credit Hours
+4
+Course Description
+This course, the final one in the Master of Science - Computer Science program, challenges students to research a current topic of interest in Computer Science and produce an original paper and presentation on the topic. In addition to the research paper, students are introduced to the economics of software development and the tools needed to estimate the cost of a software development project for management in a corporate environment. The last topic in the course is a discussion of ethics as it relates to Information Technology. Current topics in ethics will be discussed through the use of relevant case studies.
+Prerequisites
+Complete the following: 
+COMP611 - Advanced Data Structures and Programming (4)
+COMP620 - Analysis of Algorithms (4)
+COMP630 - Issues in Database Management (4)
+COMP655 - Distributed Systems (4)
+COMP671 - Verification and Testing (4)
+Outcomes
+Research a current topic in computer science
+Synthesize research for a current topic in computer science
+Write a research paper for a current topic in computer science
+Orally present research results
+Apply ethics to situations encountered in information technology
+Apply financial and economic principles to determine the value of software systems

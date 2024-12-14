@@ -1,0 +1,16 @@
+COMP655 - Distributed Systems
+Course Title
+Distributed Systems
+Credit Hours
+4
+Course Description
+This course provides a comprehensive understanding of distributed systems, encompassing both fundamental concepts and practical skills for building modern distributed applications. The course will explore the architecture, design goals, and challenges of distributed systems, covering core principles like processes, transparency, communication, consistency, fault tolerance, and security. Throughout the course, students will gain hands-on experience through labs and a team project, where they will design, develop, containerize and deploy a microservice-based cloud native application using industry-standard tools and technologies.
+Through this course, students will gain in-depth understanding of core concepts of distributed computing, including study of both abstract concepts and practical techniques for building modern distributed applications.
+Prerequisites
+Complete the following: 
+COMP611 - Advanced Data Structures and Programming (4)
+Outcomes
+Explain and compare the fundamental concepts and challenges of distributed systems.
+Analyze and design distributed systems based on specific goals and constraints.
+Design and build microservices-based cloud native distributed applications using industry-standard tools and technologies.
+Deploy and manage distributed applications in a Kubernetes cluster.

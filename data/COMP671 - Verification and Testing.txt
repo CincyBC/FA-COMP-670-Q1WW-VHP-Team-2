@@ -1,0 +1,15 @@
+COMP671 - Verification and Testing
+Course Title
+Verification and Testing
+Credit Hours
+4
+Course Description
+This course focuses on the issues of delivering high-quality software, especially in large complex systems. Topics covered include testing strategies (black box, white box, regression, etc.), unit testing, system integration, system verification and support tools. It also will reinforce the need for requirements that are testable and traceable from the early design stages.
+Prerequisites
+Complete at least 1 of the following: 
+COMP511 - Foundation Data Struc & Obj Orntd Design (4)
+COMP121 - Object-Oriented Data Structures & Algorithms I (4)
+Outcomes
+Determine appropriate test techniques applicable to given software programs
+Construct software tests using appropriate techniques
+Determine the testing and quality metrics of a software program
