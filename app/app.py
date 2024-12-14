@@ -56,9 +56,35 @@ async def start():
     ])
     cl.user_session.set("query_engine", query_engine)
 
-    await cl.Message(
-        author="assistant", content="Hello! I am a Franklin University automated advisor created by Team 2 in Comp-670. How may I assist you?"
-    ).send()
+    # await cl.Message(
+    #     author="assistant", content="Hello! I am a Franklin University automated advisor created by Team 2 in Comp-670. How may I assist you?"
+    # ).send()
+
+@cl.set_starters
+async def set_starters():
+    return [
+        cl.Starter(
+            label="Admissions Guidance",
+            message="Can you help me with the admissions process for Franklin University? Start by asking me if I'm a first-time student, a transfer student, or an international student.",
+            icon="/public/icons/school.svg",
+            ),
+
+        cl.Starter(
+            label="Tuition & Financial Aid",
+            message="Can you provide details about tuition costs and financial aid? Start by asking if I need information about scholarships, military student aid, or other financial resources.",
+            icon="/public/icons/paid.svg",
+            ),
+        cl.Starter(
+            label="University Resources",
+            message="Can you guide me to available student resources, like the library, tutoring services, or mental health support? Start by asking me what kind of help I need.",
+            icon="/public/icons/books.svg",
+            ),
+        cl.Starter(
+            label="University Leadership",
+            message="Can you provide information about the university's leadership? Start by asking if I need to know the University President's name or where to find the names of the University Board members or other faculty.",
+            icon="/public/icons/groups.svg",
+            ),
+        ]
 
 @cl.on_message
 async def main(message: cl.Message):
