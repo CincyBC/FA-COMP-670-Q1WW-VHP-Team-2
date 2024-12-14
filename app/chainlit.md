@@ -1,12 +1,18 @@
-# Team 2's Counseelor Bot 🚀🤖
+# Franklin University - Team #2's Virtual Assistant
 
-Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+Hi there! 👋 
 
-## Useful Links 🔗
+I’m Franklin University's Virtual Assistant bot—I’m here to assist you with all your university-related questions and concerns.
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
+🗨️ Ask me about:
+•    Questions about admissions, financial aid, courses, and so much more
+•    Assist in navigating campus life and student resources
+•    Provide quick updates on events, policies, and academic schedules
+•    Connections to the right resources are offices when you need personalized support
 
-## Welcome screen
+💡 What makes me helpful?
+•    24/7 Support: No need to wait-- get the accurate answers instantly, anytime
+•    No Waiting: Skip the wait and get immediate help
+•    Your Personal Guide: I’m designed to make navigating university life easier for you
 
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+Your time is valuable—let’s make finding answers quick and effortless. Just ask, and I’ll take it from there!
