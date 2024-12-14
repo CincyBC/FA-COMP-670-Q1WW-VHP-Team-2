@@ -1,0 +1,24 @@
+COMP101 - Problem Solving With Computing
+Course Title
+Problem Solving With Computing
+Credit Hours
+2
+Course Description
+Many organizations today utilize computers and information systems to store, organize, analyze, and summarize data to solve problems.  As a result, computing is a tool that can benefit students in many different fields.  At the heart of solving problems with computers is the study of structured thinking using algorithms.  This course is designed for students with no prior programming experience and teaches the building blocks of algorithms, including variables, expressions, selection and repetition structures, functions and parameters, and array processing.
+Prerequisites
+Complete all of the following
+Complete at least 1 of the following: 
+PF121 - Basic Learning Strategies (2)
+PF321 - Learning Strategies (2)
+Complete the following: 
+MATH150 - Fundamental Algebra (4)
+Outcomes
+ Describe what a program is, how to write a program, and how to handle program errors
+ Produce a working program that solves a significant problem
+ Test and debug programs
+ Employ modularization techniques in files and functions
+ Employ existing libraries to create larger programs
+ Use relational and Boolean operators to control the flow of a program
+ Recognize the use of and apply iteration for repeated control flow
+ Learn how to formulate problems, think creatively about solutions, and express a solution clearly and accurately
+ Explore the breadth of impact of computer science in broader society

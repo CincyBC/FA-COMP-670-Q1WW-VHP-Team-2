@@ -1,0 +1,21 @@
+COMP111 - Introduction to Computer Science & Object-Oriented Programming
+Course Title
+Introduction to Computer Science & Object-Oriented Programming
+Credit Hours
+4
+Course Description
+This course provides an introduction to software construction using an object-oriented approach. The student learns and reflects on problem analysis, object-oriented design, implementation, and testing. To support the concepts and principles of software construction, the student will design, code, test, debug, and document programs using the Java programming language. Basic data types, control structures, methods, and classes are used as the building blocks for reusable software components. Automated unit testing, programming style, and industrial practice are emphasized in addition to the object-oriented techniques of abstraction, encapsulation, and composition. Note, this course has proctored exam(s).
+Prerequisites
+Complete all of the following
+Complete at least 1 of the following: 
+PF121 - Basic Learning Strategies (2)
+PF321 - Learning Strategies (2)
+Complete the following: 
+COMP101 - Problem Solving With Computing (2)
+Passing the programming aptitude and competency exam can fulfill the COMP 101 requirement.
+Outcomes
+Apply the object-oriented principles of encapsulation, composition, and abstraction to analyze problems and design solutions
+Use classes, objects, and methods to implement object-oriented designs in Java
+Identify and use appropriate data types and control structures within class and method implementations
+Incrementally test and document implementations using industry accepted approaches
+Discuss relationships between the disparate topic areas addressed in this course

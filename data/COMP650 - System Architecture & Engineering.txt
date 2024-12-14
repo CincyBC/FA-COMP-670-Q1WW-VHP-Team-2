@@ -1,0 +1,16 @@
+COMP650 - System Architecture & Engineering
+Course Title
+System Architecture & Engineering
+Credit Hours
+4
+Course Description
+This course covers topics in software systems engineering. Its scope is the design of the overall architecture for software systems with emphasis on distributed architectures. The issues in an architecture centered software development cycle and project management are addressed.
+Prerequisites
+Complete the following: 
+COMP645 - Object-Oriented Design & Practice (4)
+Outcomes
+Document an existing software architecture
+Design a software architecture
+Design a software architecture review process
+Evaluate software architecture
+Evaluate existing software architecture journal articles

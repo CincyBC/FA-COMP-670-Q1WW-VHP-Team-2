@@ -1,0 +1,17 @@
+COMP645 - Object-Oriented Design & Practice
+Course Title
+Object-Oriented Design & Practice
+Credit Hours
+4
+Course Description
+This course surveys current practices in software development and software design, especially in the area of object-oriented design. The course will examine and contrast current and leading edge methodologies and practices, including agile, extreme programming, test-driven design, patterns, aspect-oriented programming, model-driven architecture, Unified Modeling Language, and integrated development environments.
+Prerequisites
+Complete at least 1 of the following: 
+COMP511 - Foundation Data Struc & Obj Orntd Design (4)
+COMP121 - Object-Oriented Data Structures & Algorithms I (4)
+Outcomes
+Distinguish current software development methodologies
+Judge the appropriate application of current software development methodologies
+Apply an appropriate object-oriented design methodology to solve software design problems
+Critique software designs using OO principles
+Explore current tool suites used to construct software applications
