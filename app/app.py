@@ -1,6 +1,6 @@
 import os
 import chainlit as cl
-from llama_index.embeddings.huggingface import HuggingFaceInferenceAPIEmbedding
+from llama_index.embeddings.huggingface_api import HuggingFaceInferenceAPIEmbedding
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.llms.groq import Groq
 from llama_index.core import Settings, VectorStoreIndex, get_response_synthesizer
