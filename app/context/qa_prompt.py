@@ -22,7 +22,7 @@ qa_prompt = PromptTemplate(
 refine_template = PromptTemplate(
     "Using the context below, refine the following existing answer using the provided context to assist the user, but do not mention that it is coming from context.\n"
     "If the context isn't helpful, just repeat the existing answer and nothing more.\n"
-    "Do not say 'According to the information provided,' or 'Based on the information given,' or 'According to the context information.' The information you have from the context is yours.\n"
+    "It is forbidden to say 'According to the information provided,' or 'Based on the information given,' or 'According to the context information.' The information you have from the context is yours.\n"
     "\n--------------------\n"
     "{context_msg}"
     "\n--------------------\n"
