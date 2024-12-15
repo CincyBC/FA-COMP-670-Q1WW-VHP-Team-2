@@ -8,8 +8,7 @@ from llama_index.core.base.llms.types import ChatMessage
 import qdrant_client
 import logging
 from llama_index.vector_stores.qdrant import QdrantVectorStore
-from context.qa_prompt import qa_prompt
-from context.rag_string_query_engine import RAGStringQueryEngine
+from context.qa_prompt import refine_template
 from context.opening_context import opening_context
 
 @cl.on_chat_start
@@ -41,8 +40,8 @@ async def start():
     Settings.num_output = 512
     Settings.context_window = 3900
 
-    # This section of code creates the index and retriever
-    chat_engine = VectorStoreIndex.from_vector_store(vector_store=vector_store, settings=Settings).as_chat_engine(chat_mode="context", llm=llm, verbose=True)
+    # This section of code creates the chat index
+    chat_engine = VectorStoreIndex.from_vector_store(vector_store=vector_store, settings=Settings).as_chat_engine(chat_mode="context", llm=llm, verbose=True, context_refine_template=refine_template)
 
     #This final section gets the conversation started
     cl.user_session.set("conversation_history", [ChatMessage(role="system", content=opening_context)])
@@ -51,6 +50,7 @@ async def start():
 
 @cl.set_starters
 async def set_starters():
+    # This section defines starter prompts users can click on to start the conversation
     return [
         cl.Starter(
             label="Admissions Guidance",
@@ -78,22 +78,22 @@ async def set_starters():
 @cl.on_message
 async def main(message: cl.Message):
 
-    # This section of code logs the conversation history, which is not really utilized
+    # This section of code logs the conversation history
     conversation_history = cl.user_session.get("conversation_history")
-    logging.info(f"User Message: {message.content}")
-    message = ChatMessage(role="user", content=message.content)
     
-    # This section of code gets the query engine and sends the response
+    logging.info(f"User Message: {message.content}")
+    message = ChatMessage(role=str(message.author).lower(), content=message.content)
+    
+    # This section of code gets the query engine and displays the response
     query_engine = cl.user_session.get("query_engine") 
     
-    res = query_engine.chat(chat_history=conversation_history, message=message.content)                   
+    res = query_engine.stream_chat(chat_history=conversation_history, message=message.content)                   
     
     conversation_history.append(message)
     msg = cl.Message(content="", author="assistant")
-    logging.info(res)
-    for token in res.response.split():
-        await msg.stream_token(token + " ")
-
+  
+    for token in res.response_gen:
+        await msg.stream_token(token)
     await msg.send()
     logging.info(f"Assistant Response: {res.response}")
 
