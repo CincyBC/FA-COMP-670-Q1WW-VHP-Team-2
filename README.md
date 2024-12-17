@@ -10,6 +10,6 @@ Get started
 3. Open the repository in VSCode and select open in devcontainer. The environment should build from there.
 4. Run the following command to get the app running:
 `chainlit run app/app.py -w --port 8082`
-5. Open the browser and go to http://localhost:8002/
+5. Open the browser and go to http://localhost:8082/
 
 

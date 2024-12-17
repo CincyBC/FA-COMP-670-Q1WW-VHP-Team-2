@@ -1,13 +1,14 @@
 import os
 import chainlit as cl
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.embeddings.huggingface_api import HuggingFaceInferenceAPIEmbedding
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.llms.groq import Groq
 from llama_index.core import Settings, VectorStoreIndex, get_response_synthesizer
+from llama_index.core.base.llms.types import ChatMessage
 import qdrant_client
 import logging
 from llama_index.vector_stores.qdrant import QdrantVectorStore
-from context.rag_string_query_engine import RAGStringQueryEngine, qa_prompt
+from context.qa_prompt import refine_template
 from context.opening_context import opening_context
 
 @cl.on_chat_start
@@ -30,58 +31,46 @@ async def start():
     Settings.llm = llm
 
     # This section of code sets up the embedding model
-    Settings.embed_model = HuggingFaceEmbedding(
-        model_name="mixedbread-ai/mxbai-embed-large-v1"
+    Settings.embed_model = HuggingFaceInferenceAPIEmbedding(
+        model_name="mixedbread-ai/mxbai-embed-large-v1",
+        token=os.environ['HF_TOKEN'],
     )
     Settings.streaming = True
     Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
     Settings.num_output = 512
     Settings.context_window = 3900
 
-    # This section of code creates the index and retriever
-    index = VectorStoreIndex.from_vector_store(vector_store=vector_store, settings=Settings)
-    retriever = index.as_retriever()
-    synthesizer = get_response_synthesizer(response_mode="compact")
-
-    query_engine = RAGStringQueryEngine(
-        retriever=retriever,
-        response_synthesizer=synthesizer,
-        qa_prompt=qa_prompt,
-        llm=llm,
-    )
+    # This section of code creates the chat index
+    chat_engine = VectorStoreIndex.from_vector_store(vector_store=vector_store, settings=Settings).as_chat_engine(chat_mode="context", llm=llm, verbose=True, context_refine_template=refine_template)
 
     #This final section gets the conversation started
-    cl.user_session.set("conversation_history", [
-        {"role": "system", "content": opening_context}
-    ])
-    cl.user_session.set("query_engine", query_engine)
+    cl.user_session.set("conversation_history", [ChatMessage(role="system", content=opening_context)])
+    cl.user_session.set("query_engine", chat_engine)
 
-    # await cl.Message(
-    #     author="assistant", content="Hello! I am a Franklin University automated advisor created by Team 2 in Comp-670. How may I assist you?"
-    # ).send()
 
 @cl.set_starters
 async def set_starters():
+    # This section defines starter prompts users can click on to start the conversation
     return [
         cl.Starter(
             label="Admissions Guidance",
-            message="Can you help me with the admissions process for Franklin University? Start by asking me if I'm a first-time student, a transfer student, or an international student.",
+            message="Can you help me with the admissions process for Franklin University?",
             icon="/public/icons/school.svg",
             ),
 
         cl.Starter(
             label="Tuition & Financial Aid",
-            message="Can you provide details about tuition costs and financial aid? Start by asking if I need information about scholarships, military student aid, or other financial resources.",
+            message="Can you provide details about tuition costs and financial aid?",
             icon="/public/icons/paid.svg",
             ),
         cl.Starter(
             label="University Resources",
-            message="Can you guide me to available student resources, like the library, tutoring services, or mental health support? Start by asking me what kind of help I need.",
+            message="Can you guide me to available student resources, like the library, tutoring services, or mental health support?",
             icon="/public/icons/books.svg",
             ),
         cl.Starter(
             label="University Leadership",
-            message="Can you provide information about the university's leadership? Start by asking if I need to know the University President's name or where to find the names of the University Board members or other faculty.",
+            message="Can you provide information about the university's leadership? Who is the University President?",
             icon="/public/icons/groups.svg",
             ),
         ]
@@ -89,23 +78,26 @@ async def set_starters():
 @cl.on_message
 async def main(message: cl.Message):
 
-    # This section of code logs the conversation history, which is not really utilized
+    # This section of code logs the conversation history
     conversation_history = cl.user_session.get("conversation_history")
+    
     logging.info(f"User Message: {message.content}")
-    conversation_history.append({"role": "user", "content": message.content})
-
-    # This section of code gets the query engine and sends the response
-    query_engine = cl.user_session.get("query_engine") # type: RetrieverQueryEngine
-
-    res = await cl.make_async(query_engine.query)(message.content)
+    message = ChatMessage(role=str(message.author).lower(), content=message.content)
+    
+    # This section of code gets the query engine and displays the response
+    query_engine = cl.user_session.get("query_engine") 
+    
+    res = query_engine.stream_chat(chat_history=conversation_history, message=message.content)                   
+    
+    conversation_history.append(message)
     msg = cl.Message(content="", author="assistant")
-    for token in res.response.split():
-        await msg.stream_token(token + " ")
-
+  
+    for token in res.response_gen:
+        await msg.stream_token(token)
     await msg.send()
     logging.info(f"Assistant Response: {res.response}")
 
     # This section of code logs the conversation history
-    conversation_history.append({"role": "assistant", "content": res.response})
+    conversation_history.append(ChatMessage(role="assistant", content=res.response))
     cl.user_session.set("conversation_history", conversation_history)
 
